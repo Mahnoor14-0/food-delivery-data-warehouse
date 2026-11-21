@@ -1,0 +1,5 @@
+channel_code,channel_name,platform_type,is_self_service
+IOS,iOS App,Mobile App,TRUE
+ANDROID,Android App,Mobile App,TRUE
+WEB,Website,Web,TRUE
+CALLCTR,Call Center,Phone,FALSE

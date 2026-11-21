@@ -1,0 +1,6 @@
+payment_method_code,payment_method_name,payment_type,is_prepaid,is_online_payment
+COD,Cash on Delivery,Cash,FALSE,FALSE
+CREDIT,Credit Card,Card,TRUE,TRUE
+DEBIT,Debit Card,Card,TRUE,TRUE
+WALLET,Digital Wallet,Digital Wallet,TRUE,TRUE
+BANK,Bank Transfer,Bank,TRUE,TRUE

@@ -1,0 +1,154 @@
+zone_id,zone_name,zone_type,service_tier,city,region,country,centroid_latitude,centroid_longitude
+ZN-0001,Agra Zone 01,Mixed,Core,Agra,Uttar Pradesh,India,27.15,77.95
+ZN-0002,Agra Zone 02,Residential,Core,Agra,Uttar Pradesh,India,27.15,78.05
+ZN-0003,Agra Zone 03,Residential,Core,Agra,Uttar Pradesh,India,27.25,78.05
+ZN-0004,Agra Zone 04,Residential,Core,Agra,Uttar Pradesh,India,27.25,78.15
+ZN-0005,Agra Zone 05,Mixed,Core,Agra,Uttar Pradesh,India,27.35,78.15
+ZN-0006,Prayagraj Zone 01,Mixed,Core,Prayagraj,Uttar Pradesh,India,25.45,81.85
+ZN-0007,Prayagraj Zone 02,Mixed,Core,Prayagraj,Uttar Pradesh,India,25.45,81.95
+ZN-0008,Prayagraj Zone 03,Residential,Core,Prayagraj,Uttar Pradesh,India,25.55,81.85
+ZN-0009,Prayagraj Zone 04,Commercial,Core,Prayagraj,Uttar Pradesh,India,25.55,81.95
+ZN-0010,Prayagraj Zone 05,Residential,Expansion,Prayagraj,Uttar Pradesh,India,25.55,82.05
+ZN-0011,Aurangabad Zone 01,Residential,Core,Aurangabad,Maharashtra,India,19.85,75.35
+ZN-0012,Aurangabad Zone 02,Commercial,Core,Aurangabad,Maharashtra,India,19.95,75.35
+ZN-0013,Aurangabad Zone 03,Residential,Core,Aurangabad,Maharashtra,India,19.95,75.45
+ZN-0014,Aurangabad Zone 04,Residential,Core,Aurangabad,Maharashtra,India,20.05,75.45
+ZN-0015,Aurangabad Zone 05,Mixed,Core,Aurangabad,Maharashtra,India,20.05,75.55
+ZN-0016,Bengaluru Zone 01,Commercial,Core,Bengaluru,Karnataka,India,12.95,77.55
+ZN-0017,Bengaluru Zone 02,Residential,Core,Bengaluru,Karnataka,India,12.95,77.65
+ZN-0018,Bengaluru Zone 03,Commercial,Core,Bengaluru,Karnataka,India,12.95,77.75
+ZN-0019,Bengaluru Zone 04,Mixed,Core,Bengaluru,Karnataka,India,13.05,77.55
+ZN-0020,Bengaluru Zone 05,Residential,Core,Bengaluru,Karnataka,India,13.05,77.65
+ZN-0021,Bengaluru Zone 06,Mixed,Core,Bengaluru,Karnataka,India,13.05,77.75
+ZN-0022,Bengaluru Zone 07,Mixed,Core,Bengaluru,Karnataka,India,13.05,77.85
+ZN-0023,Bengaluru Zone 08,Residential,Core,Bengaluru,Karnataka,India,13.15,77.65
+ZN-0024,Bengaluru Zone 09,Residential,Core,Bengaluru,Karnataka,India,13.15,77.75
+ZN-0025,Bengaluru Zone 10,Campus,Core,Bengaluru,Karnataka,India,13.15,77.85
+ZN-0026,Bhopal Zone 01,Residential,Core,Bhopal,Madhya Pradesh,India,23.15,77.45
+ZN-0027,Bhopal Zone 02,Residential,Core,Bhopal,Madhya Pradesh,India,23.25,77.35
+ZN-0028,Bhopal Zone 03,Residential,Core,Bhopal,Madhya Pradesh,India,23.25,77.45
+ZN-0029,Bhopal Zone 04,Mixed,Core,Bhopal,Madhya Pradesh,India,23.25,77.55
+ZN-0030,Bhopal Zone 05,Mixed,Core,Bhopal,Madhya Pradesh,India,23.35,77.45
+ZN-0031,Bhopal Zone 06,Mixed,Core,Bhopal,Madhya Pradesh,India,23.35,77.55
+ZN-0032,Chennai Zone 01,Mixed,Core,Chennai,Tamil Nadu,India,12.95,80.25
+ZN-0033,Chennai Zone 02,Commercial,Core,Chennai,Tamil Nadu,India,13.05,80.15
+ZN-0034,Chennai Zone 03,Campus,Core,Chennai,Tamil Nadu,India,13.05,80.25
+ZN-0035,Chennai Zone 04,Residential,Core,Chennai,Tamil Nadu,India,13.05,80.35
+ZN-0036,Chennai Zone 05,Commercial,Core,Chennai,Tamil Nadu,India,13.15,80.25
+ZN-0037,Chennai Zone 06,Mixed,Core,Chennai,Tamil Nadu,India,13.15,80.35
+ZN-0038,Chennai Zone 07,Mixed,Core,Chennai,Tamil Nadu,India,13.15,80.45
+ZN-0039,Chennai Zone 08,Mixed,Core,Chennai,Tamil Nadu,India,13.25,80.35
+ZN-0040,Coimbatore Zone 01,Commercial,Core,Coimbatore,Tamil Nadu,India,10.95,76.95
+ZN-0041,Coimbatore Zone 02,Mixed,Core,Coimbatore,Tamil Nadu,India,10.95,77.05
+ZN-0042,Coimbatore Zone 03,Residential,Core,Coimbatore,Tamil Nadu,India,11.05,76.95
+ZN-0043,Coimbatore Zone 04,Residential,Core,Coimbatore,Tamil Nadu,India,11.05,77.05
+ZN-0044,Coimbatore Zone 05,Residential,Core,Coimbatore,Tamil Nadu,India,11.05,77.15
+ZN-0045,Coimbatore Zone 06,Residential,Core,Coimbatore,Tamil Nadu,India,11.15,77.05
+ZN-0046,Coimbatore Zone 07,Residential,Core,Coimbatore,Tamil Nadu,India,11.15,77.15
+ZN-0047,Dehradun Zone 01,Residential,Core,Dehradun,Uttarakhand,India,30.35,78.05
+ZN-0048,Dehradun Zone 02,Residential,Core,Dehradun,Uttarakhand,India,30.35,78.15
+ZN-0049,Dehradun Zone 03,Mixed,Core,Dehradun,Uttarakhand,India,30.45,78.15
+ZN-0050,Dehradun Zone 04,Residential,Core,Dehradun,Uttarakhand,India,30.45,78.25
+ZN-0051,Dehradun Zone 05,Residential,Core,Dehradun,Uttarakhand,India,30.55,78.25
+ZN-0052,Goa Zone 01,Residential,Core,Goa,Goa,India,15.15,73.95
+ZN-0053,Goa Zone 02,Residential,Core,Goa,Goa,India,15.25,74.05
+ZN-0054,Goa Zone 03,Campus,Core,Goa,Goa,India,15.35,73.95
+ZN-0055,Goa Zone 04,Mixed,Core,Goa,Goa,India,15.35,74.05
+ZN-0056,Goa Zone 05,Mixed,Core,Goa,Goa,India,15.45,73.85
+ZN-0057,Goa Zone 06,Residential,Core,Goa,Goa,India,15.45,74.05
+ZN-0058,Goa Zone 07,Mixed,Core,Goa,Goa,India,15.55,73.75
+ZN-0059,Goa Zone 08,Residential,Core,Goa,Goa,India,15.55,73.85
+ZN-0060,Goa Zone 09,Residential,Core,Goa,Goa,India,15.55,73.95
+ZN-0061,Goa Zone 10,Campus,Core,Goa,Goa,India,15.65,73.75
+ZN-0062,Goa Zone 11,Mixed,Core,Goa,Goa,India,15.65,73.85
+ZN-0063,Goa Zone 12,Commercial,Core,Goa,Goa,India,15.65,73.95
+ZN-0064,Goa Zone 13,Mixed,Core,Goa,Goa,India,15.75,73.85
+ZN-0065,Hyderabad Zone 01,Mixed,Core,Hyderabad,Telangana,India,17.45,78.35
+ZN-0066,Hyderabad Zone 02,Mixed,Core,Hyderabad,Telangana,India,17.45,78.45
+ZN-0067,Hyderabad Zone 03,Residential,Core,Hyderabad,Telangana,India,17.45,78.55
+ZN-0068,Hyderabad Zone 04,Residential,Core,Hyderabad,Telangana,India,17.55,78.45
+ZN-0069,Hyderabad Zone 05,Residential,Core,Hyderabad,Telangana,India,17.55,78.55
+ZN-0070,Hyderabad Zone 06,Residential,Core,Hyderabad,Telangana,India,17.55,78.65
+ZN-0071,Hyderabad Zone 07,Residential,Core,Hyderabad,Telangana,India,17.65,78.65
+ZN-0072,Indore Zone 01,Campus,Core,Indore,Madhya Pradesh,India,22.65,75.85
+ZN-0073,Indore Zone 02,Mixed,Core,Indore,Madhya Pradesh,India,22.65,75.95
+ZN-0074,Indore Zone 03,Residential,Core,Indore,Madhya Pradesh,India,22.75,75.85
+ZN-0075,Indore Zone 04,Mixed,Core,Indore,Madhya Pradesh,India,22.75,75.95
+ZN-0076,Indore Zone 05,Residential,Core,Indore,Madhya Pradesh,India,22.75,76.05
+ZN-0077,Indore Zone 06,Campus,Core,Indore,Madhya Pradesh,India,22.85,75.95
+ZN-0078,Indore Zone 07,Commercial,Core,Indore,Madhya Pradesh,India,22.85,76.05
+ZN-0079,Jaipur Zone 01,Residential,Core,Jaipur,Rajasthan,India,26.75,75.85
+ZN-0080,Jaipur Zone 02,Residential,Core,Jaipur,Rajasthan,India,26.85,75.85
+ZN-0081,Jaipur Zone 03,Commercial,Core,Jaipur,Rajasthan,India,26.85,75.95
+ZN-0082,Jaipur Zone 04,Residential,Core,Jaipur,Rajasthan,India,26.95,75.75
+ZN-0083,Jaipur Zone 05,Commercial,Core,Jaipur,Rajasthan,India,26.95,75.85
+ZN-0084,Jaipur Zone 06,Mixed,Core,Jaipur,Rajasthan,India,26.95,75.95
+ZN-0085,Jaipur Zone 07,Residential,Core,Jaipur,Rajasthan,India,27.05,75.85
+ZN-0086,Jaipur Zone 08,Residential,Core,Jaipur,Rajasthan,India,27.05,75.95
+ZN-0087,Kanpur Zone 01,Campus,Core,Kanpur,Uttar Pradesh,India,26.45,80.25
+ZN-0088,Kanpur Zone 02,Commercial,Core,Kanpur,Uttar Pradesh,India,26.45,80.35
+ZN-0089,Kanpur Zone 03,Residential,Expansion,Kanpur,Uttar Pradesh,India,26.45,80.45
+ZN-0090,Kanpur Zone 04,Residential,Core,Kanpur,Uttar Pradesh,India,26.55,80.35
+ZN-0091,Kanpur Zone 05,Residential,Core,Kanpur,Uttar Pradesh,India,26.55,80.45
+ZN-0092,Kanpur Zone 06,Mixed,Core,Kanpur,Uttar Pradesh,India,26.55,80.55
+ZN-0093,Kanpur Zone 07,Mixed,Core,Kanpur,Uttar Pradesh,India,26.65,80.45
+ZN-0094,Kanpur Zone 08,Commercial,Core,Kanpur,Uttar Pradesh,India,26.65,80.55
+ZN-0095,Kochi Zone 01,Residential,Core,Kochi,Kerala,India,10.05,76.25
+ZN-0096,Kochi Zone 02,Residential,Core,Kochi,Kerala,India,10.05,76.35
+ZN-0097,Kochi Zone 03,Campus,Core,Kochi,Kerala,India,10.05,76.45
+ZN-0098,Kochi Zone 04,Commercial,Core,Kochi,Kerala,India,10.15,76.35
+ZN-0099,Kochi Zone 05,Campus,Core,Kochi,Kerala,India,10.15,76.45
+ZN-0100,Kochi Zone 06,Mixed,Core,Kochi,Kerala,India,9.95,76.25
+ZN-0101,Kochi Zone 07,Residential,Core,Kochi,Kerala,India,9.95,76.35
+ZN-0102,Kolkata Zone 01,Mixed,Core,Kolkata,West Bengal,India,22.55,88.35
+ZN-0103,Kolkata Zone 02,Mixed,Core,Kolkata,West Bengal,India,22.55,88.45
+ZN-0104,Kolkata Zone 03,Commercial,Core,Kolkata,West Bengal,India,22.65,88.35
+ZN-0105,Kolkata Zone 04,Residential,Core,Kolkata,West Bengal,India,22.65,88.45
+ZN-0106,Kolkata Zone 05,Mixed,Core,Kolkata,West Bengal,India,22.65,88.55
+ZN-0107,Kolkata Zone 06,Residential,Core,Kolkata,West Bengal,India,22.75,88.55
+ZN-0108,Ludhiana Zone 01,Commercial,Core,Ludhiana,Punjab,India,30.85,75.75
+ZN-0109,Ludhiana Zone 02,Commercial,Core,Ludhiana,Punjab,India,30.85,75.85
+ZN-0110,Ludhiana Zone 03,Campus,Core,Ludhiana,Punjab,India,30.95,75.85
+ZN-0111,Ludhiana Zone 04,Mixed,Core,Ludhiana,Punjab,India,30.95,75.95
+ZN-0112,Ludhiana Zone 05,Residential,Core,Ludhiana,Punjab,India,31.05,75.95
+ZN-0113,Mumbai Zone 01,Commercial,Core,Mumbai,Maharashtra,India,18.95,72.85
+ZN-0114,Mumbai Zone 02,Residential,Core,Mumbai,Maharashtra,India,18.95,72.95
+ZN-0115,Mumbai Zone 03,Campus,Core,Mumbai,Maharashtra,India,19.05,72.85
+ZN-0116,Mumbai Zone 04,Mixed,Core,Mumbai,Maharashtra,India,19.05,72.95
+ZN-0117,Mumbai Zone 05,Residential,Core,Mumbai,Maharashtra,India,19.15,72.85
+ZN-0118,Mumbai Zone 06,Mixed,Core,Mumbai,Maharashtra,India,19.15,72.95
+ZN-0119,Mumbai Zone 07,Mixed,Core,Mumbai,Maharashtra,India,19.25,72.85
+ZN-0120,Mumbai Zone 08,Residential,Core,Mumbai,Maharashtra,India,19.25,72.95
+ZN-0121,Mumbai Zone 09,Mixed,Core,Mumbai,Maharashtra,India,19.25,73.05
+ZN-0122,Mumbai Zone 10,Commercial,Core,Mumbai,Maharashtra,India,19.35,72.85
+ZN-0123,Mumbai Zone 11,Mixed,Core,Mumbai,Maharashtra,India,19.35,72.95
+ZN-0124,Mumbai Zone 12,Commercial,Core,Mumbai,Maharashtra,India,19.35,73.05
+ZN-0125,Mumbai Zone 13,Residential,Core,Mumbai,Maharashtra,India,19.35,73.15
+ZN-0126,Mysuru Zone 01,Residential,Core,Mysuru,Karnataka,India,12.25,76.65
+ZN-0127,Mysuru Zone 02,Residential,Core,Mysuru,Karnataka,India,12.35,76.65
+ZN-0128,Mysuru Zone 03,Campus,Core,Mysuru,Karnataka,India,12.35,76.75
+ZN-0129,Mysuru Zone 04,Mixed,Core,Mysuru,Karnataka,India,12.45,76.65
+ZN-0130,Mysuru Zone 05,Mixed,Core,Mysuru,Karnataka,India,12.45,76.75
+ZN-0131,Pune Zone 01,Residential,Core,Pune,Maharashtra,India,18.55,73.75
+ZN-0132,Pune Zone 02,Residential,Core,Pune,Maharashtra,India,18.55,73.85
+ZN-0133,Pune Zone 03,Mixed,Core,Pune,Maharashtra,India,18.55,73.95
+ZN-0134,Pune Zone 04,Campus,Core,Pune,Maharashtra,India,18.65,73.75
+ZN-0135,Pune Zone 05,Residential,Core,Pune,Maharashtra,India,18.65,73.85
+ZN-0136,Pune Zone 06,Commercial,Core,Pune,Maharashtra,India,18.65,73.95
+ZN-0137,Pune Zone 07,Residential,Core,Pune,Maharashtra,India,18.65,74.05
+ZN-0138,Pune Zone 08,Mixed,Core,Pune,Maharashtra,India,18.75,73.85
+ZN-0139,Pune Zone 09,Mixed,Core,Pune,Maharashtra,India,18.75,73.95
+ZN-0140,Ranchi Zone 01,Residential,Core,Ranchi,Jharkhand,India,23.35,85.35
+ZN-0141,Ranchi Zone 02,Commercial,Core,Ranchi,Jharkhand,India,23.45,85.35
+ZN-0142,Ranchi Zone 03,Commercial,Core,Ranchi,Jharkhand,India,23.45,85.45
+ZN-0143,Ranchi Zone 04,Residential,Core,Ranchi,Jharkhand,India,23.55,85.45
+ZN-0144,Ranchi Zone 05,Mixed,Core,Ranchi,Jharkhand,India,23.55,85.55
+ZN-0145,Surat Zone 01,Commercial,Core,Surat,Gujarat,India,21.15,72.75
+ZN-0146,Surat Zone 02,Residential,Core,Surat,Gujarat,India,21.15,72.85
+ZN-0147,Surat Zone 03,Commercial,Core,Surat,Gujarat,India,21.25,72.85
+ZN-0148,Surat Zone 04,Mixed,Core,Surat,Gujarat,India,21.25,72.95
+ZN-0149,Surat Zone 05,Residential,Core,Surat,Gujarat,India,21.35,72.95
+ZN-0150,Vadodara Zone 01,Residential,Core,Vadodara,Gujarat,India,22.35,73.15
+ZN-0151,Vadodara Zone 02,Campus,Core,Vadodara,Gujarat,India,22.35,73.25
+ZN-0152,Vadodara Zone 03,Mixed,Core,Vadodara,Gujarat,India,22.45,73.25
+ZN-0153,Vadodara Zone 04,Commercial,Core,Vadodara,Gujarat,India,22.45,73.35

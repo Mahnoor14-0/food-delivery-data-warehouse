@@ -1,0 +1,7 @@
+order_status_code,order_status_name,status_group,is_final_status,counts_as_revenue
+DELIVERED,Delivered,Completed,TRUE,TRUE
+CXL_CUST,Cancelled by Customer,Cancelled,TRUE,FALSE
+CXL_REST,Cancelled by Restaurant,Cancelled,TRUE,FALSE
+CXL_PLAT,Cancelled by Platform,Cancelled,TRUE,FALSE
+FAILED,Failed Delivery,Failed,TRUE,FALSE
+IN_PROGRESS,In Progress,Open,FALSE,FALSE

@@ -1,0 +1,12 @@
+reason_code,reason_name,reason_category,cancelled_by,is_preventable
+NOT_CXL,Not Cancelled,None,None,FALSE
+CHG_MIND,Changed mind,Customer,Customer,FALSE
+DUP_ORD,Duplicate order,Customer,Customer,FALSE
+WRONG_ADDR,Wrong address,Customer,Customer,FALSE
+CUST_UNREACH,Customer unreachable,Customer,Courier,FALSE
+PAY_FAIL,Payment failed,Payment,System,FALSE
+RST_CLOSED,Restaurant closed,Restaurant,Restaurant,TRUE
+ITEM_UNAV,Item unavailable,Restaurant,Restaurant,TRUE
+LONG_WAIT,Long wait,Platform,Customer,TRUE
+CRR_UNAV,Courier unavailable,Courier,Platform,TRUE
+VEH_BREAK,Vehicle breakdown,Courier,Courier,TRUE

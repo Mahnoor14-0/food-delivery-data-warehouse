@@ -1,0 +1,1321 @@
+snapshot_date,restaurant_id,restaurant_name,brand_name,chain_type,primary_cuisine,secondary_cuisine,is_cloud_kitchen,onboarding_date,city,zone_name,price_tier,partner_tier,commission_rate_pct,contract_status
+2022-02-11,AGR-R01,Sunrise Kitchen,Sunrise Kitchen,Independent,Mughlai & Awadhi,Maharashtrian,False,2019-02-15,Agra,Agra Zone 02,Mid,Standard,20,Active
+2022-02-11,AGR-R010,Lucky Rasoi,Lucky Rasoi,Independent,Punjabi,Maharashtrian,False,2019-06-15,Agra,Agra Zone 02,Budget,Gold,18,Active
+2022-02-11,AGR-R02,Punjabi Tadka - Hi-Tech Park,Punjabi Tadka,Chain,Punjabi,None,True,2021-08-04,Agra,Unknown,Budget,Platinum,15,Active
+2022-02-11,AGR-R03,Krishna Dhaba,Krishna Dhaba,Independent,Punjabi,Maharashtrian,False,2020-10-01,Agra,Agra Zone 02,Mid,Standard,20,Active
+2022-02-11,AGR-R04,Sharma Kitchen,Sharma Kitchen,Independent,South Indian,None,False,2020-09-14,Agra,Agra Zone 01,Budget,Standard,20,Active
+2022-02-11,AGR-R05,Sagar Dhaba,Sagar Dhaba,Independent,Rajasthani,None,False,2018-07-05,Agra,Agra Zone 03,Mid,Gold,18,Active
+2022-02-11,AGR-R06,Ganesh Kitchen,Ganesh Kitchen,Independent,Mughlai & Awadhi,Regional Indian,True,2020-02-26,Agra,Unknown,Mid,Standard,20,Active
+2022-02-11,AGR-R07,Gupta Dhaba,Gupta Dhaba,Independent,Gujarati,Punjabi,False,2019-01-24,Agra,Agra Zone 02,Budget,Platinum,15,Active
+2022-02-11,AGR-R08,Sagar Dhaba,Sagar Dhaba,Independent,Punjabi,None,False,2020-10-20,Agra,Agra Zone 02,Mid,Gold,18,Active
+2022-02-11,AGR-R09,Nawabi Handi - Main Road,Nawabi Handi,Chain,Mughlai & Awadhi,Punjabi,True,2018-08-31,Agra,Unknown,Budget,Gold,18,Active
+2022-02-11,AGR-R11,Royal Corner,Royal Corner,Independent,Mughlai & Awadhi,None,False,2018-03-17,Agra,Agra Zone 02,Mid,Gold,18,Active
+2022-02-11,AGR-R12,Mishti & More - Station Road,Mishti & More,Chain,Bengali & East Indian,Rajasthani,True,2019-09-22,Agra,Agra Zone 02,Premium,Standard,20,Active
+2022-02-11,AGR-R13,Shree Dhaba,Shree Dhaba,Independent,Punjabi,None,False,2019-03-28,Agra,Agra Zone 02,Budget,Standard,20,Active
+2022-02-11,AGR-R14,Moti Dhaba,Moti Dhaba,Independent,Punjabi,Regional Indian,False,2018-10-09,Agra,Agra Zone 02,Mid,Platinum,15,Active
+2022-02-11,AGR-R15,Shree Dhaba,Shree Dhaba,Independent,Regional Indian,Punjabi,False,2018-12-11,Agra,Unknown,Mid,Standard,20,Active
+2022-02-11,AGR-R16,Rajwada Rasoi - City Center,Rajwada Rasoi,Chain,Rajasthani,Bengali & East Indian,True,2020-09-24,Agra,Unknown,Budget,Gold,18,Active
+2022-02-11,AGR-R17,Sunrise Restaurant,Sunrise Restaurant,Independent,Punjabi,None,False,2020-09-01,Agra,Agra Zone 02,Mid,Gold,18,Active
+2022-02-11,AGR-R18,Lucky Kitchen,Lucky Kitchen,Independent,Punjabi,None,True,2019-01-04,Agra,Agra Zone 02,Mid,Gold,18,Active
+2022-02-11,AGR-R19,Sagar Dhaba,Sagar Dhaba,Independent,Mughlai & Awadhi,Regional Indian,True,2020-12-21,Agra,Unknown,Premium,Gold,18,Active
+2022-02-11,AGR-R20,Lucky Restaurant,Lucky Restaurant,Independent,Mughlai & Awadhi,None,False,2019-07-21,Agra,Agra Zone 02,Budget,Gold,18,Active
+2022-02-11,ALH-R01,Gupta Kitchen,Gupta Kitchen,Independent,Punjabi,Regional Indian,False,2018-04-21,Prayagraj,Prayagraj Zone 01,Mid,Standard,20,Active
+2022-02-11,ALH-R010,Annapurna Dhaba,Annapurna Dhaba,Independent,Gujarati,South Indian,False,2018-12-27,Prayagraj,Unknown,Budget,Gold,18,Active
+2022-02-11,ALH-R02,Dhaba Express - Mall Road,Dhaba Express,Chain,Punjabi,None,False,2019-02-12,Prayagraj,Prayagraj Zone 01,Mid,Gold,18,Active
+2022-02-11,ALH-R03,Lucky Corner,Lucky Corner,Independent,Mughlai & Awadhi,Punjabi,True,2019-03-28,Prayagraj,Prayagraj Zone 01,Budget,Standard,20,Active
+2022-02-11,ALH-R04,Nawabi Handi - Market Square,Nawabi Handi,Chain,Mughlai & Awadhi,South Indian,False,2020-07-26,Prayagraj,Unknown,Mid,Standard,20,Active
+2022-02-11,ALH-R05,Biryani Mahal - Station Road,Biryani Mahal,Chain,Mughlai & Awadhi,None,True,2018-10-07,Prayagraj,Prayagraj Zone 01,Budget,Gold,18,Active
+2022-02-11,ALH-R06,Krishna Kitchen,Krishna Kitchen,Independent,Bengali & East Indian,Regional Indian,False,2021-06-06,Prayagraj,Unknown,Premium,Gold,18,Active
+2022-02-11,ALH-R07,Awadhi Darbar - Lakeside,Awadhi Darbar,Chain,Mughlai & Awadhi,None,False,2021-04-26,Prayagraj,Prayagraj Zone 01,Mid,Standard,20,Active
+2022-02-11,ALH-R08,Lucky Bhojanalaya,Lucky Bhojanalaya,Independent,Bengali & East Indian,South Indian,False,2021-04-26,Prayagraj,Prayagraj Zone 01,Premium,Standard,20,Active
+2022-02-11,ALH-R09,Annapurna Restaurant,Annapurna Restaurant,Independent,Mughlai & Awadhi,None,False,2020-05-21,Prayagraj,Unknown,Mid,Gold,18,Active
+2022-02-11,ALH-R11,Gupta Kitchen,Gupta Kitchen,Independent,Bengali & East Indian,None,False,2021-11-20,Prayagraj,Unknown,Mid,Standard,20,Active
+2022-02-11,ALH-R12,Desi Plate - City Center,Desi Plate,Chain,Regional Indian,Maharashtrian,False,2021-12-11,Prayagraj,Prayagraj Zone 01,Mid,Standard,20,Active
+2022-02-11,ALH-R13,Royal Corner,Royal Corner,Independent,Mughlai & Awadhi,None,False,2020-01-29,Prayagraj,Prayagraj Zone 01,Mid,Standard,20,Active
+2022-02-11,ALH-R14,Awadhi Darbar - Old Town,Awadhi Darbar,Chain,Mughlai & Awadhi,Rajasthani,False,2019-07-07,Prayagraj,Prayagraj Zone 01,Mid,Standard,20,Active
+2022-02-11,ALH-R15,Awadhi Darbar - City Center,Awadhi Darbar,Chain,Mughlai & Awadhi,None,False,2018-04-23,Prayagraj,Prayagraj Zone 01,Mid,Platinum,15,Active
+2022-02-11,ALH-R16,Nawabi Handi - Old Town,Nawabi Handi,Chain,Mughlai & Awadhi,Punjabi,False,2018-12-25,Prayagraj,Prayagraj Zone 01,Mid,Gold,18,Active
+2022-02-11,ALH-R17,Moti Kitchen,Moti Kitchen,Independent,Mughlai & Awadhi,None,False,2021-04-03,Prayagraj,Prayagraj Zone 01,Premium,Standard,20,Active
+2022-02-11,ALH-R18,Moti Bhojanalaya,Moti Bhojanalaya,Independent,Mughlai & Awadhi,None,False,2018-04-22,Prayagraj,Prayagraj Zone 01,Budget,Standard,20,Active
+2022-02-11,ALH-R19,Zaika Rasoi,Zaika Rasoi,Independent,Maharashtrian,Rajasthani,False,2019-08-22,Prayagraj,Prayagraj Zone 01,Mid,Gold,18,Active
+2022-02-11,ALH-R20,Lucky Restaurant,Lucky Restaurant,Independent,Maharashtrian,None,False,2019-01-02,Prayagraj,Prayagraj Zone 01,Budget,Standard,20,Active
+2022-02-11,AURG-R01,Curry Leaf - Station Road,Curry Leaf,Chain,Regional Indian,Maharashtrian,True,2021-07-08,Aurangabad,Aurangabad Zone 01,Budget,Standard,20,Active
+2022-02-11,AURG-R010,Moti Restaurant,Moti Restaurant,Independent,Maharashtrian,None,False,2019-08-21,Aurangabad,Aurangabad Zone 01,Budget,Standard,20,Active
+2022-02-11,AURG-R02,Ganesh Bhojanalaya,Ganesh Bhojanalaya,Independent,Punjabi,None,False,2021-08-16,Aurangabad,Unknown,Mid,Standard,20,Active
+2022-02-11,AURG-R03,Gupta Restaurant,Gupta Restaurant,Independent,Maharashtrian,None,True,2019-09-20,Aurangabad,Aurangabad Zone 01,Budget,Standard,20,Active
+2022-02-11,AURG-R04,Royal Bhojanalaya,Royal Bhojanalaya,Independent,Gujarati,South Indian,False,2021-06-20,Aurangabad,Aurangabad Zone 01,Premium,Standard,20,Active
+2022-02-11,AURG-R05,Royal Kitchen,Royal Kitchen,Independent,South Indian,Gujarati,False,2021-03-22,Aurangabad,Aurangabad Zone 01,Budget,Standard,20,Active
+2022-02-11,AURG-R06,Moti Kitchen,Moti Kitchen,Independent,Gujarati,Rajasthani,False,2018-11-29,Aurangabad,Aurangabad Zone 01,Mid,Standard,20,Active
+2022-02-11,AURG-R07,Moti Kitchen,Moti Kitchen,Independent,Punjabi,Bengali & East Indian,False,2020-11-05,Aurangabad,Aurangabad Zone 01,Mid,Standard,20,Active
+2022-02-11,AURG-R08,Ganesh Kitchen,Ganesh Kitchen,Independent,South Indian,Maharashtrian,False,2020-06-24,Aurangabad,Aurangabad Zone 01,Mid,Gold,18,Active
+2022-02-11,AURG-R09,Punjabi Tadka - Civil Lines,Punjabi Tadka,Chain,Punjabi,Gujarati,False,2019-03-28,Aurangabad,Aurangabad Zone 01,Mid,Standard,20,Active
+2022-02-11,AURG-R11,Amritsari Kitchen - Civil Lines,Amritsari Kitchen,Chain,Punjabi,Mughlai & Awadhi,False,2019-02-05,Aurangabad,Unknown,Budget,Gold,18,Active
+2022-02-11,AURG-R12,Sagar Kitchen,Sagar Kitchen,Independent,Maharashtrian,Mughlai & Awadhi,False,2020-11-13,Aurangabad,Aurangabad Zone 01,Premium,Standard,20,Active
+2022-02-11,AURG-R13,Moti Restaurant,Moti Restaurant,Independent,Mughlai & Awadhi,Gujarati,False,2019-12-21,Aurangabad,Aurangabad Zone 01,Mid,Standard,20,Active
+2022-02-11,AURG-R14,Vada Pav Co. - Hi-Tech Park,Vada Pav Co.,Chain,Maharashtrian,None,False,2019-08-15,Aurangabad,Aurangabad Zone 01,Budget,Platinum,15,Active
+2022-02-11,AURG-R15,Royal Rasoi,Royal Rasoi,Independent,South Indian,None,True,2019-09-14,Aurangabad,Aurangabad Zone 01,Mid,Gold,18,Active
+2022-02-11,AURG-R16,Rajwada Rasoi - Market Square,Rajwada Rasoi,Chain,Rajasthani,None,False,2019-07-14,Aurangabad,Unknown,Mid,Standard,20,Active
+2022-02-11,AURG-R17,Lucky Kitchen,Lucky Kitchen,Independent,Maharashtrian,None,False,2020-10-01,Aurangabad,Aurangabad Zone 01,Budget,Gold,18,Active
+2022-02-11,AURG-R18,Zaika Restaurant,Zaika Restaurant,Independent,Rajasthani,None,False,2018-11-12,Aurangabad,Aurangabad Zone 01,Budget,Standard,20,Active
+2022-02-11,AURG-R19,Sagar Kitchen,Sagar Kitchen,Independent,Regional Indian,None,False,2019-05-17,Aurangabad,Aurangabad Zone 01,Budget,Standard,20,Active
+2022-02-11,AURG-R20,Krishna Restaurant,Krishna Restaurant,Independent,Bengali & East Indian,Punjabi,False,2021-07-10,Aurangabad,Unknown,Mid,Gold,18,Active
+2022-02-11,BANG-R01,Annapurna Bhojanalaya,Annapurna Bhojanalaya,Independent,Regional Indian,None,True,2019-10-17,Bengaluru,Bengaluru Zone 02,Mid,Standard,20,Active
+2022-02-11,BANG-R010,Idli Junction - Lakeside,Idli Junction,Chain,South Indian,Punjabi,False,2021-08-01,Bengaluru,Bengaluru Zone 02,Premium,Standard,20,Active
+2022-02-11,BANG-R02,Sambar Station - City Center,Sambar Station,Chain,South Indian,None,False,2021-11-03,Bengaluru,Bengaluru Zone 02,Mid,Standard,20,Active
+2022-02-11,BANG-R03,Krishna Bhojanalaya,Krishna Bhojanalaya,Independent,Gujarati,None,True,2020-11-27,Bengaluru,Bengaluru Zone 02,Budget,Gold,18,Active
+2022-02-11,BANG-R04,Bhoj Bengal - Station Road,Bhoj Bengal,Chain,Bengali & East Indian,Gujarati,True,2021-02-18,Bengaluru,Bengaluru Zone 02,Mid,Standard,20,Active
+2022-02-11,BANG-R05,Zaika Dhaba,Zaika Dhaba,Independent,Rajasthani,None,False,2018-08-27,Bengaluru,Bengaluru Zone 02,Premium,Standard,20,Active
+2022-02-11,BANG-R06,Gupta Rasoi,Gupta Rasoi,Independent,Mughlai & Awadhi,Maharashtrian,False,2018-12-19,Bengaluru,Bengaluru Zone 02,Mid,Standard,20,Active
+2022-02-11,BANG-R07,Amritsari Kitchen - Station Road,Amritsari Kitchen,Chain,Punjabi,None,True,2018-06-10,Bengaluru,Bengaluru Zone 02,Mid,Standard,20,Active
+2022-02-11,BANG-R08,Annapurna Kitchen,Annapurna Kitchen,Independent,Bengali & East Indian,Punjabi,False,2020-11-17,Bengaluru,Bengaluru Zone 01,Mid,Standard,20,Active
+2022-02-11,BANG-R09,Udupi Delight - MG Road,Udupi Delight,Chain,South Indian,None,False,2021-05-17,Bengaluru,Bengaluru Zone 02,Budget,Gold,18,Active
+2022-02-11,BANG-R11,Awadhi Darbar - Station Road,Awadhi Darbar,Chain,Mughlai & Awadhi,Maharashtrian,False,2019-12-14,Bengaluru,Bengaluru Zone 02,Mid,Platinum,15,Active
+2022-02-11,BANG-R12,Krishna Dhaba,Krishna Dhaba,Independent,Rajasthani,None,False,2018-01-29,Bengaluru,Bengaluru Zone 02,Mid,Standard,20,Active
+2022-02-11,BANG-R13,Udupi Delight - Civil Lines,Udupi Delight,Chain,South Indian,None,True,2019-03-15,Bengaluru,Bengaluru Zone 02,Premium,Platinum,15,Active
+2022-02-11,BANG-R14,Ganesh Dhaba,Ganesh Dhaba,Independent,Rajasthani,Mughlai & Awadhi,False,2020-02-17,Bengaluru,Bengaluru Zone 02,Mid,Standard,20,Active
+2022-02-11,BANG-R15,Gupta Dhaba,Gupta Dhaba,Independent,South Indian,Regional Indian,False,2020-01-10,Bengaluru,Bengaluru Zone 02,Mid,Standard,20,Active
+2022-02-11,BANG-R16,Sunrise Restaurant,Sunrise Restaurant,Independent,South Indian,Maharashtrian,False,2020-06-28,Bengaluru,Bengaluru Zone 04,Budget,Gold,18,Active
+2022-02-11,BANG-R17,Gupta Corner,Gupta Corner,Independent,South Indian,None,True,2021-10-12,Bengaluru,Bengaluru Zone 02,Mid,Standard,20,Active
+2022-02-11,BANG-R18,Royal Restaurant,Royal Restaurant,Independent,Punjabi,Mughlai & Awadhi,False,2018-07-28,Bengaluru,Bengaluru Zone 02,Mid,Standard,20,Active
+2022-02-11,BANG-R19,Lucky Rasoi,Lucky Rasoi,Independent,Mughlai & Awadhi,Maharashtrian,False,2019-04-22,Bengaluru,Bengaluru Zone 02,Premium,Gold,18,Active
+2022-02-11,BANG-R20,Sunrise Corner,Sunrise Corner,Independent,South Indian,Mughlai & Awadhi,False,2021-09-27,Bengaluru,Bengaluru Zone 01,Mid,Platinum,15,Active
+2022-02-11,BHP-R01,Udupi Delight - Hi-Tech Park,Udupi Delight,Chain,South Indian,Maharashtrian,False,2019-04-18,Bhopal,Bhopal Zone 03,Mid,Standard,20,Active
+2022-02-11,BHP-R010,Ganesh Dhaba,Ganesh Dhaba,Independent,Punjabi,Gujarati,False,2021-10-23,Bhopal,Bhopal Zone 02,Mid,Platinum,15,Active
+2022-02-11,BHP-R02,Gupta Restaurant,Gupta Restaurant,Independent,Gujarati,None,False,2020-10-01,Bhopal,Unknown,Mid,Standard,20,Active
+2022-02-11,BHP-R03,Annapurna Restaurant,Annapurna Restaurant,Independent,Rajasthani,None,True,2020-07-10,Bhopal,Bhopal Zone 03,Mid,Platinum,15,Active
+2022-02-11,BHP-R04,Sambar Station - MG Road,Sambar Station,Chain,South Indian,Punjabi,True,2020-03-07,Bhopal,Bhopal Zone 01,Mid,Standard,20,Active
+2022-02-11,BHP-R05,Krishna Restaurant,Krishna Restaurant,Independent,Punjabi,None,False,2020-11-03,Bhopal,Bhopal Zone 03,Budget,Standard,20,Active
+2022-02-11,BHP-R06,Sunrise Bhojanalaya,Sunrise Bhojanalaya,Independent,Gujarati,None,False,2018-09-20,Bhopal,Bhopal Zone 03,Premium,Standard,20,Active
+2022-02-11,BHP-R07,Misal House - Old Town,Misal House,Chain,Maharashtrian,None,False,2020-01-02,Bhopal,Unknown,Mid,Standard,20,Active
+2022-02-11,BHP-R08,Shree Corner,Shree Corner,Independent,Punjabi,Maharashtrian,False,2019-11-23,Bhopal,Bhopal Zone 03,Budget,Standard,20,Active
+2022-02-11,BHP-R09,Sharma Restaurant,Sharma Restaurant,Independent,Rajasthani,Mughlai & Awadhi,False,2021-04-19,Bhopal,Unknown,Budget,Standard,20,Active
+2022-02-11,BHP-R11,Gupta Dhaba,Gupta Dhaba,Independent,Maharashtrian,None,True,2020-10-14,Bhopal,Bhopal Zone 03,Mid,Gold,18,Active
+2022-02-11,BHP-R12,Biryani Mahal - Lakeside,Biryani Mahal,Chain,Mughlai & Awadhi,Bengali & East Indian,False,2018-06-04,Bhopal,Unknown,Premium,Standard,20,Active
+2022-02-11,BHP-R13,Rajwada Rasoi - Market Square,Rajwada Rasoi,Chain,Rajasthani,Punjabi,False,2018-07-08,Bhopal,Bhopal Zone 03,Mid,Gold,18,Active
+2022-02-11,BHP-R14,Awadhi Darbar - Market Square,Awadhi Darbar,Chain,Mughlai & Awadhi,None,True,2018-06-07,Bhopal,Unknown,Mid,Standard,20,Active
+2022-02-11,BHP-R15,Moti Kitchen,Moti Kitchen,Independent,Gujarati,None,False,2020-11-21,Bhopal,Bhopal Zone 03,Mid,Standard,20,Active
+2022-02-11,BHP-R16,Royal Rasoi,Royal Rasoi,Independent,Mughlai & Awadhi,Punjabi,False,2020-08-15,Bhopal,Bhopal Zone 03,Budget,Standard,20,Active
+2022-02-11,BHP-R17,Krishna Corner,Krishna Corner,Independent,Mughlai & Awadhi,None,False,2020-01-17,Bhopal,Bhopal Zone 02,Mid,Gold,18,Active
+2022-02-11,BHP-R18,Sagar Bhojanalaya,Sagar Bhojanalaya,Independent,Punjabi,None,False,2021-07-22,Bhopal,Bhopal Zone 03,Budget,Platinum,15,Active
+2022-02-11,BHP-R19,Ganesh Rasoi,Ganesh Rasoi,Independent,South Indian,None,False,2018-11-04,Bhopal,Unknown,Budget,Standard,20,Active
+2022-02-11,BHP-R20,Sagar Restaurant,Sagar Restaurant,Independent,Punjabi,None,True,2018-11-23,Bhopal,Bhopal Zone 02,Budget,Gold,18,Active
+2022-02-11,CHEN-R01,Amritsari Kitchen - Civil Lines,Amritsari Kitchen,Chain,Punjabi,None,True,2020-09-22,Chennai,Chennai Zone 03,Mid,Gold,18,Active
+2022-02-11,CHEN-R010,Shree Restaurant,Shree Restaurant,Independent,Punjabi,None,False,2018-07-04,Chennai,Chennai Zone 03,Mid,Platinum,15,Active
+2022-02-11,CHEN-R02,Marwar Thali - Market Square,Marwar Thali,Chain,Rajasthani,None,False,2020-12-11,Chennai,Chennai Zone 03,Budget,Standard,20,Active
+2022-02-11,CHEN-R03,Moti Rasoi,Moti Rasoi,Independent,Mughlai & Awadhi,Punjabi,False,2019-04-29,Chennai,Chennai Zone 03,Premium,Gold,18,Active
+2022-02-11,CHEN-R04,Sagar Bhojanalaya,Sagar Bhojanalaya,Independent,Punjabi,Maharashtrian,True,2020-12-28,Chennai,Chennai Zone 03,Mid,Platinum,15,Active
+2022-02-11,CHEN-R05,Sunrise Kitchen,Sunrise Kitchen,Independent,Regional Indian,South Indian,False,2019-09-24,Chennai,Chennai Zone 03,Budget,Standard,20,Active
+2022-02-11,CHEN-R06,Zaika Corner,Zaika Corner,Independent,Regional Indian,None,False,2019-09-26,Chennai,Chennai Zone 03,Mid,Standard,20,Active
+2022-02-11,CHEN-R07,Lucky Restaurant,Lucky Restaurant,Independent,South Indian,None,False,2020-03-15,Chennai,Chennai Zone 03,Premium,Standard,20,Active
+2022-02-11,CHEN-R08,Lucky Kitchen,Lucky Kitchen,Independent,Mughlai & Awadhi,Regional Indian,False,2021-08-12,Chennai,Chennai Zone 03,Mid,Platinum,15,Active
+2022-02-11,CHEN-R09,Gupta Corner,Gupta Corner,Independent,Punjabi,None,False,2020-05-15,Chennai,Chennai Zone 03,Premium,Standard,20,Active
+2022-02-11,CHEN-R11,Shree Bhojanalaya,Shree Bhojanalaya,Independent,Rajasthani,None,False,2021-01-26,Chennai,Chennai Zone 03,Mid,Standard,20,Active
+2022-02-11,CHEN-R12,Ganesh Restaurant,Ganesh Restaurant,Independent,South Indian,Punjabi,True,2020-03-31,Chennai,Chennai Zone 01,Budget,Gold,18,Active
+2022-02-11,CHEN-R13,Kathiyawadi Kitchen - Mall Road,Kathiyawadi Kitchen,Chain,Gujarati,None,False,2021-08-22,Chennai,Chennai Zone 03,Mid,Gold,18,Active
+2022-02-11,CHEN-R14,Gupta Restaurant,Gupta Restaurant,Independent,Rajasthani,None,True,2018-12-22,Chennai,Chennai Zone 02,Mid,Platinum,15,Active
+2022-02-11,CHEN-R15,Rajwada Rasoi - Lakeside,Rajwada Rasoi,Chain,Rajasthani,None,False,2021-03-14,Chennai,Chennai Zone 03,Budget,Standard,20,Active
+2022-02-11,CHEN-R16,Shree Restaurant,Shree Restaurant,Independent,Regional Indian,None,False,2018-12-12,Chennai,Chennai Zone 03,Budget,Standard,20,Active
+2022-02-11,CHEN-R17,Sambar Station - Old Town,Sambar Station,Chain,South Indian,None,True,2020-12-12,Chennai,Chennai Zone 03,Mid,Platinum,15,Active
+2022-02-11,CHEN-R18,Zaika Kitchen,Zaika Kitchen,Independent,Mughlai & Awadhi,Rajasthani,False,2019-06-30,Chennai,Chennai Zone 01,Budget,Standard,20,Active
+2022-02-11,CHEN-R19,Idli Junction - Mall Road,Idli Junction,Chain,South Indian,Regional Indian,True,2019-01-05,Chennai,Chennai Zone 01,Mid,Gold,18,Active
+2022-02-11,CHEN-R20,Amritsari Kitchen - Hi-Tech Park,Amritsari Kitchen,Chain,Punjabi,South Indian,False,2020-07-27,Chennai,Chennai Zone 01,Budget,Standard,20,Active
+2022-02-11,COIMB-R01,Ganesh Kitchen,Ganesh Kitchen,Independent,South Indian,None,False,2021-05-08,Coimbatore,Coimbatore Zone 03,Budget,Gold,18,Active
+2022-02-11,COIMB-R010,Moti Rasoi,Moti Rasoi,Independent,Punjabi,South Indian,False,2021-05-10,Coimbatore,Coimbatore Zone 03,Mid,Platinum,15,Active
+2022-02-11,COIMB-R02,Sagar Corner,Sagar Corner,Independent,Bengali & East Indian,Rajasthani,False,2021-02-19,Coimbatore,Coimbatore Zone 03,Budget,Standard,20,Active
+2022-02-11,COIMB-R03,Royal Dhaba,Royal Dhaba,Independent,Punjabi,Bengali & East Indian,False,2018-10-18,Coimbatore,Coimbatore Zone 04,Budget,Standard,20,Active
+2022-02-11,COIMB-R04,Zaika Bhojanalaya,Zaika Bhojanalaya,Independent,Maharashtrian,None,False,2019-06-24,Coimbatore,Coimbatore Zone 04,Mid,Platinum,15,Active
+2022-02-11,COIMB-R05,Moti Corner,Moti Corner,Independent,Bengali & East Indian,Maharashtrian,False,2018-11-06,Coimbatore,Coimbatore Zone 03,Mid,Platinum,15,Active
+2022-02-11,COIMB-R06,Royal Dhaba,Royal Dhaba,Independent,Mughlai & Awadhi,None,True,2019-06-17,Coimbatore,Coimbatore Zone 03,Budget,Standard,20,Active
+2022-02-11,COIMB-R07,Dosa Plaza - Old Town,Dosa Plaza,Chain,South Indian,Bengali & East Indian,True,2018-10-31,Coimbatore,Coimbatore Zone 01,Budget,Standard,20,Active
+2022-02-11,COIMB-R08,Sher-e-Punjab - Station Road,Sher-e-Punjab,Chain,Punjabi,None,False,2019-03-11,Coimbatore,Coimbatore Zone 03,Mid,Gold,18,Active
+2022-02-11,COIMB-R09,Shree Kitchen,Shree Kitchen,Independent,Regional Indian,None,False,2019-11-05,Coimbatore,Coimbatore Zone 03,Budget,Gold,18,Active
+2022-02-11,COIMB-R11,Shree Bhojanalaya,Shree Bhojanalaya,Independent,South Indian,None,True,2021-12-20,Coimbatore,Coimbatore Zone 03,Mid,Standard,20,Active
+2022-02-11,COIMB-R12,Moti Dhaba,Moti Dhaba,Independent,South Indian,None,False,2019-10-28,Coimbatore,Coimbatore Zone 03,Premium,Gold,18,Active
+2022-02-11,COIMB-R13,Lucky Dhaba,Lucky Dhaba,Independent,Regional Indian,None,False,2018-04-24,Coimbatore,Coimbatore Zone 03,Mid,Gold,18,Active
+2022-02-11,COIMB-R14,Sambar Station - MG Road,Sambar Station,Chain,South Indian,None,False,2020-03-27,Coimbatore,Coimbatore Zone 03,Budget,Standard,20,Active
+2022-02-11,COIMB-R15,Shree Bhojanalaya,Shree Bhojanalaya,Independent,Rajasthani,Regional Indian,False,2019-09-28,Coimbatore,Coimbatore Zone 03,Premium,Standard,20,Active
+2022-02-11,COIMB-R16,Lucky Restaurant,Lucky Restaurant,Independent,South Indian,Punjabi,False,2019-07-04,Coimbatore,Coimbatore Zone 03,Mid,Standard,20,Active
+2022-02-11,COIMB-R17,Royal Restaurant,Royal Restaurant,Independent,South Indian,None,True,2020-11-17,Coimbatore,Coimbatore Zone 03,Mid,Gold,18,Active
+2022-02-11,COIMB-R18,Sharma Corner,Sharma Corner,Independent,South Indian,Mughlai & Awadhi,True,2020-08-16,Coimbatore,Coimbatore Zone 03,Mid,Gold,18,Active
+2022-02-11,COIMB-R19,Lucky Rasoi,Lucky Rasoi,Independent,Mughlai & Awadhi,Gujarati,False,2021-02-02,Coimbatore,Coimbatore Zone 03,Budget,Standard,20,Active
+2022-02-11,COIMB-R20,Ganesh Corner,Ganesh Corner,Independent,Punjabi,Bengali & East Indian,False,2019-06-06,Coimbatore,Coimbatore Zone 01,Mid,Gold,18,Active
+2022-02-11,DEH-R01,Royal Restaurant,Royal Restaurant,Independent,Mughlai & Awadhi,Rajasthani,False,2021-12-13,Dehradun,Unknown,Budget,Standard,20,Active
+2022-02-11,DEH-R010,Moti Kitchen,Moti Kitchen,Independent,Mughlai & Awadhi,Rajasthani,True,2021-05-22,Dehradun,Dehradun Zone 01,Budget,Standard,20,Active
+2022-02-11,DEH-R02,Biryani Mahal - City Center,Biryani Mahal,Chain,Mughlai & Awadhi,Punjabi,False,2021-11-17,Dehradun,Unknown,Mid,Standard,20,Active
+2022-02-11,DEH-R03,Krishna Rasoi,Krishna Rasoi,Independent,Mughlai & Awadhi,None,False,2021-11-14,Dehradun,Dehradun Zone 01,Mid,Standard,20,Active
+2022-02-11,DEH-R04,Biryani Mahal - City Center,Biryani Mahal,Chain,Mughlai & Awadhi,Gujarati,True,2018-02-24,Dehradun,Dehradun Zone 01,Budget,Gold,18,Active
+2022-02-11,DEH-R05,Lucky Dhaba,Lucky Dhaba,Independent,Mughlai & Awadhi,None,False,2020-08-28,Dehradun,Dehradun Zone 01,Mid,Standard,20,Active
+2022-02-11,DEH-R06,Gupta Restaurant,Gupta Restaurant,Independent,Punjabi,None,False,2019-05-12,Dehradun,Dehradun Zone 01,Budget,Standard,20,Active
+2022-02-11,DEH-R07,Biryani Mahal - Main Road,Biryani Mahal,Chain,Mughlai & Awadhi,None,False,2020-05-01,Dehradun,Dehradun Zone 01,Premium,Gold,18,Active
+2022-02-11,DEH-R08,Annapurna Restaurant,Annapurna Restaurant,Independent,Mughlai & Awadhi,None,False,2021-06-06,Dehradun,Dehradun Zone 01,Premium,Standard,20,Active
+2022-02-11,DEH-R09,Awadhi Darbar - Main Road,Awadhi Darbar,Chain,Mughlai & Awadhi,None,False,2021-02-07,Dehradun,Dehradun Zone 01,Budget,Standard,20,Active
+2022-02-11,DEH-R11,Awadhi Darbar - Market Square,Awadhi Darbar,Chain,Mughlai & Awadhi,South Indian,False,2018-02-12,Dehradun,Unknown,Budget,Standard,20,Active
+2022-02-11,DEH-R12,Awadhi Darbar - Mall Road,Awadhi Darbar,Chain,Mughlai & Awadhi,South Indian,False,2021-05-18,Dehradun,Unknown,Premium,Platinum,15,Active
+2022-02-11,DEH-R13,Sagar Corner,Sagar Corner,Independent,Mughlai & Awadhi,Maharashtrian,False,2020-08-25,Dehradun,Dehradun Zone 01,Mid,Gold,18,Active
+2022-02-11,DEH-R14,Awadhi Darbar - City Center,Awadhi Darbar,Chain,Mughlai & Awadhi,None,True,2018-11-17,Dehradun,Dehradun Zone 01,Mid,Standard,20,Active
+2022-02-11,DEH-R15,Sharma Dhaba,Sharma Dhaba,Independent,Punjabi,Bengali & East Indian,False,2019-06-19,Dehradun,Unknown,Mid,Platinum,15,Active
+2022-02-11,DEH-R16,Shree Bhojanalaya,Shree Bhojanalaya,Independent,Punjabi,None,False,2018-09-05,Dehradun,Dehradun Zone 01,Mid,Standard,20,Active
+2022-02-11,DEH-R17,Sharma Bhojanalaya,Sharma Bhojanalaya,Independent,Bengali & East Indian,None,False,2020-11-21,Dehradun,Dehradun Zone 01,Mid,Platinum,15,Active
+2022-02-11,DEH-R18,Shree Rasoi,Shree Rasoi,Independent,Punjabi,Bengali & East Indian,False,2018-07-28,Dehradun,Unknown,Premium,Gold,18,Active
+2022-02-11,DEH-R19,Sher-e-Punjab - Mall Road,Sher-e-Punjab,Chain,Punjabi,Mughlai & Awadhi,False,2020-06-23,Dehradun,Dehradun Zone 01,Mid,Standard,20,Active
+2022-02-11,DEH-R20,Kolkata Kitchen - Old Town,Kolkata Kitchen,Chain,Bengali & East Indian,None,True,2019-02-18,Dehradun,Unknown,Mid,Gold,18,Active
+2022-02-11,GOA-R01,Idli Junction - Hi-Tech Park,Idli Junction,Chain,South Indian,None,True,2019-06-29,Goa,Goa Zone 07,Mid,Standard,20,Active
+2022-02-11,GOA-R010,Curry Leaf - Civil Lines,Curry Leaf,Chain,Regional Indian,Rajasthani,True,2020-05-28,Goa,Goa Zone 07,Mid,Gold,18,Active
+2022-02-11,GOA-R02,Annapurna Restaurant,Annapurna Restaurant,Independent,South Indian,Regional Indian,True,2020-11-25,Goa,Goa Zone 07,Premium,Standard,20,Active
+2022-02-11,GOA-R03,Dhaba Express - Main Road,Dhaba Express,Chain,Punjabi,Regional Indian,False,2021-08-06,Goa,Goa Zone 07,Budget,Gold,18,Active
+2022-02-11,GOA-R04,Sunrise Restaurant,Sunrise Restaurant,Independent,Mughlai & Awadhi,None,False,2021-02-07,Goa,Goa Zone 07,Premium,Standard,20,Active
+2022-02-11,GOA-R05,Spice Route - MG Road,Spice Route,Chain,Regional Indian,Maharashtrian,True,2020-04-07,Goa,Unknown,Mid,Gold,18,Active
+2022-02-11,GOA-R06,Zaika Bhojanalaya,Zaika Bhojanalaya,Independent,Punjabi,None,False,2020-04-08,Goa,Goa Zone 07,Mid,Platinum,15,Active
+2022-02-11,GOA-R07,Sharma Rasoi,Sharma Rasoi,Independent,Regional Indian,Bengali & East Indian,True,2021-02-04,Goa,Goa Zone 07,Mid,Standard,20,Active
+2022-02-11,GOA-R08,Vada Pav Co. - Civil Lines,Vada Pav Co.,Chain,Maharashtrian,None,False,2019-09-15,Goa,Goa Zone 07,Mid,Standard,20,Active
+2022-02-11,GOA-R09,Ganesh Rasoi,Ganesh Rasoi,Independent,Regional Indian,Punjabi,True,2021-08-26,Goa,Goa Zone 03,Premium,Standard,20,Active
+2022-02-11,GOA-R11,Mishti & More - Old Town,Mishti & More,Chain,Bengali & East Indian,None,False,2021-03-04,Goa,Goa Zone 07,Mid,Gold,18,Active
+2022-02-11,GOA-R12,Moti Bhojanalaya,Moti Bhojanalaya,Independent,Regional Indian,None,False,2021-03-19,Goa,Goa Zone 07,Mid,Standard,20,Active
+2022-02-11,GOA-R13,Spice Route - Old Town,Spice Route,Chain,Regional Indian,None,False,2020-01-10,Goa,Goa Zone 07,Mid,Gold,18,Active
+2022-02-11,GOA-R14,Dhaba Express - Main Road,Dhaba Express,Chain,Punjabi,Bengali & East Indian,False,2020-07-02,Goa,Goa Zone 01,Budget,Platinum,15,Active
+2022-02-11,GOA-R15,Sunrise Rasoi,Sunrise Rasoi,Independent,Regional Indian,Bengali & East Indian,False,2020-06-20,Goa,Goa Zone 07,Mid,Standard,20,Active
+2022-02-11,GOA-R16,Royal Rasoi,Royal Rasoi,Independent,Regional Indian,None,False,2018-09-22,Goa,Goa Zone 05,Premium,Standard,20,Active
+2022-02-11,GOA-R17,Gupta Dhaba,Gupta Dhaba,Independent,Rajasthani,None,False,2020-01-27,Goa,Goa Zone 05,Premium,Gold,18,Active
+2022-02-11,GOA-R18,Sher-e-Punjab - Old Town,Sher-e-Punjab,Chain,Punjabi,None,True,2020-01-31,Goa,Goa Zone 05,Mid,Standard,20,Active
+2022-02-11,GOA-R19,Krishna Restaurant,Krishna Restaurant,Independent,Maharashtrian,Punjabi,False,2019-08-04,Goa,Unknown,Budget,Standard,20,Active
+2022-02-11,GOA-R20,Annapurna Restaurant,Annapurna Restaurant,Independent,Regional Indian,Punjabi,False,2020-07-15,Goa,Unknown,Premium,Standard,20,Active
+2022-02-11,HYD-R01,Royal Rasoi,Royal Rasoi,Independent,Bengali & East Indian,Mughlai & Awadhi,False,2021-09-28,Hyderabad,Hyderabad Zone 02,Mid,Gold,18,Active
+2022-02-11,HYD-R010,Sagar Restaurant,Sagar Restaurant,Independent,Rajasthani,Regional Indian,False,2021-01-12,Hyderabad,Hyderabad Zone 02,Budget,Standard,20,Active
+2022-02-11,HYD-R02,Zaika Dhaba,Zaika Dhaba,Independent,South Indian,Maharashtrian,False,2021-12-19,Hyderabad,Hyderabad Zone 02,Mid,Gold,18,Active
+2022-02-11,HYD-R03,Udupi Delight - Market Square,Udupi Delight,Chain,South Indian,None,False,2020-09-01,Hyderabad,Hyderabad Zone 02,Mid,Platinum,15,Active
+2022-02-11,HYD-R04,Sunrise Kitchen,Sunrise Kitchen,Independent,Punjabi,None,False,2021-04-01,Hyderabad,Hyderabad Zone 01,Mid,Standard,20,Active
+2022-02-11,HYD-R05,Gupta Dhaba,Gupta Dhaba,Independent,Bengali & East Indian,None,True,2018-02-19,Hyderabad,Hyderabad Zone 01,Premium,Standard,20,Active
+2022-02-11,HYD-R06,Royal Bhojanalaya,Royal Bhojanalaya,Independent,Maharashtrian,Punjabi,False,2018-07-03,Hyderabad,Hyderabad Zone 01,Budget,Standard,20,Active
+2022-02-11,HYD-R07,Desi Plate - Old Town,Desi Plate,Chain,Regional Indian,None,True,2020-03-09,Hyderabad,Hyderabad Zone 01,Budget,Standard,20,Active
+2022-02-11,HYD-R08,Punjabi Tadka - City Center,Punjabi Tadka,Chain,Punjabi,None,False,2021-04-15,Hyderabad,Hyderabad Zone 01,Budget,Standard,20,Active
+2022-02-11,HYD-R09,Annapurna Bhojanalaya,Annapurna Bhojanalaya,Independent,South Indian,None,False,2020-09-18,Hyderabad,Hyderabad Zone 02,Budget,Standard,20,Active
+2022-02-11,HYD-R11,Udupi Delight - Civil Lines,Udupi Delight,Chain,South Indian,None,False,2018-09-15,Hyderabad,Hyderabad Zone 02,Mid,Standard,20,Active
+2022-02-11,HYD-R12,Moti Rasoi,Moti Rasoi,Independent,South Indian,Mughlai & Awadhi,False,2021-01-05,Hyderabad,Hyderabad Zone 01,Premium,Platinum,15,Active
+2022-02-11,HYD-R13,Spice Route - Hi-Tech Park,Spice Route,Chain,Regional Indian,None,False,2018-01-02,Hyderabad,Hyderabad Zone 02,Budget,Standard,20,Active
+2022-02-11,HYD-R14,Moti Corner,Moti Corner,Independent,Mughlai & Awadhi,Maharashtrian,False,2019-07-31,Hyderabad,Hyderabad Zone 02,Budget,Standard,20,Active
+2022-02-11,HYD-R15,Zaika Dhaba,Zaika Dhaba,Independent,South Indian,None,False,2019-07-27,Hyderabad,Hyderabad Zone 01,Premium,Gold,18,Active
+2022-02-11,HYD-R16,Ganesh Bhojanalaya,Ganesh Bhojanalaya,Independent,Punjabi,None,False,2019-07-14,Hyderabad,Hyderabad Zone 01,Budget,Platinum,15,Active
+2022-02-11,HYD-R17,Annapurna Corner,Annapurna Corner,Independent,Regional Indian,South Indian,False,2021-05-31,Hyderabad,Hyderabad Zone 01,Mid,Standard,20,Active
+2022-02-11,HYD-R18,Sagar Rasoi,Sagar Rasoi,Independent,Mughlai & Awadhi,None,False,2021-08-26,Hyderabad,Hyderabad Zone 01,Budget,Standard,20,Active
+2022-02-11,HYD-R19,Moti Restaurant,Moti Restaurant,Independent,Punjabi,None,False,2018-12-29,Hyderabad,Hyderabad Zone 03,Premium,Gold,18,Active
+2022-02-11,HYD-R20,Mishti & More - Old Town,Mishti & More,Chain,Bengali & East Indian,None,False,2018-02-10,Hyderabad,Hyderabad Zone 03,Mid,Standard,20,Active
+2022-02-11,INDO-R01,Awadhi Darbar - Market Square,Awadhi Darbar,Chain,Mughlai & Awadhi,None,False,2019-04-25,Indore,Indore Zone 01,Premium,Standard,20,Active
+2022-02-11,INDO-R010,Lucky Dhaba,Lucky Dhaba,Independent,Regional Indian,South Indian,False,2020-03-22,Indore,Indore Zone 04,Budget,Standard,20,Active
+2022-02-11,INDO-R02,Kathiyawadi Kitchen - Mall Road,Kathiyawadi Kitchen,Chain,Gujarati,None,False,2021-05-19,Indore,Indore Zone 01,Mid,Gold,18,Active
+2022-02-11,INDO-R03,Amritsari Kitchen - Market Square,Amritsari Kitchen,Chain,Punjabi,Gujarati,False,2019-07-16,Indore,Indore Zone 03,Budget,Platinum,15,Active
+2022-02-11,INDO-R04,Krishna Bhojanalaya,Krishna Bhojanalaya,Independent,Mughlai & Awadhi,None,False,2018-01-05,Indore,Indore Zone 04,Premium,Gold,18,Active
+2022-02-11,INDO-R05,Nawabi Handi - Old Town,Nawabi Handi,Chain,Mughlai & Awadhi,None,False,2018-09-07,Indore,Indore Zone 03,Mid,Gold,18,Active
+2022-02-11,INDO-R06,Mishti & More - Mall Road,Mishti & More,Chain,Bengali & East Indian,Regional Indian,False,2020-07-08,Indore,Indore Zone 03,Mid,Standard,20,Active
+2022-02-11,INDO-R07,Zaika Restaurant,Zaika Restaurant,Independent,South Indian,Rajasthani,False,2019-02-08,Indore,Indore Zone 03,Budget,Platinum,15,Active
+2022-02-11,INDO-R08,Thali Ghar - Hi-Tech Park,Thali Ghar,Chain,Gujarati,None,False,2021-07-06,Indore,Indore Zone 03,Premium,Gold,18,Active
+2022-02-11,INDO-R09,Biryani Mahal - Old Town,Biryani Mahal,Chain,Mughlai & Awadhi,South Indian,False,2019-04-30,Indore,Indore Zone 03,Premium,Gold,18,Active
+2022-02-11,INDO-R11,Krishna Dhaba,Krishna Dhaba,Independent,Mughlai & Awadhi,None,True,2018-03-10,Indore,Indore Zone 03,Mid,Standard,20,Active
+2022-02-11,INDO-R12,Gupta Dhaba,Gupta Dhaba,Independent,Mughlai & Awadhi,None,False,2018-05-15,Indore,Indore Zone 03,Budget,Standard,20,Active
+2022-02-11,INDO-R13,Krishna Restaurant,Krishna Restaurant,Independent,Punjabi,Regional Indian,False,2021-09-13,Indore,Indore Zone 03,Mid,Standard,20,Active
+2022-02-11,INDO-R14,Shree Bhojanalaya,Shree Bhojanalaya,Independent,Bengali & East Indian,South Indian,False,2018-02-23,Indore,Indore Zone 03,Mid,Gold,18,Active
+2022-02-11,INDO-R15,Vada Pav Co. - City Center,Vada Pav Co.,Chain,Maharashtrian,Punjabi,True,2021-03-19,Indore,Indore Zone 03,Budget,Gold,18,Active
+2022-02-11,INDO-R16,Royal Kitchen,Royal Kitchen,Independent,Rajasthani,South Indian,True,2018-09-19,Indore,Indore Zone 03,Mid,Standard,20,Active
+2022-02-11,INDO-R17,Krishna Rasoi,Krishna Rasoi,Independent,South Indian,None,True,2019-09-25,Indore,Indore Zone 03,Mid,Gold,18,Active
+2022-02-11,INDO-R18,Annapurna Kitchen,Annapurna Kitchen,Independent,Gujarati,None,False,2018-04-22,Indore,Indore Zone 03,Mid,Standard,20,Active
+2022-02-11,INDO-R19,Lucky Corner,Lucky Corner,Independent,Punjabi,Maharashtrian,False,2020-08-15,Indore,Indore Zone 03,Mid,Standard,20,Active
+2022-02-11,INDO-R20,Sunrise Restaurant,Sunrise Restaurant,Independent,Maharashtrian,None,True,2018-03-28,Indore,Indore Zone 03,Mid,Standard,20,Active
+2022-02-11,JAP-R01,Krishna Kitchen,Krishna Kitchen,Independent,Mughlai & Awadhi,None,False,2019-11-10,Jaipur,Jaipur Zone 05,Premium,Standard,20,Active
+2022-02-11,JAP-R010,Annapurna Dhaba,Annapurna Dhaba,Independent,South Indian,Regional Indian,False,2018-10-19,Jaipur,Jaipur Zone 04,Budget,Standard,20,Active
+2022-02-11,JAP-R02,Annapurna Kitchen,Annapurna Kitchen,Independent,Punjabi,None,True,2019-06-21,Jaipur,Jaipur Zone 05,Mid,Standard,20,Active
+2022-02-11,JAP-R03,Pune Pavilion - Main Road,Pune Pavilion,Chain,Maharashtrian,None,False,2018-02-12,Jaipur,Jaipur Zone 05,Premium,Gold,18,Active
+2022-02-11,JAP-R04,Lucky Bhojanalaya,Lucky Bhojanalaya,Independent,Punjabi,None,False,2020-02-02,Jaipur,Jaipur Zone 04,Mid,Standard,20,Active
+2022-02-11,JAP-R05,Zaika Dhaba,Zaika Dhaba,Independent,Regional Indian,None,False,2018-09-25,Jaipur,Jaipur Zone 04,Mid,Standard,20,Active
+2022-02-11,JAP-R06,Ganesh Kitchen,Ganesh Kitchen,Independent,Punjabi,South Indian,False,2021-04-17,Jaipur,Jaipur Zone 04,Budget,Platinum,15,Active
+2022-02-11,JAP-R07,Ganesh Bhojanalaya,Ganesh Bhojanalaya,Independent,Rajasthani,None,False,2021-04-11,Jaipur,Jaipur Zone 01,Premium,Platinum,15,Active
+2022-02-11,JAP-R08,Shree Kitchen,Shree Kitchen,Independent,Punjabi,Bengali & East Indian,False,2021-08-14,Jaipur,Jaipur Zone 04,Mid,Standard,20,Active
+2022-02-11,JAP-R09,Vada Pav Co. - Old Town,Vada Pav Co.,Chain,Maharashtrian,None,False,2020-10-10,Jaipur,Jaipur Zone 04,Mid,Gold,18,Active
+2022-02-11,JAP-R11,Lucky Kitchen,Lucky Kitchen,Independent,Rajasthani,None,False,2019-04-26,Jaipur,Jaipur Zone 04,Mid,Platinum,15,Active
+2022-02-11,JAP-R12,Sunrise Rasoi,Sunrise Rasoi,Independent,Gujarati,None,False,2019-08-28,Jaipur,Jaipur Zone 04,Mid,Standard,20,Active
+2022-02-11,JAP-R13,Moti Restaurant,Moti Restaurant,Independent,Maharashtrian,None,False,2020-01-23,Jaipur,Jaipur Zone 02,Premium,Standard,20,Active
+2022-02-11,JAP-R14,Ganesh Dhaba,Ganesh Dhaba,Independent,Maharashtrian,Gujarati,True,2020-10-24,Jaipur,Jaipur Zone 02,Mid,Standard,20,Active
+2022-02-11,JAP-R15,Shree Dhaba,Shree Dhaba,Independent,Rajasthani,None,False,2019-11-15,Jaipur,Jaipur Zone 02,Budget,Standard,20,Active
+2022-02-11,JAP-R16,Lucky Corner,Lucky Corner,Independent,Maharashtrian,Regional Indian,True,2021-01-17,Jaipur,Jaipur Zone 02,Premium,Gold,18,Active
+2022-02-11,JAP-R17,Sagar Rasoi,Sagar Rasoi,Independent,Punjabi,Regional Indian,True,2021-09-01,Jaipur,Jaipur Zone 02,Mid,Gold,18,Active
+2022-02-11,JAP-R18,Rajwada Rasoi - Mall Road,Rajwada Rasoi,Chain,Rajasthani,South Indian,False,2021-02-05,Jaipur,Jaipur Zone 04,Mid,Standard,20,Active
+2022-02-11,JAP-R19,Rajwada Rasoi - Mall Road,Rajwada Rasoi,Chain,Rajasthani,Regional Indian,False,2019-03-06,Jaipur,Jaipur Zone 04,Mid,Gold,18,Active
+2022-02-11,JAP-R20,Sunrise Corner,Sunrise Corner,Independent,Rajasthani,Gujarati,False,2019-12-28,Jaipur,Jaipur Zone 04,Mid,Standard,20,Active
+2022-02-11,KNP-R01,Sunrise Bhojanalaya,Sunrise Bhojanalaya,Independent,South Indian,None,False,2018-03-07,Kanpur,Kanpur Zone 02,Premium,Gold,18,Active
+2022-02-11,KNP-R010,Krishna Rasoi,Krishna Rasoi,Independent,Punjabi,None,False,2019-02-23,Kanpur,Kanpur Zone 02,Premium,Platinum,15,Active
+2022-02-11,KNP-R02,Dhaba Express - Market Square,Dhaba Express,Chain,Punjabi,Bengali & East Indian,False,2018-12-18,Kanpur,Kanpur Zone 02,Budget,Gold,18,Active
+2022-02-11,KNP-R03,Royal Kitchen,Royal Kitchen,Independent,Rajasthani,Mughlai & Awadhi,False,2019-08-05,Kanpur,Kanpur Zone 02,Budget,Standard,20,Active
+2022-02-11,KNP-R04,Sharma Dhaba,Sharma Dhaba,Independent,Gujarati,None,False,2020-04-21,Kanpur,Kanpur Zone 02,Mid,Standard,20,Active
+2022-02-11,KNP-R05,Sagar Kitchen,Sagar Kitchen,Independent,Regional Indian,South Indian,True,2020-06-04,Kanpur,Kanpur Zone 02,Premium,Standard,20,Active
+2022-02-11,KNP-R06,Lucky Rasoi,Lucky Rasoi,Independent,Mughlai & Awadhi,Bengali & East Indian,False,2019-02-18,Kanpur,Unknown,Budget,Gold,18,Active
+2022-02-11,KNP-R07,Sharma Bhojanalaya,Sharma Bhojanalaya,Independent,Punjabi,Bengali & East Indian,False,2020-07-31,Kanpur,Kanpur Zone 02,Mid,Platinum,15,Active
+2022-02-11,KNP-R08,Moti Corner,Moti Corner,Independent,Punjabi,Mughlai & Awadhi,False,2020-03-11,Kanpur,Unknown,Mid,Gold,18,Active
+2022-02-11,KNP-R09,Awadhi Darbar - Market Square,Awadhi Darbar,Chain,Mughlai & Awadhi,Gujarati,False,2021-09-11,Kanpur,Kanpur Zone 02,Budget,Standard,20,Active
+2022-02-11,KNP-R11,Nawabi Handi - Station Road,Nawabi Handi,Chain,Mughlai & Awadhi,Punjabi,False,2021-09-27,Kanpur,Kanpur Zone 02,Premium,Platinum,15,Active
+2022-02-11,KNP-R12,Nawabi Handi - Hi-Tech Park,Nawabi Handi,Chain,Mughlai & Awadhi,None,False,2020-01-26,Kanpur,Kanpur Zone 02,Budget,Platinum,15,Active
+2022-02-11,KNP-R13,Royal Bhojanalaya,Royal Bhojanalaya,Independent,Punjabi,None,True,2018-02-24,Kanpur,Kanpur Zone 01,Budget,Standard,20,Active
+2022-02-11,KNP-R14,Lucky Restaurant,Lucky Restaurant,Independent,Mughlai & Awadhi,None,False,2021-12-23,Kanpur,Kanpur Zone 02,Premium,Standard,20,Active
+2022-02-11,KNP-R15,Shree Rasoi,Shree Rasoi,Independent,Maharashtrian,None,False,2020-06-15,Kanpur,Kanpur Zone 02,Budget,Gold,18,Active
+2022-02-11,KNP-R16,Awadhi Darbar - Main Road,Awadhi Darbar,Chain,Mughlai & Awadhi,None,False,2020-12-30,Kanpur,Kanpur Zone 02,Mid,Standard,20,Active
+2022-02-11,KNP-R17,Amritsari Kitchen - MG Road,Amritsari Kitchen,Chain,Punjabi,None,True,2018-03-12,Kanpur,Kanpur Zone 02,Premium,Standard,20,Active
+2022-02-11,KNP-R18,Ganesh Corner,Ganesh Corner,Independent,Rajasthani,Punjabi,False,2020-03-10,Kanpur,Kanpur Zone 02,Mid,Gold,18,Active
+2022-02-11,KNP-R19,Mishti & More - Lakeside,Mishti & More,Chain,Bengali & East Indian,None,False,2019-05-04,Kanpur,Kanpur Zone 02,Budget,Platinum,15,Active
+2022-02-11,KNP-R20,Ganesh Corner,Ganesh Corner,Independent,Punjabi,Gujarati,False,2018-07-17,Kanpur,Kanpur Zone 02,Mid,Standard,20,Active
+2022-02-11,KOC-R01,Marwar Thali - Civil Lines,Marwar Thali,Chain,Rajasthani,Gujarati,False,2021-07-07,Kochi,Kochi Zone 06,Budget,Gold,18,Active
+2022-02-11,KOC-R010,Lucky Kitchen,Lucky Kitchen,Independent,Punjabi,None,False,2018-01-31,Kochi,Kochi Zone 02,Mid,Standard,20,Active
+2022-02-11,KOC-R02,Vada Pav Co. - MG Road,Vada Pav Co.,Chain,Maharashtrian,Bengali & East Indian,True,2019-03-24,Kochi,Kochi Zone 02,Mid,Gold,18,Active
+2022-02-11,KOC-R03,Royal Bhojanalaya,Royal Bhojanalaya,Independent,Bengali & East Indian,Punjabi,False,2021-07-16,Kochi,Kochi Zone 02,Mid,Platinum,15,Active
+2022-02-11,KOC-R04,Royal Corner,Royal Corner,Independent,South Indian,None,False,2021-09-26,Kochi,Kochi Zone 06,Mid,Gold,18,Active
+2022-02-11,KOC-R05,Sharma Corner,Sharma Corner,Independent,Maharashtrian,None,False,2021-12-14,Kochi,Kochi Zone 06,Premium,Gold,18,Active
+2022-02-11,KOC-R06,Lucky Corner,Lucky Corner,Independent,Punjabi,None,False,2018-06-12,Kochi,Kochi Zone 06,Budget,Standard,20,Active
+2022-02-11,KOC-R07,Lucky Corner,Lucky Corner,Independent,Maharashtrian,Gujarati,False,2019-11-05,Kochi,Kochi Zone 06,Budget,Gold,18,Active
+2022-02-11,KOC-R08,Vada Pav Co. - Lakeside,Vada Pav Co.,Chain,Maharashtrian,None,False,2019-04-15,Kochi,Kochi Zone 06,Premium,Gold,18,Active
+2022-02-11,KOC-R09,Vada Pav Co. - Mall Road,Vada Pav Co.,Chain,Maharashtrian,Rajasthani,False,2020-02-21,Kochi,Kochi Zone 02,Mid,Gold,18,Active
+2022-02-11,KOC-R11,Punjabi Tadka - Hi-Tech Park,Punjabi Tadka,Chain,Punjabi,None,True,2018-10-17,Kochi,Kochi Zone 02,Premium,Platinum,15,Active
+2022-02-11,KOC-R12,Lucky Rasoi,Lucky Rasoi,Independent,Punjabi,Rajasthani,False,2019-09-30,Kochi,Kochi Zone 06,Budget,Standard,20,Active
+2022-02-11,KOC-R13,Dhaba Express - MG Road,Dhaba Express,Chain,Punjabi,Rajasthani,True,2020-09-12,Kochi,Kochi Zone 06,Budget,Platinum,15,Active
+2022-02-11,KOC-R14,Sharma Rasoi,Sharma Rasoi,Independent,Regional Indian,Gujarati,False,2020-09-14,Kochi,Kochi Zone 02,Budget,Gold,18,Active
+2022-02-11,KOC-R15,Krishna Rasoi,Krishna Rasoi,Independent,South Indian,None,False,2019-06-11,Kochi,Kochi Zone 02,Mid,Standard,20,Active
+2022-02-11,KOC-R16,Moti Kitchen,Moti Kitchen,Independent,Gujarati,Rajasthani,True,2019-01-24,Kochi,Kochi Zone 02,Budget,Gold,18,Active
+2022-02-11,KOC-R17,Sagar Restaurant,Sagar Restaurant,Independent,Rajasthani,None,False,2020-09-29,Kochi,Kochi Zone 06,Mid,Platinum,15,Active
+2022-02-11,KOC-R18,Sagar Rasoi,Sagar Rasoi,Independent,Regional Indian,Punjabi,False,2019-06-07,Kochi,Kochi Zone 06,Mid,Standard,20,Active
+2022-02-11,KOC-R19,Zaika Dhaba,Zaika Dhaba,Independent,Bengali & East Indian,Mughlai & Awadhi,False,2019-05-21,Kochi,Kochi Zone 06,Budget,Gold,18,Active
+2022-02-11,KOC-R20,Zaika Corner,Zaika Corner,Independent,Punjabi,None,False,2020-07-21,Kochi,Kochi Zone 07,Premium,Gold,18,Active
+2022-02-11,KOL-R01,Annapurna Dhaba,Annapurna Dhaba,Independent,Punjabi,Rajasthani,False,2020-02-27,Kolkata,Kolkata Zone 01,Mid,Gold,18,Active
+2022-02-11,KOL-R010,Sagar Kitchen,Sagar Kitchen,Independent,Bengali & East Indian,None,False,2019-09-11,Kolkata,Kolkata Zone 01,Mid,Gold,18,Active
+2022-02-11,KOL-R02,Zaika Dhaba,Zaika Dhaba,Independent,Bengali & East Indian,None,False,2019-12-07,Kolkata,Kolkata Zone 01,Premium,Standard,20,Active
+2022-02-11,KOL-R03,Annapurna Kitchen,Annapurna Kitchen,Independent,Gujarati,Mughlai & Awadhi,True,2018-05-24,Kolkata,Kolkata Zone 01,Mid,Gold,18,Active
+2022-02-11,KOL-R04,Royal Bhojanalaya,Royal Bhojanalaya,Independent,South Indian,Maharashtrian,True,2020-09-23,Kolkata,Kolkata Zone 01,Budget,Standard,20,Active
+2022-02-11,KOL-R05,Desi Plate - Mall Road,Desi Plate,Chain,Regional Indian,Mughlai & Awadhi,False,2019-01-28,Kolkata,Kolkata Zone 01,Budget,Gold,18,Active
+2022-02-11,KOL-R06,Ganesh Kitchen,Ganesh Kitchen,Independent,Mughlai & Awadhi,Rajasthani,True,2018-09-13,Kolkata,Kolkata Zone 01,Budget,Standard,20,Active
+2022-02-11,KOL-R07,Annapurna Dhaba,Annapurna Dhaba,Independent,Maharashtrian,None,False,2021-09-24,Kolkata,Kolkata Zone 01,Mid,Standard,20,Active
+2022-02-11,KOL-R08,Krishna Rasoi,Krishna Rasoi,Independent,Regional Indian,Bengali & East Indian,False,2020-09-22,Kolkata,Kolkata Zone 01,Mid,Platinum,15,Active
+2022-02-11,KOL-R09,Moti Kitchen,Moti Kitchen,Independent,Maharashtrian,South Indian,False,2020-02-15,Kolkata,Kolkata Zone 01,Mid,Platinum,15,Active
+2022-02-11,KOL-R11,Gupta Corner,Gupta Corner,Independent,Regional Indian,None,False,2018-10-12,Kolkata,Kolkata Zone 02,Budget,Standard,20,Active
+2022-02-11,KOL-R12,Moti Restaurant,Moti Restaurant,Independent,Punjabi,None,False,2020-08-31,Kolkata,Kolkata Zone 01,Mid,Gold,18,Active
+2022-02-11,KOL-R13,Annapurna Corner,Annapurna Corner,Independent,Bengali & East Indian,Mughlai & Awadhi,True,2019-10-29,Kolkata,Kolkata Zone 01,Mid,Standard,20,Active
+2022-02-11,KOL-R14,Moti Restaurant,Moti Restaurant,Independent,Punjabi,Mughlai & Awadhi,False,2020-09-02,Kolkata,Kolkata Zone 01,Premium,Platinum,15,Active
+2022-02-11,KOL-R15,Krishna Kitchen,Krishna Kitchen,Independent,Rajasthani,None,False,2021-03-17,Kolkata,Kolkata Zone 01,Mid,Gold,18,Active
+2022-02-11,KOL-R16,Ganesh Rasoi,Ganesh Rasoi,Independent,Bengali & East Indian,South Indian,False,2020-07-02,Kolkata,Kolkata Zone 01,Premium,Platinum,15,Active
+2022-02-11,KOL-R17,Bhoj Bengal - Station Road,Bhoj Bengal,Chain,Bengali & East Indian,None,True,2018-03-01,Kolkata,Kolkata Zone 02,Budget,Gold,18,Active
+2022-02-11,KOL-R18,Zaika Bhojanalaya,Zaika Bhojanalaya,Independent,Mughlai & Awadhi,None,False,2021-10-05,Kolkata,Kolkata Zone 02,Budget,Gold,18,Active
+2022-02-11,KOL-R19,Zaika Bhojanalaya,Zaika Bhojanalaya,Independent,Punjabi,None,False,2021-05-15,Kolkata,Kolkata Zone 02,Budget,Platinum,15,Active
+2022-02-11,KOL-R20,Ganesh Corner,Ganesh Corner,Independent,Maharashtrian,None,False,2020-06-13,Kolkata,Kolkata Zone 01,Premium,Gold,18,Active
+2022-02-11,LUDH-R01,Amritsari Kitchen - Old Town,Amritsari Kitchen,Chain,Punjabi,Gujarati,True,2020-01-24,Ludhiana,Ludhiana Zone 02,Budget,Gold,18,Active
+2022-02-11,LUDH-R010,Amritsari Kitchen - Main Road,Amritsari Kitchen,Chain,Punjabi,Mughlai & Awadhi,False,2019-10-17,Ludhiana,Ludhiana Zone 02,Mid,Gold,18,Active
+2022-02-11,LUDH-R02,Bhoj Bengal - Market Square,Bhoj Bengal,Chain,Bengali & East Indian,None,False,2021-01-07,Ludhiana,Unknown,Premium,Standard,20,Active
+2022-02-11,LUDH-R03,Dhaba Express - Mall Road,Dhaba Express,Chain,Punjabi,None,True,2019-08-04,Ludhiana,Ludhiana Zone 02,Budget,Gold,18,Active
+2022-02-11,LUDH-R04,Moti Bhojanalaya,Moti Bhojanalaya,Independent,Maharashtrian,None,False,2019-07-15,Ludhiana,Ludhiana Zone 03,Premium,Standard,20,Active
+2022-02-11,LUDH-R05,Dosa Plaza - MG Road,Dosa Plaza,Chain,South Indian,Regional Indian,False,2018-11-09,Ludhiana,Ludhiana Zone 03,Premium,Standard,20,Active
+2022-02-11,LUDH-R06,Royal Restaurant,Royal Restaurant,Independent,Punjabi,None,False,2021-09-12,Ludhiana,Ludhiana Zone 02,Premium,Gold,18,Active
+2022-02-11,LUDH-R07,Moti Restaurant,Moti Restaurant,Independent,Punjabi,Bengali & East Indian,False,2019-08-03,Ludhiana,Unknown,Budget,Standard,20,Active
+2022-02-11,LUDH-R08,Royal Bhojanalaya,Royal Bhojanalaya,Independent,Mughlai & Awadhi,None,False,2018-04-21,Ludhiana,Ludhiana Zone 02,Premium,Gold,18,Active
+2022-02-11,LUDH-R09,Zaika Restaurant,Zaika Restaurant,Independent,South Indian,Gujarati,True,2019-03-23,Ludhiana,Ludhiana Zone 01,Premium,Standard,20,Active
+2022-02-11,LUDH-R11,Shree Corner,Shree Corner,Independent,Punjabi,None,False,2020-02-11,Ludhiana,Ludhiana Zone 02,Premium,Gold,18,Active
+2022-02-11,LUDH-R12,Moti Restaurant,Moti Restaurant,Independent,Punjabi,None,True,2020-11-21,Ludhiana,Ludhiana Zone 02,Mid,Standard,20,Active
+2022-02-11,LUDH-R13,Lucky Dhaba,Lucky Dhaba,Independent,Gujarati,None,False,2019-09-12,Ludhiana,Ludhiana Zone 02,Mid,Standard,20,Active
+2022-02-11,LUDH-R14,Gupta Corner,Gupta Corner,Independent,Regional Indian,None,False,2020-06-30,Ludhiana,Ludhiana Zone 02,Mid,Standard,20,Active
+2022-02-11,LUDH-R15,Lucky Dhaba,Lucky Dhaba,Independent,Punjabi,Bengali & East Indian,False,2020-09-09,Ludhiana,Ludhiana Zone 02,Budget,Gold,18,Active
+2022-02-11,LUDH-R16,Dosa Plaza - Hi-Tech Park,Dosa Plaza,Chain,South Indian,None,True,2019-10-29,Ludhiana,Ludhiana Zone 02,Budget,Standard,20,Active
+2022-02-11,LUDH-R17,Nawabi Handi - Main Road,Nawabi Handi,Chain,Mughlai & Awadhi,None,False,2020-12-21,Ludhiana,Ludhiana Zone 02,Mid,Gold,18,Active
+2022-02-11,LUDH-R18,Lucky Corner,Lucky Corner,Independent,Punjabi,None,True,2021-05-11,Ludhiana,Ludhiana Zone 02,Mid,Platinum,15,Active
+2022-02-11,LUDH-R19,Amritsari Kitchen - Station Road,Amritsari Kitchen,Chain,Punjabi,South Indian,True,2019-06-10,Ludhiana,Ludhiana Zone 03,Premium,Gold,18,Active
+2022-02-11,LUDH-R20,Sharma Kitchen,Sharma Kitchen,Independent,Punjabi,None,False,2018-01-01,Ludhiana,Ludhiana Zone 01,Budget,Standard,20,Active
+2022-02-11,MUM-R01,Ganesh Rasoi,Ganesh Rasoi,Independent,Punjabi,None,False,2021-11-24,Mumbai,Mumbai Zone 05,Mid,Standard,20,Active
+2022-02-11,MUM-R010,Lucky Corner,Lucky Corner,Independent,Mughlai & Awadhi,None,False,2019-05-01,Mumbai,Mumbai Zone 03,Budget,Standard,20,Active
+2022-02-11,MUM-R02,Amritsari Kitchen - Station Road,Amritsari Kitchen,Chain,Punjabi,None,False,2021-06-28,Mumbai,Mumbai Zone 07,Mid,Gold,18,Active
+2022-02-11,MUM-R03,Gupta Dhaba,Gupta Dhaba,Independent,Maharashtrian,Mughlai & Awadhi,False,2021-11-23,Mumbai,Mumbai Zone 07,Budget,Platinum,15,Active
+2022-02-11,MUM-R04,Sher-e-Punjab - Mall Road,Sher-e-Punjab,Chain,Punjabi,None,False,2020-11-13,Mumbai,Mumbai Zone 07,Mid,Gold,18,Active
+2022-02-11,MUM-R05,Krishna Kitchen,Krishna Kitchen,Independent,Maharashtrian,Regional Indian,True,2018-08-14,Mumbai,Mumbai Zone 01,Mid,Standard,20,Active
+2022-02-11,MUM-R06,Sunrise Kitchen,Sunrise Kitchen,Independent,Maharashtrian,Punjabi,False,2018-01-21,Mumbai,Mumbai Zone 03,Budget,Platinum,15,Active
+2022-02-11,MUM-R07,Royal Rasoi,Royal Rasoi,Independent,Regional Indian,Punjabi,False,2020-09-29,Mumbai,Mumbai Zone 03,Budget,Gold,18,Active
+2022-02-11,MUM-R08,Vada Pav Co. - MG Road,Vada Pav Co.,Chain,Maharashtrian,None,True,2019-10-14,Mumbai,Mumbai Zone 03,Premium,Standard,20,Active
+2022-02-11,MUM-R09,Sharma Rasoi,Sharma Rasoi,Independent,Maharashtrian,Mughlai & Awadhi,False,2021-04-28,Mumbai,Mumbai Zone 01,Budget,Platinum,15,Active
+2022-02-11,MUM-R11,Amritsari Kitchen - Station Road,Amritsari Kitchen,Chain,Punjabi,None,False,2018-04-19,Mumbai,Mumbai Zone 01,Premium,Standard,20,Active
+2022-02-11,MUM-R12,Misal House - Market Square,Misal House,Chain,Maharashtrian,Regional Indian,True,2019-12-26,Mumbai,Mumbai Zone 08,Mid,Gold,18,Active
+2022-02-11,MUM-R13,Sunrise Corner,Sunrise Corner,Independent,Maharashtrian,Bengali & East Indian,False,2020-04-12,Mumbai,Mumbai Zone 05,Mid,Platinum,15,Active
+2022-02-11,MUM-R14,Marwar Thali - Mall Road,Marwar Thali,Chain,Rajasthani,None,True,2019-08-09,Mumbai,Mumbai Zone 05,Mid,Standard,20,Active
+2022-02-11,MUM-R15,Ganesh Rasoi,Ganesh Rasoi,Independent,Maharashtrian,None,True,2020-10-16,Mumbai,Mumbai Zone 05,Mid,Platinum,15,Active
+2022-02-11,MUM-R16,Annapurna Rasoi,Annapurna Rasoi,Independent,Regional Indian,None,False,2018-01-15,Mumbai,Mumbai Zone 06,Mid,Standard,20,Active
+2022-02-11,MUM-R17,Udupi Delight - Civil Lines,Udupi Delight,Chain,South Indian,None,False,2021-10-13,Mumbai,Mumbai Zone 06,Premium,Gold,18,Active
+2022-02-11,MUM-R18,Mishti & More - Old Town,Mishti & More,Chain,Bengali & East Indian,None,False,2020-05-15,Mumbai,Mumbai Zone 05,Mid,Standard,20,Active
+2022-02-11,MUM-R19,Sharma Dhaba,Sharma Dhaba,Independent,Punjabi,None,False,2019-06-27,Mumbai,Mumbai Zone 05,Budget,Standard,20,Active
+2022-02-11,MUM-R20,Udupi Delight - MG Road,Udupi Delight,Chain,South Indian,None,False,2020-09-26,Mumbai,Mumbai Zone 05,Budget,Platinum,15,Active
+2022-02-11,MYS-R01,Moti Corner,Moti Corner,Independent,Punjabi,South Indian,False,2018-07-27,Mysuru,Mysuru Zone 02,Mid,Standard,20,Active
+2022-02-11,MYS-R010,Shree Restaurant,Shree Restaurant,Independent,Punjabi,None,False,2019-05-28,Mysuru,Mysuru Zone 02,Budget,Standard,20,Active
+2022-02-11,MYS-R02,Sunrise Dhaba,Sunrise Dhaba,Independent,South Indian,Bengali & East Indian,False,2020-06-18,Mysuru,Mysuru Zone 02,Budget,Platinum,15,Active
+2022-02-11,MYS-R03,Shree Kitchen,Shree Kitchen,Independent,Maharashtrian,South Indian,True,2020-05-12,Mysuru,Mysuru Zone 01,Mid,Standard,20,Active
+2022-02-11,MYS-R04,Shree Restaurant,Shree Restaurant,Independent,Mughlai & Awadhi,Gujarati,False,2021-10-28,Mysuru,Mysuru Zone 02,Mid,Standard,20,Active
+2022-02-11,MYS-R05,Zaika Corner,Zaika Corner,Independent,Maharashtrian,None,False,2018-08-13,Mysuru,Mysuru Zone 02,Premium,Gold,18,Active
+2022-02-11,MYS-R06,Annapurna Corner,Annapurna Corner,Independent,Bengali & East Indian,Maharashtrian,False,2021-05-07,Mysuru,Mysuru Zone 02,Mid,Gold,18,Active
+2022-02-11,MYS-R07,Sambar Station - Lakeside,Sambar Station,Chain,South Indian,Bengali & East Indian,False,2019-01-18,Mysuru,Mysuru Zone 02,Budget,Gold,18,Active
+2022-02-11,MYS-R08,Ganesh Restaurant,Ganesh Restaurant,Independent,Bengali & East Indian,None,False,2018-07-31,Mysuru,Mysuru Zone 01,Mid,Standard,20,Active
+2022-02-11,MYS-R09,Lucky Dhaba,Lucky Dhaba,Independent,South Indian,Regional Indian,True,2019-01-29,Mysuru,Mysuru Zone 02,Premium,Standard,20,Active
+2022-02-11,MYS-R11,Dosa Plaza - Main Road,Dosa Plaza,Chain,South Indian,None,False,2021-07-21,Mysuru,Mysuru Zone 02,Premium,Standard,20,Active
+2022-02-11,MYS-R12,Sunrise Dhaba,Sunrise Dhaba,Independent,Punjabi,Gujarati,False,2019-12-20,Mysuru,Mysuru Zone 01,Mid,Standard,20,Active
+2022-02-11,MYS-R13,Punjabi Tadka - Main Road,Punjabi Tadka,Chain,Punjabi,None,False,2019-08-08,Mysuru,Mysuru Zone 02,Mid,Gold,18,Active
+2022-02-11,MYS-R14,Nawabi Handi - Hi-Tech Park,Nawabi Handi,Chain,Mughlai & Awadhi,Gujarati,True,2021-10-02,Mysuru,Unknown,Budget,Standard,20,Active
+2022-02-11,MYS-R15,Zaika Rasoi,Zaika Rasoi,Independent,South Indian,None,False,2021-08-24,Mysuru,Mysuru Zone 02,Budget,Standard,20,Active
+2022-02-11,MYS-R16,Udupi Delight - Market Square,Udupi Delight,Chain,South Indian,Punjabi,False,2021-09-02,Mysuru,Mysuru Zone 02,Premium,Standard,20,Active
+2022-02-11,MYS-R17,Sher-e-Punjab - Civil Lines,Sher-e-Punjab,Chain,Punjabi,Gujarati,False,2019-02-18,Mysuru,Mysuru Zone 02,Mid,Standard,20,Active
+2022-02-11,MYS-R18,Sharma Bhojanalaya,Sharma Bhojanalaya,Independent,Punjabi,Bengali & East Indian,False,2018-08-29,Mysuru,Mysuru Zone 02,Premium,Platinum,15,Active
+2022-02-11,MYS-R19,Krishna Bhojanalaya,Krishna Bhojanalaya,Independent,Punjabi,Rajasthani,True,2018-04-04,Mysuru,Mysuru Zone 02,Premium,Gold,18,Active
+2022-02-11,MYS-R20,Dhaba Express - Lakeside,Dhaba Express,Chain,Punjabi,None,False,2018-06-03,Mysuru,Mysuru Zone 02,Budget,Gold,18,Active
+2022-02-11,PUNE-R01,Sunrise Kitchen,Sunrise Kitchen,Independent,Bengali & East Indian,Regional Indian,True,2019-03-23,Pune,Pune Zone 01,Mid,Standard,20,Active
+2022-02-11,PUNE-R010,Zaika Corner,Zaika Corner,Independent,Punjabi,None,False,2019-03-28,Pune,Pune Zone 02,Budget,Standard,20,Active
+2022-02-11,PUNE-R02,Thali Ghar - Mall Road,Thali Ghar,Chain,Gujarati,Maharashtrian,True,2019-07-23,Pune,Pune Zone 02,Premium,Standard,20,Active
+2022-02-11,PUNE-R03,Lucky Rasoi,Lucky Rasoi,Independent,Gujarati,None,False,2021-07-19,Pune,Pune Zone 01,Mid,Standard,20,Active
+2022-02-11,PUNE-R04,Zaika Kitchen,Zaika Kitchen,Independent,Maharashtrian,Mughlai & Awadhi,False,2019-10-27,Pune,Pune Zone 02,Premium,Standard,20,Active
+2022-02-11,PUNE-R05,Pune Pavilion - MG Road,Pune Pavilion,Chain,Maharashtrian,South Indian,True,2021-09-08,Pune,Pune Zone 03,Premium,Standard,20,Active
+2022-02-11,PUNE-R06,Bhoj Bengal - Lakeside,Bhoj Bengal,Chain,Bengali & East Indian,None,False,2021-05-22,Pune,Pune Zone 03,Mid,Standard,20,Active
+2022-02-11,PUNE-R07,Marwar Thali - Lakeside,Marwar Thali,Chain,Rajasthani,Maharashtrian,False,2020-06-07,Pune,Pune Zone 03,Mid,Standard,20,Active
+2022-02-11,PUNE-R08,Lucky Rasoi,Lucky Rasoi,Independent,Mughlai & Awadhi,Gujarati,False,2021-08-19,Pune,Pune Zone 02,Budget,Standard,20,Active
+2022-02-11,PUNE-R09,Lucky Dhaba,Lucky Dhaba,Independent,Gujarati,None,False,2020-07-20,Pune,Pune Zone 02,Premium,Standard,20,Active
+2022-02-11,PUNE-R11,Spice Route - Main Road,Spice Route,Chain,Regional Indian,Bengali & East Indian,False,2018-08-14,Pune,Pune Zone 02,Premium,Standard,20,Active
+2022-02-11,PUNE-R12,Mishti & More - Mall Road,Mishti & More,Chain,Bengali & East Indian,None,False,2021-05-13,Pune,Pune Zone 02,Budget,Standard,20,Active
+2022-02-11,PUNE-R13,Spice Route - Old Town,Spice Route,Chain,Regional Indian,None,True,2021-02-26,Pune,Pune Zone 03,Premium,Standard,20,Active
+2022-02-11,PUNE-R14,Rajwada Rasoi - Main Road,Rajwada Rasoi,Chain,Rajasthani,South Indian,True,2018-04-02,Pune,Pune Zone 02,Budget,Gold,18,Active
+2022-02-11,PUNE-R15,Annapurna Kitchen,Annapurna Kitchen,Independent,Gujarati,None,False,2018-10-29,Pune,Pune Zone 04,Mid,Standard,20,Active
+2022-02-11,PUNE-R16,Gupta Kitchen,Gupta Kitchen,Independent,Gujarati,None,False,2019-08-01,Pune,Pune Zone 02,Mid,Platinum,15,Active
+2022-02-11,PUNE-R17,Royal Kitchen,Royal Kitchen,Independent,Maharashtrian,Punjabi,False,2019-01-07,Pune,Pune Zone 02,Mid,Standard,20,Active
+2022-02-11,PUNE-R18,Moti Dhaba,Moti Dhaba,Independent,Punjabi,None,False,2020-01-26,Pune,Pune Zone 01,Premium,Standard,20,Active
+2022-02-11,PUNE-R19,Mishti & More - Main Road,Mishti & More,Chain,Bengali & East Indian,None,True,2018-10-30,Pune,Pune Zone 03,Mid,Gold,18,Active
+2022-02-11,PUNE-R20,Shree Rasoi,Shree Rasoi,Independent,South Indian,None,False,2018-10-24,Pune,Pune Zone 01,Budget,Standard,20,Active
+2022-02-11,RANCHI-R01,Sagar Restaurant,Sagar Restaurant,Independent,Regional Indian,South Indian,False,2021-07-27,Ranchi,Ranchi Zone 02,Mid,Gold,18,Active
+2022-02-11,RANCHI-R010,Bhoj Bengal - Lakeside,Bhoj Bengal,Chain,Bengali & East Indian,None,False,2020-12-26,Ranchi,Ranchi Zone 01,Mid,Standard,20,Active
+2022-02-11,RANCHI-R02,Zaika Corner,Zaika Corner,Independent,Punjabi,Mughlai & Awadhi,True,2020-01-11,Ranchi,Unknown,Budget,Standard,20,Active
+2022-02-11,RANCHI-R03,Shree Dhaba,Shree Dhaba,Independent,Regional Indian,Bengali & East Indian,False,2018-10-13,Ranchi,Unknown,Budget,Platinum,15,Active
+2022-02-11,RANCHI-R04,Lucky Kitchen,Lucky Kitchen,Independent,Punjabi,None,True,2018-10-10,Ranchi,Ranchi Zone 01,Budget,Gold,18,Active
+2022-02-11,RANCHI-R05,Kolkata Kitchen - Lakeside,Kolkata Kitchen,Chain,Bengali & East Indian,Mughlai & Awadhi,True,2021-04-06,Ranchi,Ranchi Zone 01,Budget,Standard,20,Active
+2022-02-11,RANCHI-R06,Marwar Thali - Old Town,Marwar Thali,Chain,Rajasthani,None,True,2021-03-11,Ranchi,Ranchi Zone 01,Premium,Standard,20,Active
+2022-02-11,RANCHI-R07,Zaika Rasoi,Zaika Rasoi,Independent,South Indian,None,False,2020-04-22,Ranchi,Ranchi Zone 01,Mid,Gold,18,Active
+2022-02-11,RANCHI-R08,Mishti & More - City Center,Mishti & More,Chain,Bengali & East Indian,None,False,2021-05-22,Ranchi,Ranchi Zone 01,Mid,Standard,20,Active
+2022-02-11,RANCHI-R09,Sharma Corner,Sharma Corner,Independent,Bengali & East Indian,Regional Indian,False,2020-10-24,Ranchi,Ranchi Zone 01,Mid,Gold,18,Active
+2022-02-11,RANCHI-R11,Dhaba Express - City Center,Dhaba Express,Chain,Punjabi,None,True,2019-03-10,Ranchi,Ranchi Zone 01,Mid,Platinum,15,Active
+2022-02-11,RANCHI-R12,Krishna Dhaba,Krishna Dhaba,Independent,Punjabi,Regional Indian,False,2019-10-04,Ranchi,Unknown,Mid,Gold,18,Active
+2022-02-11,RANCHI-R13,Lucky Bhojanalaya,Lucky Bhojanalaya,Independent,South Indian,Punjabi,True,2021-05-20,Ranchi,Ranchi Zone 01,Mid,Standard,20,Active
+2022-02-11,RANCHI-R14,Lucky Rasoi,Lucky Rasoi,Independent,Maharashtrian,Gujarati,False,2019-01-20,Ranchi,Unknown,Mid,Standard,20,Active
+2022-02-11,RANCHI-R15,Bhoj Bengal - Market Square,Bhoj Bengal,Chain,Bengali & East Indian,Maharashtrian,False,2020-09-17,Ranchi,Ranchi Zone 01,Budget,Standard,20,Active
+2022-02-11,RANCHI-R16,Misal House - Old Town,Misal House,Chain,Maharashtrian,None,False,2019-10-07,Ranchi,Ranchi Zone 01,Mid,Platinum,15,Active
+2022-02-11,RANCHI-R17,Moti Restaurant,Moti Restaurant,Independent,Bengali & East Indian,None,False,2020-10-25,Ranchi,Ranchi Zone 01,Premium,Platinum,15,Active
+2022-02-11,RANCHI-R18,Annapurna Bhojanalaya,Annapurna Bhojanalaya,Independent,Punjabi,None,False,2018-06-11,Ranchi,Ranchi Zone 01,Premium,Standard,20,Active
+2022-02-11,RANCHI-R19,Zaika Kitchen,Zaika Kitchen,Independent,Punjabi,None,False,2021-05-31,Ranchi,Ranchi Zone 01,Mid,Platinum,15,Active
+2022-02-11,RANCHI-R20,Nawabi Handi - MG Road,Nawabi Handi,Chain,Mughlai & Awadhi,Regional Indian,False,2018-03-23,Ranchi,Ranchi Zone 01,Premium,Gold,18,Active
+2022-02-11,SUR-R01,Shree Kitchen,Shree Kitchen,Independent,Bengali & East Indian,Gujarati,False,2018-07-19,Surat,Surat Zone 01,Premium,Gold,18,Active
+2022-02-11,SUR-R010,Gupta Dhaba,Gupta Dhaba,Independent,Punjabi,None,True,2019-08-29,Surat,Surat Zone 01,Budget,Standard,20,Active
+2022-02-11,SUR-R02,Thali Ghar - Hi-Tech Park,Thali Ghar,Chain,Gujarati,Punjabi,False,2020-06-24,Surat,Surat Zone 01,Mid,Platinum,15,Active
+2022-02-11,SUR-R03,Sunrise Restaurant,Sunrise Restaurant,Independent,Punjabi,Rajasthani,False,2021-10-25,Surat,Surat Zone 01,Budget,Standard,20,Active
+2022-02-11,SUR-R04,Shree Corner,Shree Corner,Independent,Gujarati,None,False,2021-10-29,Surat,Surat Zone 02,Budget,Standard,20,Active
+2022-02-11,SUR-R05,Desi Plate - Civil Lines,Desi Plate,Chain,Regional Indian,Mughlai & Awadhi,True,2020-02-09,Surat,Surat Zone 02,Budget,Standard,20,Active
+2022-02-11,SUR-R06,Moti Restaurant,Moti Restaurant,Independent,Gujarati,Bengali & East Indian,False,2020-08-10,Surat,Surat Zone 02,Budget,Standard,20,Active
+2022-02-11,SUR-R07,Sagar Bhojanalaya,Sagar Bhojanalaya,Independent,Punjabi,Bengali & East Indian,False,2021-05-22,Surat,Surat Zone 01,Mid,Standard,20,Active
+2022-02-11,SUR-R08,Royal Restaurant,Royal Restaurant,Independent,South Indian,Maharashtrian,True,2021-03-09,Surat,Surat Zone 01,Budget,Standard,20,Active
+2022-02-11,SUR-R09,Gupta Kitchen,Gupta Kitchen,Independent,Gujarati,Regional Indian,False,2021-11-01,Surat,Surat Zone 01,Mid,Standard,20,Active
+2022-02-11,SUR-R11,Swad Gujarat - Lakeside,Swad Gujarat,Chain,Gujarati,Maharashtrian,False,2020-05-09,Surat,Surat Zone 01,Mid,Standard,20,Active
+2022-02-11,SUR-R12,Misal House - Lakeside,Misal House,Chain,Maharashtrian,Regional Indian,False,2019-02-11,Surat,Surat Zone 02,Mid,Platinum,15,Active
+2022-02-11,SUR-R13,Moti Corner,Moti Corner,Independent,Gujarati,Mughlai & Awadhi,False,2021-02-22,Surat,Surat Zone 01,Mid,Gold,18,Active
+2022-02-11,SUR-R14,Moti Corner,Moti Corner,Independent,Gujarati,Mughlai & Awadhi,False,2019-10-11,Surat,Surat Zone 01,Budget,Platinum,15,Active
+2022-02-11,SUR-R15,Shree Corner,Shree Corner,Independent,Mughlai & Awadhi,None,False,2018-01-08,Surat,Surat Zone 01,Premium,Standard,20,Active
+2022-02-11,SUR-R16,Shree Dhaba,Shree Dhaba,Independent,Regional Indian,None,False,2020-05-10,Surat,Surat Zone 01,Mid,Standard,20,Active
+2022-02-11,SUR-R17,Mishti & More - Mall Road,Mishti & More,Chain,Bengali & East Indian,None,False,2018-01-30,Surat,Surat Zone 01,Mid,Platinum,15,Active
+2022-02-11,SUR-R18,Zaika Restaurant,Zaika Restaurant,Independent,Gujarati,South Indian,False,2020-04-20,Surat,Surat Zone 01,Mid,Gold,18,Active
+2022-02-11,SUR-R19,Gupta Restaurant,Gupta Restaurant,Independent,Rajasthani,Regional Indian,False,2018-11-30,Surat,Surat Zone 01,Mid,Standard,20,Active
+2022-02-11,SUR-R20,Ganesh Bhojanalaya,Ganesh Bhojanalaya,Independent,Gujarati,None,False,2018-07-23,Surat,Surat Zone 01,Premium,Gold,18,Active
+2022-02-11,VAD-R01,Mishti & More - Lakeside,Mishti & More,Chain,Bengali & East Indian,Mughlai & Awadhi,False,2021-01-20,Vadodara,Vadodara Zone 01,Budget,Standard,20,Active
+2022-02-11,VAD-R010,Thali Ghar - MG Road,Thali Ghar,Chain,Gujarati,None,False,2021-02-03,Vadodara,Vadodara Zone 01,Mid,Standard,20,Active
+2022-02-11,VAD-R02,Sagar Corner,Sagar Corner,Independent,Punjabi,Gujarati,False,2018-01-16,Vadodara,Unknown,Premium,Gold,18,Active
+2022-02-11,VAD-R03,Kolkata Kitchen - MG Road,Kolkata Kitchen,Chain,Bengali & East Indian,None,False,2020-04-29,Vadodara,Vadodara Zone 01,Mid,Gold,18,Active
+2022-02-11,VAD-R04,Amritsari Kitchen - Main Road,Amritsari Kitchen,Chain,Punjabi,None,False,2020-11-28,Vadodara,Unknown,Premium,Gold,18,Active
+2022-02-11,VAD-R05,Sharma Restaurant,Sharma Restaurant,Independent,Gujarati,Rajasthani,False,2018-04-16,Vadodara,Vadodara Zone 01,Premium,Standard,20,Active
+2022-02-11,VAD-R06,Sagar Bhojanalaya,Sagar Bhojanalaya,Independent,Gujarati,Mughlai & Awadhi,False,2018-07-23,Vadodara,Vadodara Zone 01,Mid,Standard,20,Active
+2022-02-11,VAD-R07,Sharma Kitchen,Sharma Kitchen,Independent,Punjabi,Rajasthani,True,2018-07-11,Vadodara,Unknown,Budget,Platinum,15,Active
+2022-02-11,VAD-R08,Punjabi Tadka - Market Square,Punjabi Tadka,Chain,Punjabi,None,True,2018-09-25,Vadodara,Unknown,Premium,Gold,18,Active
+2022-02-11,VAD-R09,Misal House - Mall Road,Misal House,Chain,Maharashtrian,None,False,2020-02-14,Vadodara,Unknown,Mid,Standard,20,Active
+2022-02-11,VAD-R11,Shree Dhaba,Shree Dhaba,Independent,Maharashtrian,Gujarati,False,2018-08-08,Vadodara,Vadodara Zone 01,Budget,Standard,20,Active
+2022-02-11,VAD-R12,Lucky Restaurant,Lucky Restaurant,Independent,Gujarati,Punjabi,False,2020-04-27,Vadodara,Unknown,Budget,Standard,20,Active
+2022-02-11,VAD-R13,Ganesh Restaurant,Ganesh Restaurant,Independent,Regional Indian,Rajasthani,True,2018-01-21,Vadodara,Vadodara Zone 01,Premium,Gold,18,Active
+2022-02-11,VAD-R14,Moti Bhojanalaya,Moti Bhojanalaya,Independent,Maharashtrian,None,False,2021-01-24,Vadodara,Vadodara Zone 01,Budget,Standard,20,Active
+2022-02-11,VAD-R15,Kathiyawadi Kitchen - Main Road,Kathiyawadi Kitchen,Chain,Gujarati,Punjabi,False,2018-11-09,Vadodara,Unknown,Budget,Standard,20,Active
+2022-02-11,VAD-R16,Swad Gujarat - Station Road,Swad Gujarat,Chain,Gujarati,None,False,2018-09-17,Vadodara,Unknown,Budget,Standard,20,Active
+2022-02-11,VAD-R17,Ganesh Bhojanalaya,Ganesh Bhojanalaya,Independent,Gujarati,None,False,2020-06-12,Vadodara,Unknown,Mid,Standard,20,Active
+2022-02-11,VAD-R18,Thali Ghar - MG Road,Thali Ghar,Chain,Gujarati,Maharashtrian,False,2021-04-18,Vadodara,Unknown,Mid,Standard,20,Active
+2022-02-11,VAD-R19,Sagar Rasoi,Sagar Rasoi,Independent,Bengali & East Indian,None,False,2021-06-29,Vadodara,Vadodara Zone 01,Budget,Gold,18,Active
+2022-02-11,VAD-R20,Gupta Kitchen,Gupta Kitchen,Independent,Gujarati,South Indian,False,2019-06-03,Vadodara,Vadodara Zone 01,Mid,Platinum,15,Active
+2022-03-01,AGR-R01,Sunrise Kitchen,Sunrise Kitchen,Independent,Mughlai & Awadhi,Maharashtrian,False,2019-02-15,Agra,Agra Zone 02,Mid,Standard,21,Active
+2022-03-01,AGR-R010,Lucky Rasoi,Lucky Rasoi,Independent,Punjabi,Maharashtrian,False,2019-06-15,Agra,Agra Zone 02,Mid,Gold,18,Active
+2022-03-01,AGR-R02,Punjabi Tadka - Hi-Tech Park,Punjabi Tadka,Chain,Punjabi,None,True,2021-08-04,Agra,Unknown,Budget,Platinum,15,Active
+2022-03-01,AGR-R03,Krishna Dhaba,Krishna Dhaba,Independent,Punjabi,Maharashtrian,False,2020-10-01,Agra,Agra Zone 02,Mid,Platinum,15,Active
+2022-03-01,AGR-R04,Sharma Kitchen,Sharma Kitchen,Independent,South Indian,None,False,2020-09-14,Agra,Agra Zone 01,Budget,Standard,19,Active
+2022-03-01,AGR-R05,Sagar Dhaba,Sagar Dhaba,Independent,Rajasthani,None,False,2018-07-05,Agra,Agra Zone 03,Mid,Gold,19,Active
+2022-03-01,AGR-R06,Ganesh Kitchen,Ganesh Kitchen,Independent,Mughlai & Awadhi,Regional Indian,True,2020-02-26,Agra,Unknown,Mid,Standard,21,Active
+2022-03-01,AGR-R07,Gupta Dhaba,Gupta Dhaba,Independent,Gujarati,Punjabi,False,2019-01-24,Agra,Agra Zone 02,Budget,Gold,19,Active
+2022-03-01,AGR-R08,Sagar Dhaba,Sagar Dhaba,Independent,Punjabi,None,False,2020-10-20,Agra,Agra Zone 02,Mid,Gold,19,Active
+2022-03-01,AGR-R09,Nawabi Handi - Main Road,Nawabi Handi,Chain,Mughlai & Awadhi,Punjabi,True,2018-08-31,Agra,Unknown,Budget,Gold,17,Active
+2022-03-01,AGR-R11,Royal Corner,Royal Corner,Independent,Mughlai & Awadhi,None,False,2018-03-17,Agra,Agra Zone 02,Mid,Gold,18,Active
+2022-03-01,AGR-R12,Mishti & More - Station Road,Mishti & More,Chain,Bengali & East Indian,Rajasthani,True,2019-09-22,Agra,Agra Zone 02,Premium,Standard,20,Active
+2022-03-01,AGR-R13,Shree Dhaba,Shree Dhaba,Independent,Punjabi,None,False,2019-03-28,Agra,Agra Zone 02,Budget,Platinum,15,Active
+2022-03-01,AGR-R14,Moti Dhaba,Moti Dhaba,Independent,Punjabi,Regional Indian,False,2018-10-09,Agra,Agra Zone 02,Mid,Platinum,15,Active
+2022-03-01,AGR-R15,Shree Dhaba,Shree Dhaba,Independent,Regional Indian,Punjabi,False,2018-12-11,Agra,Unknown,Mid,Standard,20,Active
+2022-03-01,AGR-R16,Rajwada Rasoi - City Center,Rajwada Rasoi,Chain,Rajasthani,Bengali & East Indian,True,2020-09-24,Agra,Unknown,Budget,Gold,19,Active
+2022-03-01,AGR-R17,Sunrise Restaurant,Sunrise Restaurant,Independent,Punjabi,None,False,2020-09-01,Agra,Agra Zone 02,Mid,Gold,18,Active
+2022-03-01,AGR-R18,Lucky Kitchen,Lucky Kitchen,Independent,Punjabi,None,True,2019-01-04,Agra,Agra Zone 02,Mid,Gold,17,Active
+2022-03-01,AGR-R19,Sagar Dhaba,Sagar Dhaba,Independent,Mughlai & Awadhi,Regional Indian,True,2020-12-21,Agra,Unknown,Premium,Gold,17,Active
+2022-03-01,AGR-R20,Lucky Restaurant,Lucky Restaurant,Independent,Mughlai & Awadhi,None,False,2019-07-21,Agra,Agra Zone 02,Premium,Gold,17,Active
+2022-03-01,ALH-R01,Gupta Kitchen,Gupta Kitchen,Independent,Punjabi,Regional Indian,False,2018-04-21,Prayagraj,Prayagraj Zone 01,Mid,Standard,20,Active
+2022-03-01,ALH-R010,Annapurna Dhaba,Annapurna Dhaba,Independent,Gujarati,South Indian,False,2018-12-27,Prayagraj,Unknown,Budget,Gold,18,Active
+2022-03-01,ALH-R02,Dhaba Express - Mall Road,Dhaba Express,Chain,Punjabi,None,False,2019-02-12,Prayagraj,Prayagraj Zone 01,Mid,Platinum,14,Active
+2022-03-01,ALH-R03,Lucky Corner,Lucky Corner,Independent,Mughlai & Awadhi,Punjabi,True,2019-03-28,Prayagraj,Prayagraj Zone 01,Budget,Standard,20,Active
+2022-03-01,ALH-R04,Nawabi Handi - Market Square,Nawabi Handi,Chain,Mughlai & Awadhi,South Indian,False,2020-07-26,Prayagraj,Unknown,Mid,Standard,19,Active
+2022-03-01,ALH-R05,Biryani Mahal - Station Road,Biryani Mahal,Chain,Mughlai & Awadhi,None,True,2018-10-07,Prayagraj,Prayagraj Zone 01,Budget,Gold,17,Active
+2022-03-01,ALH-R06,Krishna Kitchen,Krishna Kitchen,Independent,Bengali & East Indian,Regional Indian,False,2021-06-06,Prayagraj,Unknown,Premium,Standard,20,Active
+2022-03-01,ALH-R07,Awadhi Darbar - Lakeside,Awadhi Darbar,Chain,Mughlai & Awadhi,None,False,2021-04-26,Prayagraj,Prayagraj Zone 01,Mid,Standard,20,Active
+2022-03-01,ALH-R08,Lucky Bhojanalaya,Lucky Bhojanalaya,Independent,Bengali & East Indian,South Indian,False,2021-04-26,Prayagraj,Prayagraj Zone 01,Premium,Standard,20,Active
+2022-03-01,ALH-R09,Annapurna Restaurant,Annapurna Restaurant,Independent,Mughlai & Awadhi,None,False,2020-05-21,Prayagraj,Unknown,Mid,Gold,17,Active
+2022-03-01,ALH-R11,Gupta Kitchen,Gupta Kitchen,Independent,Bengali & East Indian,None,False,2021-11-20,Prayagraj,Unknown,Mid,Standard,20,Active
+2022-03-01,ALH-R12,Desi Plate - City Center,Desi Plate,Chain,Regional Indian,Maharashtrian,False,2021-12-11,Prayagraj,Prayagraj Zone 01,Mid,Standard,19,Active
+2022-03-01,ALH-R13,Royal Corner,Royal Corner,Independent,Mughlai & Awadhi,None,False,2020-01-29,Prayagraj,Prayagraj Zone 01,Mid,Standard,20,Active
+2022-03-01,ALH-R14,Awadhi Darbar - Old Town,Awadhi Darbar,Chain,Mughlai & Awadhi,Rajasthani,False,2019-07-07,Prayagraj,Prayagraj Zone 01,Mid,Standard,20,Active
+2022-03-01,ALH-R15,Awadhi Darbar - City Center,Awadhi Darbar,Chain,Mughlai & Awadhi,None,False,2018-04-23,Prayagraj,Prayagraj Zone 01,Mid,Platinum,15,Active
+2022-03-01,ALH-R16,Nawabi Handi - Old Town,Nawabi Handi,Chain,Mughlai & Awadhi,Punjabi,False,2018-12-25,Prayagraj,Prayagraj Zone 01,Mid,Gold,18,Active
+2022-03-01,ALH-R17,Moti Kitchen,Moti Kitchen,Independent,Mughlai & Awadhi,None,False,2021-04-03,Prayagraj,Prayagraj Zone 01,Premium,Standard,20,Active
+2022-03-01,ALH-R18,Moti Bhojanalaya,Moti Bhojanalaya,Independent,Mughlai & Awadhi,None,False,2018-04-22,Prayagraj,Prayagraj Zone 01,Budget,Standard,21,Active
+2022-03-01,ALH-R19,Zaika Rasoi,Zaika Rasoi,Independent,Maharashtrian,Rajasthani,False,2019-08-22,Prayagraj,Prayagraj Zone 01,Mid,Gold,18,Active
+2022-03-01,ALH-R20,Lucky Restaurant,Lucky Restaurant,Independent,Maharashtrian,None,False,2019-01-02,Prayagraj,Prayagraj Zone 01,Budget,Standard,20,Active
+2022-03-01,AURG-R01,Curry Leaf - Station Road,Curry Leaf,Chain,Regional Indian,Maharashtrian,True,2021-07-08,Aurangabad,Aurangabad Zone 01,Budget,Standard,20,Active
+2022-03-01,AURG-R010,Moti Restaurant,Moti Restaurant,Independent,Maharashtrian,None,False,2019-08-21,Aurangabad,Aurangabad Zone 01,Budget,Standard,20,Active
+2022-03-01,AURG-R02,Ganesh Bhojanalaya,Ganesh Bhojanalaya,Independent,Punjabi,None,False,2021-08-16,Aurangabad,Unknown,Mid,Standard,20,Active
+2022-03-01,AURG-R03,Gupta Restaurant,Gupta Restaurant,Independent,Maharashtrian,None,True,2019-09-20,Aurangabad,Aurangabad Zone 01,Budget,Standard,20,Active
+2022-03-01,AURG-R04,Royal Bhojanalaya,Royal Bhojanalaya,Independent,Gujarati,South Indian,False,2021-06-20,Aurangabad,Aurangabad Zone 01,Premium,Gold,18,Active
+2022-03-01,AURG-R05,Royal Kitchen,Royal Kitchen,Independent,South Indian,Gujarati,False,2021-03-22,Aurangabad,Aurangabad Zone 01,Budget,Standard,19,Active
+2022-03-01,AURG-R06,Moti Kitchen,Moti Kitchen,Independent,Gujarati,Rajasthani,False,2018-11-29,Aurangabad,Aurangabad Zone 01,Mid,Standard,21,Active
+2022-03-01,AURG-R07,Moti Kitchen,Moti Kitchen,Independent,Punjabi,Bengali & East Indian,False,2020-11-05,Aurangabad,Aurangabad Zone 01,Mid,Standard,20,Active
+2022-03-01,AURG-R08,Ganesh Kitchen,Ganesh Kitchen,Independent,South Indian,Maharashtrian,False,2020-06-24,Aurangabad,Aurangabad Zone 01,Mid,Gold,19,Active
+2022-03-01,AURG-R09,Punjabi Tadka - Civil Lines,Punjabi Tadka,Chain,Punjabi,Gujarati,False,2019-03-28,Aurangabad,Aurangabad Zone 01,Mid,Standard,20,Active
+2022-03-01,AURG-R11,Amritsari Kitchen - Civil Lines,Amritsari Kitchen,Chain,Punjabi,Mughlai & Awadhi,False,2019-02-05,Aurangabad,Unknown,Budget,Gold,19,Active
+2022-03-01,AURG-R12,Sagar Kitchen,Sagar Kitchen,Independent,Maharashtrian,Mughlai & Awadhi,False,2020-11-13,Aurangabad,Aurangabad Zone 01,Premium,Standard,20,Active
+2022-03-01,AURG-R13,Moti Restaurant,Moti Restaurant,Independent,Mughlai & Awadhi,Gujarati,False,2019-12-21,Aurangabad,Aurangabad Zone 01,Mid,Platinum,15,Active
+2022-03-01,AURG-R14,Vada Pav Co. - Hi-Tech Park,Vada Pav Co.,Chain,Maharashtrian,None,False,2019-08-15,Aurangabad,Aurangabad Zone 01,Budget,Platinum,14,Active
+2022-03-01,AURG-R15,Royal Rasoi,Royal Rasoi,Independent,South Indian,None,True,2019-09-14,Aurangabad,Aurangabad Zone 01,Mid,Gold,17,Active
+2022-03-01,AURG-R16,Rajwada Rasoi - Market Square,Rajwada Rasoi,Chain,Rajasthani,None,False,2019-07-14,Aurangabad,Unknown,Mid,Standard,20,Active
+2022-03-01,AURG-R17,Lucky Kitchen,Lucky Kitchen,Independent,Maharashtrian,None,False,2020-10-01,Aurangabad,Aurangabad Zone 01,Budget,Gold,19,Active
+2022-03-01,AURG-R18,Zaika Restaurant,Zaika Restaurant,Independent,Rajasthani,None,False,2018-11-12,Aurangabad,Aurangabad Zone 01,Budget,Standard,21,Active
+2022-03-01,AURG-R19,Sagar Kitchen,Sagar Kitchen,Independent,Regional Indian,None,False,2019-05-17,Aurangabad,Aurangabad Zone 01,Budget,Platinum,15,Active
+2022-03-01,AURG-R20,Krishna Restaurant,Krishna Restaurant,Independent,Bengali & East Indian,Punjabi,False,2021-07-10,Aurangabad,Unknown,Mid,Gold,17,Active
+2022-03-01,BANG-R01,Annapurna Bhojanalaya,Annapurna Bhojanalaya,Independent,Regional Indian,None,True,2019-10-17,Bengaluru,Bengaluru Zone 02,Mid,Standard,19,Active
+2022-03-01,BANG-R010,Idli Junction - Lakeside,Idli Junction,Chain,South Indian,Punjabi,False,2021-08-01,Bengaluru,Bengaluru Zone 02,Premium,Standard,20,Active
+2022-03-01,BANG-R02,Sambar Station - City Center,Sambar Station,Chain,South Indian,None,False,2021-11-03,Bengaluru,Bengaluru Zone 02,Mid,Standard,20,Active
+2022-03-01,BANG-R03,Krishna Bhojanalaya,Krishna Bhojanalaya,Independent,Gujarati,None,True,2020-11-27,Bengaluru,Bengaluru Zone 02,Budget,Gold,18,Active
+2022-03-01,BANG-R04,Bhoj Bengal - Station Road,Bhoj Bengal,Chain,Bengali & East Indian,Gujarati,True,2021-02-18,Bengaluru,Bengaluru Zone 02,Mid,Standard,19,Active
+2022-03-01,BANG-R05,Zaika Dhaba,Zaika Dhaba,Independent,Rajasthani,None,False,2018-08-27,Bengaluru,Bengaluru Zone 02,Premium,Standard,20,Active
+2022-03-01,BANG-R06,Gupta Rasoi,Gupta Rasoi,Independent,Mughlai & Awadhi,Maharashtrian,False,2018-12-19,Bengaluru,Bengaluru Zone 02,Mid,Standard,21,Active
+2022-03-01,BANG-R07,Amritsari Kitchen - Station Road,Amritsari Kitchen,Chain,Punjabi,None,True,2018-06-10,Bengaluru,Bengaluru Zone 02,Mid,Standard,19,Active
+2022-03-01,BANG-R08,Annapurna Kitchen,Annapurna Kitchen,Independent,Bengali & East Indian,Punjabi,False,2020-11-17,Bengaluru,Bengaluru Zone 01,Mid,Standard,20,Active
+2022-03-01,BANG-R09,Udupi Delight - MG Road,Udupi Delight,Chain,South Indian,None,False,2021-05-17,Bengaluru,Bengaluru Zone 02,Budget,Gold,18,Active
+2022-03-01,BANG-R11,Awadhi Darbar - Station Road,Awadhi Darbar,Chain,Mughlai & Awadhi,Maharashtrian,False,2019-12-14,Bengaluru,Bengaluru Zone 02,Mid,Platinum,15,Active
+2022-03-01,BANG-R12,Krishna Dhaba,Krishna Dhaba,Independent,Rajasthani,None,False,2018-01-29,Bengaluru,Bengaluru Zone 02,Mid,Standard,21,Active
+2022-03-01,BANG-R13,Udupi Delight - Civil Lines,Udupi Delight,Chain,South Indian,None,True,2019-03-15,Bengaluru,Bengaluru Zone 02,Budget,Platinum,16,Active
+2022-03-01,BANG-R14,Ganesh Dhaba,Ganesh Dhaba,Independent,Rajasthani,Mughlai & Awadhi,False,2020-02-17,Bengaluru,Bengaluru Zone 02,Mid,Standard,20,Active
+2022-03-01,BANG-R15,Gupta Dhaba,Gupta Dhaba,Independent,South Indian,Regional Indian,False,2020-01-10,Bengaluru,Bengaluru Zone 02,Mid,Standard,20,Active
+2022-03-01,BANG-R16,Sunrise Restaurant,Sunrise Restaurant,Independent,South Indian,Maharashtrian,False,2020-06-28,Bengaluru,Bengaluru Zone 04,Budget,Gold,18,Active
+2022-03-01,BANG-R17,Gupta Corner,Gupta Corner,Independent,South Indian,None,True,2021-10-12,Bengaluru,Bengaluru Zone 02,Mid,Standard,19,Active
+2022-03-01,BANG-R18,Royal Restaurant,Royal Restaurant,Independent,Punjabi,Mughlai & Awadhi,False,2018-07-28,Bengaluru,Bengaluru Zone 02,Mid,Standard,19,Active
+2022-03-01,BANG-R19,Lucky Rasoi,Lucky Rasoi,Independent,Mughlai & Awadhi,Maharashtrian,False,2019-04-22,Bengaluru,Bengaluru Zone 02,Premium,Gold,17,Active
+2022-03-01,BANG-R20,Sunrise Corner,Sunrise Corner,Independent,South Indian,Mughlai & Awadhi,False,2021-09-27,Bengaluru,Bengaluru Zone 01,Mid,Platinum,14,Active
+2022-03-01,BHP-R01,Udupi Delight - Hi-Tech Park,Udupi Delight,Chain,South Indian,Maharashtrian,False,2019-04-18,Bhopal,Bhopal Zone 03,Mid,Standard,21,Active
+2022-03-01,BHP-R010,Ganesh Dhaba,Ganesh Dhaba,Independent,Punjabi,Gujarati,False,2021-10-23,Bhopal,Bhopal Zone 02,Mid,Standard,19,Active
+2022-03-01,BHP-R02,Gupta Restaurant,Gupta Restaurant,Independent,Gujarati,None,False,2020-10-01,Bhopal,Unknown,Mid,Standard,20,Active
+2022-03-01,BHP-R03,Annapurna Restaurant,Annapurna Restaurant,Independent,Rajasthani,None,True,2020-07-10,Bhopal,Bhopal Zone 03,Mid,Platinum,15,Active
+2022-03-01,BHP-R04,Sambar Station - MG Road,Sambar Station,Chain,South Indian,Punjabi,True,2020-03-07,Bhopal,Bhopal Zone 01,Mid,Standard,19,Active
+2022-03-01,BHP-R05,Krishna Restaurant,Krishna Restaurant,Independent,Punjabi,None,False,2020-11-03,Bhopal,Bhopal Zone 03,Budget,Standard,20,Active
+2022-03-01,BHP-R06,Sunrise Bhojanalaya,Sunrise Bhojanalaya,Independent,Gujarati,None,False,2018-09-20,Bhopal,Bhopal Zone 03,Premium,Standard,21,Active
+2022-03-01,BHP-R07,Misal House - Old Town,Misal House,Chain,Maharashtrian,None,False,2020-01-02,Bhopal,Unknown,Mid,Standard,20,Active
+2022-03-01,BHP-R08,Shree Corner,Shree Corner,Independent,Punjabi,Maharashtrian,False,2019-11-23,Bhopal,Bhopal Zone 03,Budget,Standard,20,Active
+2022-03-01,BHP-R09,Sharma Restaurant,Sharma Restaurant,Independent,Rajasthani,Mughlai & Awadhi,False,2021-04-19,Bhopal,Unknown,Budget,Standard,21,Active
+2022-03-01,BHP-R11,Gupta Dhaba,Gupta Dhaba,Independent,Maharashtrian,None,True,2020-10-14,Bhopal,Bhopal Zone 03,Mid,Gold,19,Active
+2022-03-01,BHP-R12,Biryani Mahal - Lakeside,Biryani Mahal,Chain,Mughlai & Awadhi,Bengali & East Indian,False,2018-06-04,Bhopal,Unknown,Mid,Standard,20,Active
+2022-03-01,BHP-R13,Rajwada Rasoi - Market Square,Rajwada Rasoi,Chain,Rajasthani,Punjabi,False,2018-07-08,Bhopal,Bhopal Zone 03,Mid,Gold,18,Active
+2022-03-01,BHP-R14,Awadhi Darbar - Market Square,Awadhi Darbar,Chain,Mughlai & Awadhi,None,True,2018-06-07,Bhopal,Unknown,Mid,Platinum,14,Active
+2022-03-01,BHP-R15,Moti Kitchen,Moti Kitchen,Independent,Gujarati,None,False,2020-11-21,Bhopal,Bhopal Zone 03,Mid,Standard,19,Active
+2022-03-01,BHP-R16,Royal Rasoi,Royal Rasoi,Independent,Mughlai & Awadhi,Punjabi,False,2020-08-15,Bhopal,Bhopal Zone 03,Budget,Standard,21,Active
+2022-03-01,BHP-R17,Krishna Corner,Krishna Corner,Independent,Mughlai & Awadhi,None,False,2020-01-17,Bhopal,Bhopal Zone 02,Mid,Gold,19,Active
+2022-03-01,BHP-R18,Sagar Bhojanalaya,Sagar Bhojanalaya,Independent,Punjabi,None,False,2021-07-22,Bhopal,Bhopal Zone 03,Budget,Platinum,15,Active
+2022-03-01,BHP-R19,Ganesh Rasoi,Ganesh Rasoi,Independent,South Indian,None,False,2018-11-04,Bhopal,Unknown,Budget,Standard,20,Active
+2022-03-01,BHP-R20,Sagar Restaurant,Sagar Restaurant,Independent,Punjabi,None,True,2018-11-23,Bhopal,Bhopal Zone 02,Budget,Gold,18,Active
+2022-03-01,CHEN-R01,Amritsari Kitchen - Civil Lines,Amritsari Kitchen,Chain,Punjabi,None,True,2020-09-22,Chennai,Chennai Zone 03,Mid,Platinum,14,Active
+2022-03-01,CHEN-R010,Shree Restaurant,Shree Restaurant,Independent,Punjabi,None,False,2018-07-04,Chennai,Chennai Zone 03,Mid,Platinum,15,Active
+2022-03-01,CHEN-R02,Marwar Thali - Market Square,Marwar Thali,Chain,Rajasthani,None,False,2020-12-11,Chennai,Chennai Zone 03,Budget,Standard,20,Active
+2022-03-01,CHEN-R03,Moti Rasoi,Moti Rasoi,Independent,Mughlai & Awadhi,Punjabi,False,2019-04-29,Chennai,Chennai Zone 03,Premium,Gold,18,Active
+2022-03-01,CHEN-R04,Sagar Bhojanalaya,Sagar Bhojanalaya,Independent,Punjabi,Maharashtrian,True,2020-12-28,Chennai,Chennai Zone 03,Mid,Platinum,16,Active
+2022-03-01,CHEN-R05,Sunrise Kitchen,Sunrise Kitchen,Independent,Regional Indian,South Indian,False,2019-09-24,Chennai,Chennai Zone 03,Budget,Standard,20,Active
+2022-03-01,CHEN-R06,Zaika Corner,Zaika Corner,Independent,Regional Indian,None,False,2019-09-26,Chennai,Chennai Zone 03,Budget,Platinum,15,Active
+2022-03-01,CHEN-R07,Lucky Restaurant,Lucky Restaurant,Independent,South Indian,None,False,2020-03-15,Chennai,Chennai Zone 03,Premium,Standard,19,Active
+2022-03-01,CHEN-R08,Lucky Kitchen,Lucky Kitchen,Independent,Mughlai & Awadhi,Regional Indian,False,2021-08-12,Chennai,Chennai Zone 03,Premium,Platinum,14,Active
+2022-03-01,CHEN-R09,Gupta Corner,Gupta Corner,Independent,Punjabi,None,False,2020-05-15,Chennai,Chennai Zone 03,Premium,Gold,18,Active
+2022-03-01,CHEN-R11,Shree Bhojanalaya,Shree Bhojanalaya,Independent,Rajasthani,None,False,2021-01-26,Chennai,Chennai Zone 03,Mid,Standard,21,Active
+2022-03-01,CHEN-R12,Ganesh Restaurant,Ganesh Restaurant,Independent,South Indian,Punjabi,True,2020-03-31,Chennai,Chennai Zone 01,Budget,Gold,18,Active
+2022-03-01,CHEN-R13,Kathiyawadi Kitchen - Mall Road,Kathiyawadi Kitchen,Chain,Gujarati,None,False,2021-08-22,Chennai,Chennai Zone 03,Mid,Gold,18,Active
+2022-03-01,CHEN-R14,Gupta Restaurant,Gupta Restaurant,Independent,Rajasthani,None,True,2018-12-22,Chennai,Chennai Zone 02,Mid,Platinum,15,Active
+2022-03-01,CHEN-R15,Rajwada Rasoi - Lakeside,Rajwada Rasoi,Chain,Rajasthani,None,False,2021-03-14,Chennai,Chennai Zone 03,Budget,Platinum,15,Active
+2022-03-01,CHEN-R16,Shree Restaurant,Shree Restaurant,Independent,Regional Indian,None,False,2018-12-12,Chennai,Chennai Zone 03,Budget,Standard,19,Active
+2022-03-01,CHEN-R17,Sambar Station - Old Town,Sambar Station,Chain,South Indian,None,True,2020-12-12,Chennai,Chennai Zone 03,Mid,Platinum,16,Active
+2022-03-01,CHEN-R18,Zaika Kitchen,Zaika Kitchen,Independent,Mughlai & Awadhi,Rajasthani,False,2019-06-30,Chennai,Chennai Zone 01,Budget,Standard,20,Active
+2022-03-01,CHEN-R19,Idli Junction - Mall Road,Idli Junction,Chain,South Indian,Regional Indian,True,2019-01-05,Chennai,Chennai Zone 01,Mid,Gold,18,Active
+2022-03-01,CHEN-R20,Amritsari Kitchen - Hi-Tech Park,Amritsari Kitchen,Chain,Punjabi,South Indian,False,2020-07-27,Chennai,Chennai Zone 01,Budget,Standard,20,Active
+2022-03-01,COIMB-R01,Ganesh Kitchen,Ganesh Kitchen,Independent,South Indian,None,False,2021-05-08,Coimbatore,Coimbatore Zone 03,Budget,Gold,19,Active
+2022-03-01,COIMB-R010,Moti Rasoi,Moti Rasoi,Independent,Punjabi,South Indian,False,2021-05-10,Coimbatore,Coimbatore Zone 03,Mid,Platinum,15,Active
+2022-03-01,COIMB-R02,Sagar Corner,Sagar Corner,Independent,Bengali & East Indian,Rajasthani,False,2021-02-19,Coimbatore,Coimbatore Zone 03,Budget,Standard,20,Active
+2022-03-01,COIMB-R03,Royal Dhaba,Royal Dhaba,Independent,Punjabi,Bengali & East Indian,False,2018-10-18,Coimbatore,Coimbatore Zone 04,Budget,Platinum,16,Active
+2022-03-01,COIMB-R04,Zaika Bhojanalaya,Zaika Bhojanalaya,Independent,Maharashtrian,None,False,2019-06-24,Coimbatore,Coimbatore Zone 04,Mid,Platinum,15,Active
+2022-03-01,COIMB-R05,Moti Corner,Moti Corner,Independent,Bengali & East Indian,Maharashtrian,False,2018-11-06,Coimbatore,Coimbatore Zone 03,Mid,Platinum,15,Active
+2022-03-01,COIMB-R06,Royal Dhaba,Royal Dhaba,Independent,Mughlai & Awadhi,None,True,2019-06-17,Coimbatore,Coimbatore Zone 03,Budget,Standard,19,Active
+2022-03-01,COIMB-R07,Dosa Plaza - Old Town,Dosa Plaza,Chain,South Indian,Bengali & East Indian,True,2018-10-31,Coimbatore,Coimbatore Zone 01,Budget,Standard,20,Active
+2022-03-01,COIMB-R08,Sher-e-Punjab - Station Road,Sher-e-Punjab,Chain,Punjabi,None,False,2019-03-11,Coimbatore,Coimbatore Zone 03,Mid,Gold,18,Active
+2022-03-01,COIMB-R09,Shree Kitchen,Shree Kitchen,Independent,Regional Indian,None,False,2019-11-05,Coimbatore,Coimbatore Zone 03,Budget,Gold,19,Active
+2022-03-01,COIMB-R11,Shree Bhojanalaya,Shree Bhojanalaya,Independent,South Indian,None,True,2021-12-20,Coimbatore,Coimbatore Zone 03,Mid,Standard,20,Active
+2022-03-01,COIMB-R12,Moti Dhaba,Moti Dhaba,Independent,South Indian,None,False,2019-10-28,Coimbatore,Coimbatore Zone 03,Premium,Platinum,14,Active
+2022-03-01,COIMB-R13,Lucky Dhaba,Lucky Dhaba,Independent,Regional Indian,None,False,2018-04-24,Coimbatore,Coimbatore Zone 03,Mid,Gold,19,Active
+2022-03-01,COIMB-R14,Sambar Station - MG Road,Sambar Station,Chain,South Indian,None,False,2020-03-27,Coimbatore,Coimbatore Zone 03,Budget,Standard,19,Active
+2022-03-01,COIMB-R15,Shree Bhojanalaya,Shree Bhojanalaya,Independent,Rajasthani,Regional Indian,False,2019-09-28,Coimbatore,Coimbatore Zone 03,Premium,Standard,19,Active
+2022-03-01,COIMB-R16,Lucky Restaurant,Lucky Restaurant,Independent,South Indian,Punjabi,False,2019-07-04,Coimbatore,Coimbatore Zone 03,Mid,Standard,20,Active
+2022-03-01,COIMB-R17,Royal Restaurant,Royal Restaurant,Independent,South Indian,None,True,2020-11-17,Coimbatore,Coimbatore Zone 03,Mid,Gold,17,Active
+2022-03-01,COIMB-R18,Sharma Corner,Sharma Corner,Independent,South Indian,Mughlai & Awadhi,True,2020-08-16,Coimbatore,Coimbatore Zone 03,Mid,Gold,19,Active
+2022-03-01,COIMB-R19,Lucky Rasoi,Lucky Rasoi,Independent,Mughlai & Awadhi,Gujarati,False,2021-02-02,Coimbatore,Coimbatore Zone 03,Budget,Standard,20,Active
+2022-03-01,COIMB-R20,Ganesh Corner,Ganesh Corner,Independent,Punjabi,Bengali & East Indian,False,2019-06-06,Coimbatore,Coimbatore Zone 01,Mid,Gold,18,Active
+2022-03-01,DEH-R01,Royal Restaurant,Royal Restaurant,Independent,Mughlai & Awadhi,Rajasthani,False,2021-12-13,Dehradun,Unknown,Budget,Standard,20,Active
+2022-03-01,DEH-R010,Moti Kitchen,Moti Kitchen,Independent,Mughlai & Awadhi,Rajasthani,True,2021-05-22,Dehradun,Dehradun Zone 01,Budget,Standard,19,Active
+2022-03-01,DEH-R02,Biryani Mahal - City Center,Biryani Mahal,Chain,Mughlai & Awadhi,Punjabi,False,2021-11-17,Dehradun,Unknown,Mid,Standard,20,Active
+2022-03-01,DEH-R03,Krishna Rasoi,Krishna Rasoi,Independent,Mughlai & Awadhi,None,False,2021-11-14,Dehradun,Dehradun Zone 01,Budget,Standard,21,Active
+2022-03-01,DEH-R04,Biryani Mahal - City Center,Biryani Mahal,Chain,Mughlai & Awadhi,Gujarati,True,2018-02-24,Dehradun,Dehradun Zone 01,Budget,Standard,19,Active
+2022-03-01,DEH-R05,Lucky Dhaba,Lucky Dhaba,Independent,Mughlai & Awadhi,None,False,2020-08-28,Dehradun,Dehradun Zone 01,Mid,Standard,19,Active
+2022-03-01,DEH-R06,Gupta Restaurant,Gupta Restaurant,Independent,Punjabi,None,False,2019-05-12,Dehradun,Dehradun Zone 01,Budget,Standard,20,Active
+2022-03-01,DEH-R07,Biryani Mahal - Main Road,Biryani Mahal,Chain,Mughlai & Awadhi,None,False,2020-05-01,Dehradun,Dehradun Zone 01,Premium,Gold,19,Active
+2022-03-01,DEH-R08,Annapurna Restaurant,Annapurna Restaurant,Independent,Mughlai & Awadhi,None,False,2021-06-06,Dehradun,Dehradun Zone 01,Premium,Standard,20,Active
+2022-03-01,DEH-R09,Awadhi Darbar - Main Road,Awadhi Darbar,Chain,Mughlai & Awadhi,None,False,2021-02-07,Dehradun,Dehradun Zone 01,Budget,Standard,20,Active
+2022-03-01,DEH-R11,Awadhi Darbar - Market Square,Awadhi Darbar,Chain,Mughlai & Awadhi,South Indian,False,2018-02-12,Dehradun,Unknown,Mid,Standard,20,Active
+2022-03-01,DEH-R12,Awadhi Darbar - Mall Road,Awadhi Darbar,Chain,Mughlai & Awadhi,South Indian,False,2021-05-18,Dehradun,Unknown,Premium,Platinum,16,Active
+2022-03-01,DEH-R13,Sagar Corner,Sagar Corner,Independent,Mughlai & Awadhi,Maharashtrian,False,2020-08-25,Dehradun,Dehradun Zone 01,Mid,Gold,18,Active
+2022-03-01,DEH-R14,Awadhi Darbar - City Center,Awadhi Darbar,Chain,Mughlai & Awadhi,None,True,2018-11-17,Dehradun,Dehradun Zone 01,Mid,Standard,20,Active
+2022-03-01,DEH-R15,Sharma Dhaba,Sharma Dhaba,Independent,Punjabi,Bengali & East Indian,False,2019-06-19,Dehradun,Unknown,Mid,Platinum,15,Active
+2022-03-01,DEH-R16,Shree Bhojanalaya,Shree Bhojanalaya,Independent,Punjabi,None,False,2018-09-05,Dehradun,Dehradun Zone 01,Mid,Standard,20,Active
+2022-03-01,DEH-R17,Sharma Bhojanalaya,Sharma Bhojanalaya,Independent,Bengali & East Indian,None,False,2020-11-21,Dehradun,Dehradun Zone 01,Mid,Platinum,15,Active
+2022-03-01,DEH-R18,Shree Rasoi,Shree Rasoi,Independent,Punjabi,Bengali & East Indian,False,2018-07-28,Dehradun,Unknown,Premium,Gold,17,Active
+2022-03-01,DEH-R19,Sher-e-Punjab - Mall Road,Sher-e-Punjab,Chain,Punjabi,Mughlai & Awadhi,False,2020-06-23,Dehradun,Dehradun Zone 01,Premium,Standard,19,Active
+2022-03-01,DEH-R20,Kolkata Kitchen - Old Town,Kolkata Kitchen,Chain,Bengali & East Indian,None,True,2019-02-18,Dehradun,Unknown,Mid,Gold,18,Active
+2022-03-01,GOA-R01,Idli Junction - Hi-Tech Park,Idli Junction,Chain,South Indian,None,True,2019-06-29,Goa,Goa Zone 07,Mid,Standard,20,Active
+2022-03-01,GOA-R010,Curry Leaf - Civil Lines,Curry Leaf,Chain,Regional Indian,Rajasthani,True,2020-05-28,Goa,Goa Zone 07,Mid,Standard,21,Active
+2022-03-01,GOA-R02,Annapurna Restaurant,Annapurna Restaurant,Independent,South Indian,Regional Indian,True,2020-11-25,Goa,Goa Zone 07,Premium,Standard,21,Active
+2022-03-01,GOA-R03,Dhaba Express - Main Road,Dhaba Express,Chain,Punjabi,Regional Indian,False,2021-08-06,Goa,Goa Zone 07,Budget,Gold,18,Active
+2022-03-01,GOA-R04,Sunrise Restaurant,Sunrise Restaurant,Independent,Mughlai & Awadhi,None,False,2021-02-07,Goa,Goa Zone 07,Premium,Standard,20,Active
+2022-03-01,GOA-R05,Spice Route - MG Road,Spice Route,Chain,Regional Indian,Maharashtrian,True,2020-04-07,Goa,Unknown,Mid,Gold,18,Active
+2022-03-01,GOA-R06,Zaika Bhojanalaya,Zaika Bhojanalaya,Independent,Punjabi,None,False,2020-04-08,Goa,Goa Zone 07,Mid,Platinum,15,Active
+2022-03-01,GOA-R07,Sharma Rasoi,Sharma Rasoi,Independent,Regional Indian,Bengali & East Indian,True,2021-02-04,Goa,Goa Zone 07,Mid,Standard,20,Active
+2022-03-01,GOA-R08,Vada Pav Co. - Civil Lines,Vada Pav Co.,Chain,Maharashtrian,None,False,2019-09-15,Goa,Goa Zone 07,Mid,Standard,20,Active
+2022-03-01,GOA-R09,Ganesh Rasoi,Ganesh Rasoi,Independent,Regional Indian,Punjabi,True,2021-08-26,Goa,Goa Zone 03,Premium,Standard,21,Active
+2022-03-01,GOA-R11,Mishti & More - Old Town,Mishti & More,Chain,Bengali & East Indian,None,False,2021-03-04,Goa,Goa Zone 07,Mid,Gold,19,Active
+2022-03-01,GOA-R12,Moti Bhojanalaya,Moti Bhojanalaya,Independent,Regional Indian,None,False,2021-03-19,Goa,Goa Zone 07,Mid,Standard,21,Active
+2022-03-01,GOA-R13,Spice Route - Old Town,Spice Route,Chain,Regional Indian,None,False,2020-01-10,Goa,Goa Zone 07,Mid,Gold,17,Active
+2022-03-01,GOA-R14,Dhaba Express - Main Road,Dhaba Express,Chain,Punjabi,Bengali & East Indian,False,2020-07-02,Goa,Goa Zone 01,Budget,Platinum,14,Active
+2022-03-01,GOA-R15,Sunrise Rasoi,Sunrise Rasoi,Independent,Regional Indian,Bengali & East Indian,False,2020-06-20,Goa,Goa Zone 07,Mid,Standard,20,Active
+2022-03-01,GOA-R16,Royal Rasoi,Royal Rasoi,Independent,Regional Indian,None,False,2018-09-22,Goa,Goa Zone 05,Premium,Standard,20,Active
+2022-03-01,GOA-R17,Gupta Dhaba,Gupta Dhaba,Independent,Rajasthani,None,False,2020-01-27,Goa,Goa Zone 05,Premium,Gold,18,Active
+2022-03-01,GOA-R18,Sher-e-Punjab - Old Town,Sher-e-Punjab,Chain,Punjabi,None,True,2020-01-31,Goa,Goa Zone 05,Mid,Standard,19,Active
+2022-03-01,GOA-R19,Krishna Restaurant,Krishna Restaurant,Independent,Maharashtrian,Punjabi,False,2019-08-04,Goa,Unknown,Budget,Platinum,14,Active
+2022-03-01,GOA-R20,Annapurna Restaurant,Annapurna Restaurant,Independent,Regional Indian,Punjabi,False,2020-07-15,Goa,Unknown,Premium,Standard,19,Active
+2022-03-01,HYD-R01,Royal Rasoi,Royal Rasoi,Independent,Bengali & East Indian,Mughlai & Awadhi,False,2021-09-28,Hyderabad,Hyderabad Zone 02,Mid,Gold,18,Active
+2022-03-01,HYD-R010,Sagar Restaurant,Sagar Restaurant,Independent,Rajasthani,Regional Indian,False,2021-01-12,Hyderabad,Hyderabad Zone 02,Budget,Standard,21,Active
+2022-03-01,HYD-R02,Zaika Dhaba,Zaika Dhaba,Independent,South Indian,Maharashtrian,False,2021-12-19,Hyderabad,Hyderabad Zone 02,Mid,Gold,18,Active
+2022-03-01,HYD-R03,Udupi Delight - Market Square,Udupi Delight,Chain,South Indian,None,False,2020-09-01,Hyderabad,Hyderabad Zone 02,Mid,Platinum,15,Active
+2022-03-01,HYD-R04,Sunrise Kitchen,Sunrise Kitchen,Independent,Punjabi,None,False,2021-04-01,Hyderabad,Hyderabad Zone 01,Mid,Standard,21,Active
+2022-03-01,HYD-R05,Gupta Dhaba,Gupta Dhaba,Independent,Bengali & East Indian,None,True,2018-02-19,Hyderabad,Hyderabad Zone 01,Premium,Standard,21,Active
+2022-03-01,HYD-R06,Royal Bhojanalaya,Royal Bhojanalaya,Independent,Maharashtrian,Punjabi,False,2018-07-03,Hyderabad,Hyderabad Zone 01,Budget,Gold,18,Active
+2022-03-01,HYD-R07,Desi Plate - Old Town,Desi Plate,Chain,Regional Indian,None,True,2020-03-09,Hyderabad,Hyderabad Zone 01,Budget,Standard,20,Active
+2022-03-01,HYD-R08,Punjabi Tadka - City Center,Punjabi Tadka,Chain,Punjabi,None,False,2021-04-15,Hyderabad,Hyderabad Zone 01,Budget,Standard,20,Active
+2022-03-01,HYD-R09,Annapurna Bhojanalaya,Annapurna Bhojanalaya,Independent,South Indian,None,False,2020-09-18,Hyderabad,Hyderabad Zone 02,Budget,Standard,21,Active
+2022-03-01,HYD-R11,Udupi Delight - Civil Lines,Udupi Delight,Chain,South Indian,None,False,2018-09-15,Hyderabad,Hyderabad Zone 02,Mid,Standard,21,Active
+2022-03-01,HYD-R12,Moti Rasoi,Moti Rasoi,Independent,South Indian,Mughlai & Awadhi,False,2021-01-05,Hyderabad,Hyderabad Zone 01,Premium,Platinum,15,Active
+2022-03-01,HYD-R13,Spice Route - Hi-Tech Park,Spice Route,Chain,Regional Indian,None,False,2018-01-02,Hyderabad,Hyderabad Zone 02,Budget,Standard,20,Active
+2022-03-01,HYD-R14,Moti Corner,Moti Corner,Independent,Mughlai & Awadhi,Maharashtrian,False,2019-07-31,Hyderabad,Hyderabad Zone 02,Budget,Standard,20,Active
+2022-03-01,HYD-R15,Zaika Dhaba,Zaika Dhaba,Independent,South Indian,None,False,2019-07-27,Hyderabad,Hyderabad Zone 01,Premium,Gold,18,Active
+2022-03-01,HYD-R16,Ganesh Bhojanalaya,Ganesh Bhojanalaya,Independent,Punjabi,None,False,2019-07-14,Hyderabad,Hyderabad Zone 01,Budget,Platinum,14,Active
+2022-03-01,HYD-R17,Annapurna Corner,Annapurna Corner,Independent,Regional Indian,South Indian,False,2021-05-31,Hyderabad,Hyderabad Zone 01,Mid,Standard,21,Active
+2022-03-01,HYD-R18,Sagar Rasoi,Sagar Rasoi,Independent,Mughlai & Awadhi,None,False,2021-08-26,Hyderabad,Hyderabad Zone 01,Budget,Standard,20,Active
+2022-03-01,HYD-R19,Moti Restaurant,Moti Restaurant,Independent,Punjabi,None,False,2018-12-29,Hyderabad,Hyderabad Zone 03,Premium,Gold,18,Active
+2022-03-01,HYD-R20,Mishti & More - Old Town,Mishti & More,Chain,Bengali & East Indian,None,False,2018-02-10,Hyderabad,Hyderabad Zone 03,Mid,Gold,17,Active
+2022-03-01,INDO-R01,Awadhi Darbar - Market Square,Awadhi Darbar,Chain,Mughlai & Awadhi,None,False,2019-04-25,Indore,Indore Zone 01,Premium,Standard,21,Active
+2022-03-01,INDO-R010,Lucky Dhaba,Lucky Dhaba,Independent,Regional Indian,South Indian,False,2020-03-22,Indore,Indore Zone 04,Budget,Standard,20,Active
+2022-03-01,INDO-R02,Kathiyawadi Kitchen - Mall Road,Kathiyawadi Kitchen,Chain,Gujarati,None,False,2021-05-19,Indore,Indore Zone 01,Mid,Gold,17,Active
+2022-03-01,INDO-R03,Amritsari Kitchen - Market Square,Amritsari Kitchen,Chain,Punjabi,Gujarati,False,2019-07-16,Indore,Indore Zone 03,Budget,Platinum,15,Active
+2022-03-01,INDO-R04,Krishna Bhojanalaya,Krishna Bhojanalaya,Independent,Mughlai & Awadhi,None,False,2018-01-05,Indore,Indore Zone 04,Mid,Gold,18,Active
+2022-03-01,INDO-R05,Nawabi Handi - Old Town,Nawabi Handi,Chain,Mughlai & Awadhi,None,False,2018-09-07,Indore,Indore Zone 03,Mid,Gold,17,Active
+2022-03-01,INDO-R06,Mishti & More - Mall Road,Mishti & More,Chain,Bengali & East Indian,Regional Indian,False,2020-07-08,Indore,Indore Zone 03,Mid,Standard,20,Active
+2022-03-01,INDO-R07,Zaika Restaurant,Zaika Restaurant,Independent,South Indian,Rajasthani,False,2019-02-08,Indore,Indore Zone 03,Budget,Platinum,14,Active
+2022-03-01,INDO-R08,Thali Ghar - Hi-Tech Park,Thali Ghar,Chain,Gujarati,None,False,2021-07-06,Indore,Indore Zone 03,Premium,Gold,19,Active
+2022-03-01,INDO-R09,Biryani Mahal - Old Town,Biryani Mahal,Chain,Mughlai & Awadhi,South Indian,False,2019-04-30,Indore,Indore Zone 03,Premium,Gold,17,Active
+2022-03-01,INDO-R11,Krishna Dhaba,Krishna Dhaba,Independent,Mughlai & Awadhi,None,True,2018-03-10,Indore,Indore Zone 03,Mid,Standard,20,Active
+2022-03-01,INDO-R12,Gupta Dhaba,Gupta Dhaba,Independent,Mughlai & Awadhi,None,False,2018-05-15,Indore,Indore Zone 03,Budget,Standard,19,Active
+2022-03-01,INDO-R13,Krishna Restaurant,Krishna Restaurant,Independent,Punjabi,Regional Indian,False,2021-09-13,Indore,Indore Zone 03,Mid,Standard,20,Active
+2022-03-01,INDO-R14,Shree Bhojanalaya,Shree Bhojanalaya,Independent,Bengali & East Indian,South Indian,False,2018-02-23,Indore,Indore Zone 03,Mid,Gold,17,Active
+2022-03-01,INDO-R15,Vada Pav Co. - City Center,Vada Pav Co.,Chain,Maharashtrian,Punjabi,True,2021-03-19,Indore,Indore Zone 03,Budget,Gold,18,Active
+2022-03-01,INDO-R16,Royal Kitchen,Royal Kitchen,Independent,Rajasthani,South Indian,True,2018-09-19,Indore,Indore Zone 03,Mid,Standard,20,Active
+2022-03-01,INDO-R17,Krishna Rasoi,Krishna Rasoi,Independent,South Indian,None,True,2019-09-25,Indore,Indore Zone 03,Budget,Standard,21,Active
+2022-03-01,INDO-R18,Annapurna Kitchen,Annapurna Kitchen,Independent,Gujarati,None,False,2018-04-22,Indore,Indore Zone 03,Mid,Standard,19,Active
+2022-03-01,INDO-R19,Lucky Corner,Lucky Corner,Independent,Punjabi,Maharashtrian,False,2020-08-15,Indore,Indore Zone 03,Mid,Standard,20,Active
+2022-03-01,INDO-R20,Sunrise Restaurant,Sunrise Restaurant,Independent,Maharashtrian,None,True,2018-03-28,Indore,Indore Zone 03,Mid,Standard,20,Active
+2022-03-01,JAP-R01,Krishna Kitchen,Krishna Kitchen,Independent,Mughlai & Awadhi,None,False,2019-11-10,Jaipur,Jaipur Zone 05,Premium,Standard,19,Active
+2022-03-01,JAP-R010,Annapurna Dhaba,Annapurna Dhaba,Independent,South Indian,Regional Indian,False,2018-10-19,Jaipur,Jaipur Zone 04,Budget,Standard,20,Active
+2022-03-01,JAP-R02,Annapurna Kitchen,Annapurna Kitchen,Independent,Punjabi,None,True,2019-06-21,Jaipur,Jaipur Zone 05,Mid,Standard,19,Active
+2022-03-01,JAP-R03,Pune Pavilion - Main Road,Pune Pavilion,Chain,Maharashtrian,None,False,2018-02-12,Jaipur,Jaipur Zone 05,Premium,Gold,17,Active
+2022-03-01,JAP-R04,Lucky Bhojanalaya,Lucky Bhojanalaya,Independent,Punjabi,None,False,2020-02-02,Jaipur,Jaipur Zone 04,Mid,Standard,21,Active
+2022-03-01,JAP-R05,Zaika Dhaba,Zaika Dhaba,Independent,Regional Indian,None,False,2018-09-25,Jaipur,Jaipur Zone 04,Mid,Standard,19,Active
+2022-03-01,JAP-R06,Ganesh Kitchen,Ganesh Kitchen,Independent,Punjabi,South Indian,False,2021-04-17,Jaipur,Jaipur Zone 04,Budget,Platinum,14,Active
+2022-03-01,JAP-R07,Ganesh Bhojanalaya,Ganesh Bhojanalaya,Independent,Rajasthani,None,False,2021-04-11,Jaipur,Jaipur Zone 01,Premium,Standard,20,Active
+2022-03-01,JAP-R08,Shree Kitchen,Shree Kitchen,Independent,Punjabi,Bengali & East Indian,False,2021-08-14,Jaipur,Jaipur Zone 04,Mid,Platinum,15,Active
+2022-03-01,JAP-R09,Vada Pav Co. - Old Town,Vada Pav Co.,Chain,Maharashtrian,None,False,2020-10-10,Jaipur,Jaipur Zone 04,Mid,Gold,18,Active
+2022-03-01,JAP-R11,Lucky Kitchen,Lucky Kitchen,Independent,Rajasthani,None,False,2019-04-26,Jaipur,Jaipur Zone 04,Mid,Platinum,14,Active
+2022-03-01,JAP-R12,Sunrise Rasoi,Sunrise Rasoi,Independent,Gujarati,None,False,2019-08-28,Jaipur,Jaipur Zone 04,Mid,Gold,18,Active
+2022-03-01,JAP-R13,Moti Restaurant,Moti Restaurant,Independent,Maharashtrian,None,False,2020-01-23,Jaipur,Jaipur Zone 02,Premium,Standard,20,Active
+2022-03-01,JAP-R14,Ganesh Dhaba,Ganesh Dhaba,Independent,Maharashtrian,Gujarati,True,2020-10-24,Jaipur,Jaipur Zone 02,Mid,Standard,21,Active
+2022-03-01,JAP-R15,Shree Dhaba,Shree Dhaba,Independent,Rajasthani,None,False,2019-11-15,Jaipur,Jaipur Zone 02,Budget,Standard,21,Active
+2022-03-01,JAP-R16,Lucky Corner,Lucky Corner,Independent,Maharashtrian,Regional Indian,True,2021-01-17,Jaipur,Jaipur Zone 02,Premium,Gold,19,Active
+2022-03-01,JAP-R17,Sagar Rasoi,Sagar Rasoi,Independent,Punjabi,Regional Indian,True,2021-09-01,Jaipur,Jaipur Zone 02,Mid,Gold,18,Active
+2022-03-01,JAP-R18,Rajwada Rasoi - Mall Road,Rajwada Rasoi,Chain,Rajasthani,South Indian,False,2021-02-05,Jaipur,Jaipur Zone 04,Mid,Standard,20,Active
+2022-03-01,JAP-R19,Rajwada Rasoi - Mall Road,Rajwada Rasoi,Chain,Rajasthani,Regional Indian,False,2019-03-06,Jaipur,Jaipur Zone 04,Mid,Standard,21,Active
+2022-03-01,JAP-R20,Sunrise Corner,Sunrise Corner,Independent,Rajasthani,Gujarati,False,2019-12-28,Jaipur,Jaipur Zone 04,Mid,Standard,20,Active
+2022-03-01,KNP-R01,Sunrise Bhojanalaya,Sunrise Bhojanalaya,Independent,South Indian,None,False,2018-03-07,Kanpur,Kanpur Zone 02,Premium,Gold,18,Active
+2022-03-01,KNP-R010,Krishna Rasoi,Krishna Rasoi,Independent,Punjabi,None,False,2019-02-23,Kanpur,Kanpur Zone 02,Premium,Standard,20,Active
+2022-03-01,KNP-R02,Dhaba Express - Market Square,Dhaba Express,Chain,Punjabi,Bengali & East Indian,False,2018-12-18,Kanpur,Kanpur Zone 02,Mid,Gold,18,Active
+2022-03-01,KNP-R03,Royal Kitchen,Royal Kitchen,Independent,Rajasthani,Mughlai & Awadhi,False,2019-08-05,Kanpur,Kanpur Zone 02,Budget,Standard,19,Active
+2022-03-01,KNP-R04,Sharma Dhaba,Sharma Dhaba,Independent,Gujarati,None,False,2020-04-21,Kanpur,Kanpur Zone 02,Mid,Platinum,15,Active
+2022-03-01,KNP-R05,Sagar Kitchen,Sagar Kitchen,Independent,Regional Indian,South Indian,True,2020-06-04,Kanpur,Kanpur Zone 02,Premium,Standard,20,Active
+2022-03-01,KNP-R06,Lucky Rasoi,Lucky Rasoi,Independent,Mughlai & Awadhi,Bengali & East Indian,False,2019-02-18,Kanpur,Unknown,Budget,Gold,19,Active
+2022-03-01,KNP-R07,Sharma Bhojanalaya,Sharma Bhojanalaya,Independent,Punjabi,Bengali & East Indian,False,2020-07-31,Kanpur,Kanpur Zone 02,Premium,Gold,17,Active
+2022-03-01,KNP-R08,Moti Corner,Moti Corner,Independent,Punjabi,Mughlai & Awadhi,False,2020-03-11,Kanpur,Unknown,Mid,Gold,18,Active
+2022-03-01,KNP-R09,Awadhi Darbar - Market Square,Awadhi Darbar,Chain,Mughlai & Awadhi,Gujarati,False,2021-09-11,Kanpur,Kanpur Zone 02,Budget,Standard,21,Active
+2022-03-01,KNP-R11,Nawabi Handi - Station Road,Nawabi Handi,Chain,Mughlai & Awadhi,Punjabi,False,2021-09-27,Kanpur,Kanpur Zone 02,Mid,Platinum,15,Active
+2022-03-01,KNP-R12,Nawabi Handi - Hi-Tech Park,Nawabi Handi,Chain,Mughlai & Awadhi,None,False,2020-01-26,Kanpur,Kanpur Zone 02,Budget,Platinum,14,Active
+2022-03-01,KNP-R13,Royal Bhojanalaya,Royal Bhojanalaya,Independent,Punjabi,None,True,2018-02-24,Kanpur,Kanpur Zone 01,Budget,Standard,20,Active
+2022-03-01,KNP-R14,Lucky Restaurant,Lucky Restaurant,Independent,Mughlai & Awadhi,None,False,2021-12-23,Kanpur,Kanpur Zone 02,Premium,Standard,20,Active
+2022-03-01,KNP-R15,Shree Rasoi,Shree Rasoi,Independent,Maharashtrian,None,False,2020-06-15,Kanpur,Kanpur Zone 02,Budget,Gold,19,Active
+2022-03-01,KNP-R16,Awadhi Darbar - Main Road,Awadhi Darbar,Chain,Mughlai & Awadhi,None,False,2020-12-30,Kanpur,Kanpur Zone 02,Mid,Standard,20,Active
+2022-03-01,KNP-R17,Amritsari Kitchen - MG Road,Amritsari Kitchen,Chain,Punjabi,None,True,2018-03-12,Kanpur,Kanpur Zone 02,Premium,Standard,20,Active
+2022-03-01,KNP-R18,Ganesh Corner,Ganesh Corner,Independent,Rajasthani,Punjabi,False,2020-03-10,Kanpur,Kanpur Zone 02,Mid,Gold,18,Active
+2022-03-01,KNP-R19,Mishti & More - Lakeside,Mishti & More,Chain,Bengali & East Indian,None,False,2019-05-04,Kanpur,Kanpur Zone 02,Budget,Standard,20,Active
+2022-03-01,KNP-R20,Ganesh Corner,Ganesh Corner,Independent,Punjabi,Gujarati,False,2018-07-17,Kanpur,Kanpur Zone 02,Mid,Standard,21,Active
+2022-03-01,KOC-R01,Marwar Thali - Civil Lines,Marwar Thali,Chain,Rajasthani,Gujarati,False,2021-07-07,Kochi,Kochi Zone 06,Budget,Gold,18,Active
+2022-03-01,KOC-R010,Lucky Kitchen,Lucky Kitchen,Independent,Punjabi,None,False,2018-01-31,Kochi,Kochi Zone 02,Mid,Standard,21,Active
+2022-03-01,KOC-R02,Vada Pav Co. - MG Road,Vada Pav Co.,Chain,Maharashtrian,Bengali & East Indian,True,2019-03-24,Kochi,Kochi Zone 02,Mid,Platinum,15,Active
+2022-03-01,KOC-R03,Royal Bhojanalaya,Royal Bhojanalaya,Independent,Bengali & East Indian,Punjabi,False,2021-07-16,Kochi,Kochi Zone 02,Mid,Platinum,15,Active
+2022-03-01,KOC-R04,Royal Corner,Royal Corner,Independent,South Indian,None,False,2021-09-26,Kochi,Kochi Zone 06,Mid,Gold,18,Active
+2022-03-01,KOC-R05,Sharma Corner,Sharma Corner,Independent,Maharashtrian,None,False,2021-12-14,Kochi,Kochi Zone 06,Premium,Platinum,16,Active
+2022-03-01,KOC-R06,Lucky Corner,Lucky Corner,Independent,Punjabi,None,False,2018-06-12,Kochi,Kochi Zone 06,Budget,Standard,19,Active
+2022-03-01,KOC-R07,Lucky Corner,Lucky Corner,Independent,Maharashtrian,Gujarati,False,2019-11-05,Kochi,Kochi Zone 06,Budget,Gold,18,Active
+2022-03-01,KOC-R08,Vada Pav Co. - Lakeside,Vada Pav Co.,Chain,Maharashtrian,None,False,2019-04-15,Kochi,Kochi Zone 06,Premium,Gold,18,Active
+2022-03-01,KOC-R09,Vada Pav Co. - Mall Road,Vada Pav Co.,Chain,Maharashtrian,Rajasthani,False,2020-02-21,Kochi,Kochi Zone 02,Mid,Gold,18,Active
+2022-03-01,KOC-R11,Punjabi Tadka - Hi-Tech Park,Punjabi Tadka,Chain,Punjabi,None,True,2018-10-17,Kochi,Kochi Zone 02,Premium,Platinum,15,Active
+2022-03-01,KOC-R12,Lucky Rasoi,Lucky Rasoi,Independent,Punjabi,Rajasthani,False,2019-09-30,Kochi,Kochi Zone 06,Budget,Standard,20,Active
+2022-03-01,KOC-R13,Dhaba Express - MG Road,Dhaba Express,Chain,Punjabi,Rajasthani,True,2020-09-12,Kochi,Kochi Zone 06,Premium,Platinum,16,Active
+2022-03-01,KOC-R14,Sharma Rasoi,Sharma Rasoi,Independent,Regional Indian,Gujarati,False,2020-09-14,Kochi,Kochi Zone 02,Budget,Gold,18,Active
+2022-03-01,KOC-R15,Krishna Rasoi,Krishna Rasoi,Independent,South Indian,None,False,2019-06-11,Kochi,Kochi Zone 02,Mid,Platinum,14,Active
+2022-03-01,KOC-R16,Moti Kitchen,Moti Kitchen,Independent,Gujarati,Rajasthani,True,2019-01-24,Kochi,Kochi Zone 02,Budget,Gold,18,Active
+2022-03-01,KOC-R17,Sagar Restaurant,Sagar Restaurant,Independent,Rajasthani,None,False,2020-09-29,Kochi,Kochi Zone 06,Mid,Platinum,15,Active
+2022-03-01,KOC-R18,Sagar Rasoi,Sagar Rasoi,Independent,Regional Indian,Punjabi,False,2019-06-07,Kochi,Kochi Zone 06,Mid,Standard,20,Active
+2022-03-01,KOC-R19,Zaika Dhaba,Zaika Dhaba,Independent,Bengali & East Indian,Mughlai & Awadhi,False,2019-05-21,Kochi,Kochi Zone 06,Budget,Gold,18,Active
+2022-03-01,KOC-R20,Zaika Corner,Zaika Corner,Independent,Punjabi,None,False,2020-07-21,Kochi,Kochi Zone 07,Premium,Gold,18,Active
+2022-03-01,KOL-R01,Annapurna Dhaba,Annapurna Dhaba,Independent,Punjabi,Rajasthani,False,2020-02-27,Kolkata,Kolkata Zone 01,Mid,Platinum,15,Active
+2022-03-01,KOL-R010,Sagar Kitchen,Sagar Kitchen,Independent,Bengali & East Indian,None,False,2019-09-11,Kolkata,Kolkata Zone 01,Mid,Platinum,15,Active
+2022-03-01,KOL-R02,Zaika Dhaba,Zaika Dhaba,Independent,Bengali & East Indian,None,False,2019-12-07,Kolkata,Kolkata Zone 01,Premium,Standard,20,Active
+2022-03-01,KOL-R03,Annapurna Kitchen,Annapurna Kitchen,Independent,Gujarati,Mughlai & Awadhi,True,2018-05-24,Kolkata,Kolkata Zone 01,Mid,Gold,17,Active
+2022-03-01,KOL-R04,Royal Bhojanalaya,Royal Bhojanalaya,Independent,South Indian,Maharashtrian,True,2020-09-23,Kolkata,Kolkata Zone 01,Budget,Standard,21,Active
+2022-03-01,KOL-R05,Desi Plate - Mall Road,Desi Plate,Chain,Regional Indian,Mughlai & Awadhi,False,2019-01-28,Kolkata,Kolkata Zone 01,Budget,Standard,21,Active
+2022-03-01,KOL-R06,Ganesh Kitchen,Ganesh Kitchen,Independent,Mughlai & Awadhi,Rajasthani,True,2018-09-13,Kolkata,Kolkata Zone 01,Budget,Standard,21,Active
+2022-03-01,KOL-R07,Annapurna Dhaba,Annapurna Dhaba,Independent,Maharashtrian,None,False,2021-09-24,Kolkata,Kolkata Zone 01,Mid,Standard,20,Active
+2022-03-01,KOL-R08,Krishna Rasoi,Krishna Rasoi,Independent,Regional Indian,Bengali & East Indian,False,2020-09-22,Kolkata,Kolkata Zone 01,Budget,Platinum,15,Active
+2022-03-01,KOL-R09,Moti Kitchen,Moti Kitchen,Independent,Maharashtrian,South Indian,False,2020-02-15,Kolkata,Kolkata Zone 01,Mid,Platinum,14,Active
+2022-03-01,KOL-R11,Gupta Corner,Gupta Corner,Independent,Regional Indian,None,False,2018-10-12,Kolkata,Kolkata Zone 02,Budget,Standard,21,Active
+2022-03-01,KOL-R12,Moti Restaurant,Moti Restaurant,Independent,Punjabi,None,False,2020-08-31,Kolkata,Kolkata Zone 01,Mid,Gold,19,Active
+2022-03-01,KOL-R13,Annapurna Corner,Annapurna Corner,Independent,Bengali & East Indian,Mughlai & Awadhi,True,2019-10-29,Kolkata,Kolkata Zone 01,Mid,Standard,19,Active
+2022-03-01,KOL-R14,Moti Restaurant,Moti Restaurant,Independent,Punjabi,Mughlai & Awadhi,False,2020-09-02,Kolkata,Kolkata Zone 01,Premium,Platinum,14,Active
+2022-03-01,KOL-R15,Krishna Kitchen,Krishna Kitchen,Independent,Rajasthani,None,False,2021-03-17,Kolkata,Kolkata Zone 01,Mid,Gold,19,Active
+2022-03-01,KOL-R16,Ganesh Rasoi,Ganesh Rasoi,Independent,Bengali & East Indian,South Indian,False,2020-07-02,Kolkata,Kolkata Zone 01,Premium,Platinum,16,Active
+2022-03-01,KOL-R17,Bhoj Bengal - Station Road,Bhoj Bengal,Chain,Bengali & East Indian,None,True,2018-03-01,Kolkata,Kolkata Zone 02,Budget,Gold,18,Active
+2022-03-01,KOL-R18,Zaika Bhojanalaya,Zaika Bhojanalaya,Independent,Mughlai & Awadhi,None,False,2021-10-05,Kolkata,Kolkata Zone 02,Budget,Gold,18,Active
+2022-03-01,KOL-R19,Zaika Bhojanalaya,Zaika Bhojanalaya,Independent,Punjabi,None,False,2021-05-15,Kolkata,Kolkata Zone 02,Budget,Platinum,14,Active
+2022-03-01,KOL-R20,Ganesh Corner,Ganesh Corner,Independent,Maharashtrian,None,False,2020-06-13,Kolkata,Kolkata Zone 01,Premium,Gold,18,Active
+2022-03-01,LUDH-R01,Amritsari Kitchen - Old Town,Amritsari Kitchen,Chain,Punjabi,Gujarati,True,2020-01-24,Ludhiana,Ludhiana Zone 02,Budget,Gold,19,Active
+2022-03-01,LUDH-R010,Amritsari Kitchen - Main Road,Amritsari Kitchen,Chain,Punjabi,Mughlai & Awadhi,False,2019-10-17,Ludhiana,Ludhiana Zone 02,Mid,Platinum,16,Active
+2022-03-01,LUDH-R02,Bhoj Bengal - Market Square,Bhoj Bengal,Chain,Bengali & East Indian,None,False,2021-01-07,Ludhiana,Unknown,Premium,Standard,20,Active
+2022-03-01,LUDH-R03,Dhaba Express - Mall Road,Dhaba Express,Chain,Punjabi,None,True,2019-08-04,Ludhiana,Ludhiana Zone 02,Budget,Gold,18,Active
+2022-03-01,LUDH-R04,Moti Bhojanalaya,Moti Bhojanalaya,Independent,Maharashtrian,None,False,2019-07-15,Ludhiana,Ludhiana Zone 03,Premium,Standard,20,Active
+2022-03-01,LUDH-R05,Dosa Plaza - MG Road,Dosa Plaza,Chain,South Indian,Regional Indian,False,2018-11-09,Ludhiana,Ludhiana Zone 03,Premium,Standard,21,Active
+2022-03-01,LUDH-R06,Royal Restaurant,Royal Restaurant,Independent,Punjabi,None,False,2021-09-12,Ludhiana,Ludhiana Zone 02,Premium,Gold,18,Active
+2022-03-01,LUDH-R07,Moti Restaurant,Moti Restaurant,Independent,Punjabi,Bengali & East Indian,False,2019-08-03,Ludhiana,Unknown,Budget,Standard,21,Active
+2022-03-01,LUDH-R08,Royal Bhojanalaya,Royal Bhojanalaya,Independent,Mughlai & Awadhi,None,False,2018-04-21,Ludhiana,Ludhiana Zone 02,Premium,Gold,18,Active
+2022-03-01,LUDH-R09,Zaika Restaurant,Zaika Restaurant,Independent,South Indian,Gujarati,True,2019-03-23,Ludhiana,Ludhiana Zone 01,Premium,Standard,19,Active
+2022-03-01,LUDH-R11,Shree Corner,Shree Corner,Independent,Punjabi,None,False,2020-02-11,Ludhiana,Ludhiana Zone 02,Premium,Gold,19,Active
+2022-03-01,LUDH-R12,Moti Restaurant,Moti Restaurant,Independent,Punjabi,None,True,2020-11-21,Ludhiana,Ludhiana Zone 02,Mid,Standard,19,Active
+2022-03-01,LUDH-R13,Lucky Dhaba,Lucky Dhaba,Independent,Gujarati,None,False,2019-09-12,Ludhiana,Ludhiana Zone 02,Premium,Standard,19,Active
+2022-03-01,LUDH-R14,Gupta Corner,Gupta Corner,Independent,Regional Indian,None,False,2020-06-30,Ludhiana,Ludhiana Zone 02,Mid,Standard,20,Active
+2022-03-01,LUDH-R15,Lucky Dhaba,Lucky Dhaba,Independent,Punjabi,Bengali & East Indian,False,2020-09-09,Ludhiana,Ludhiana Zone 02,Budget,Gold,18,Active
+2022-03-01,LUDH-R16,Dosa Plaza - Hi-Tech Park,Dosa Plaza,Chain,South Indian,None,True,2019-10-29,Ludhiana,Ludhiana Zone 02,Budget,Standard,20,Active
+2022-03-01,LUDH-R17,Nawabi Handi - Main Road,Nawabi Handi,Chain,Mughlai & Awadhi,None,False,2020-12-21,Ludhiana,Ludhiana Zone 02,Mid,Gold,18,Active
+2022-03-01,LUDH-R18,Lucky Corner,Lucky Corner,Independent,Punjabi,None,True,2021-05-11,Ludhiana,Ludhiana Zone 02,Mid,Platinum,15,Active
+2022-03-01,LUDH-R19,Amritsari Kitchen - Station Road,Amritsari Kitchen,Chain,Punjabi,South Indian,True,2019-06-10,Ludhiana,Ludhiana Zone 03,Premium,Gold,17,Active
+2022-03-01,LUDH-R20,Sharma Kitchen,Sharma Kitchen,Independent,Punjabi,None,False,2018-01-01,Ludhiana,Ludhiana Zone 01,Budget,Platinum,15,Active
+2022-03-01,MUM-R01,Ganesh Rasoi,Ganesh Rasoi,Independent,Punjabi,None,False,2021-11-24,Mumbai,Mumbai Zone 05,Mid,Standard,20,Active
+2022-03-01,MUM-R010,Lucky Corner,Lucky Corner,Independent,Mughlai & Awadhi,None,False,2019-05-01,Mumbai,Mumbai Zone 03,Budget,Standard,20,Active
+2022-03-01,MUM-R02,Amritsari Kitchen - Station Road,Amritsari Kitchen,Chain,Punjabi,None,False,2021-06-28,Mumbai,Mumbai Zone 07,Mid,Gold,19,Active
+2022-03-01,MUM-R03,Gupta Dhaba,Gupta Dhaba,Independent,Maharashtrian,Mughlai & Awadhi,False,2021-11-23,Mumbai,Mumbai Zone 07,Budget,Platinum,14,Active
+2022-03-01,MUM-R04,Sher-e-Punjab - Mall Road,Sher-e-Punjab,Chain,Punjabi,None,False,2020-11-13,Mumbai,Mumbai Zone 07,Premium,Gold,18,Active
+2022-03-01,MUM-R05,Krishna Kitchen,Krishna Kitchen,Independent,Maharashtrian,Regional Indian,True,2018-08-14,Mumbai,Mumbai Zone 01,Mid,Standard,21,Active
+2022-03-01,MUM-R06,Sunrise Kitchen,Sunrise Kitchen,Independent,Maharashtrian,Punjabi,False,2018-01-21,Mumbai,Mumbai Zone 03,Budget,Platinum,14,Active
+2022-03-01,MUM-R07,Royal Rasoi,Royal Rasoi,Independent,Regional Indian,Punjabi,False,2020-09-29,Mumbai,Mumbai Zone 03,Budget,Gold,17,Active
+2022-03-01,MUM-R08,Vada Pav Co. - MG Road,Vada Pav Co.,Chain,Maharashtrian,None,True,2019-10-14,Mumbai,Mumbai Zone 03,Premium,Standard,21,Active
+2022-03-01,MUM-R09,Sharma Rasoi,Sharma Rasoi,Independent,Maharashtrian,Mughlai & Awadhi,False,2021-04-28,Mumbai,Mumbai Zone 01,Budget,Platinum,15,Active
+2022-03-01,MUM-R11,Amritsari Kitchen - Station Road,Amritsari Kitchen,Chain,Punjabi,None,False,2018-04-19,Mumbai,Mumbai Zone 01,Premium,Standard,20,Active
+2022-03-01,MUM-R12,Misal House - Market Square,Misal House,Chain,Maharashtrian,Regional Indian,True,2019-12-26,Mumbai,Mumbai Zone 08,Mid,Gold,18,Active
+2022-03-01,MUM-R13,Sunrise Corner,Sunrise Corner,Independent,Maharashtrian,Bengali & East Indian,False,2020-04-12,Mumbai,Mumbai Zone 05,Mid,Platinum,16,Active
+2022-03-01,MUM-R14,Marwar Thali - Mall Road,Marwar Thali,Chain,Rajasthani,None,True,2019-08-09,Mumbai,Mumbai Zone 05,Mid,Standard,20,Active
+2022-03-01,MUM-R15,Ganesh Rasoi,Ganesh Rasoi,Independent,Maharashtrian,None,True,2020-10-16,Mumbai,Mumbai Zone 05,Mid,Platinum,15,Active
+2022-03-01,MUM-R16,Annapurna Rasoi,Annapurna Rasoi,Independent,Regional Indian,None,False,2018-01-15,Mumbai,Mumbai Zone 06,Mid,Standard,20,Active
+2022-03-01,MUM-R17,Udupi Delight - Civil Lines,Udupi Delight,Chain,South Indian,None,False,2021-10-13,Mumbai,Mumbai Zone 06,Premium,Gold,18,Active
+2022-03-01,MUM-R18,Mishti & More - Old Town,Mishti & More,Chain,Bengali & East Indian,None,False,2020-05-15,Mumbai,Mumbai Zone 05,Mid,Standard,20,Active
+2022-03-01,MUM-R19,Sharma Dhaba,Sharma Dhaba,Independent,Punjabi,None,False,2019-06-27,Mumbai,Mumbai Zone 05,Budget,Standard,20,Active
+2022-03-01,MUM-R20,Udupi Delight - MG Road,Udupi Delight,Chain,South Indian,None,False,2020-09-26,Mumbai,Mumbai Zone 05,Budget,Standard,21,Active
+2022-03-01,MYS-R01,Moti Corner,Moti Corner,Independent,Punjabi,South Indian,False,2018-07-27,Mysuru,Mysuru Zone 02,Mid,Standard,20,Active
+2022-03-01,MYS-R010,Shree Restaurant,Shree Restaurant,Independent,Punjabi,None,False,2019-05-28,Mysuru,Mysuru Zone 02,Mid,Standard,20,Active
+2022-03-01,MYS-R02,Sunrise Dhaba,Sunrise Dhaba,Independent,South Indian,Bengali & East Indian,False,2020-06-18,Mysuru,Mysuru Zone 02,Budget,Platinum,15,Active
+2022-03-01,MYS-R03,Shree Kitchen,Shree Kitchen,Independent,Maharashtrian,South Indian,True,2020-05-12,Mysuru,Mysuru Zone 01,Mid,Standard,20,Active
+2022-03-01,MYS-R04,Shree Restaurant,Shree Restaurant,Independent,Mughlai & Awadhi,Gujarati,False,2021-10-28,Mysuru,Mysuru Zone 02,Mid,Standard,19,Active
+2022-03-01,MYS-R05,Zaika Corner,Zaika Corner,Independent,Maharashtrian,None,False,2018-08-13,Mysuru,Mysuru Zone 02,Premium,Gold,18,Active
+2022-03-01,MYS-R06,Annapurna Corner,Annapurna Corner,Independent,Bengali & East Indian,Maharashtrian,False,2021-05-07,Mysuru,Mysuru Zone 02,Mid,Standard,19,Active
+2022-03-01,MYS-R07,Sambar Station - Lakeside,Sambar Station,Chain,South Indian,Bengali & East Indian,False,2019-01-18,Mysuru,Mysuru Zone 02,Budget,Gold,18,Active
+2022-03-01,MYS-R08,Ganesh Restaurant,Ganesh Restaurant,Independent,Bengali & East Indian,None,False,2018-07-31,Mysuru,Mysuru Zone 01,Mid,Standard,21,Active
+2022-03-01,MYS-R09,Lucky Dhaba,Lucky Dhaba,Independent,South Indian,Regional Indian,True,2019-01-29,Mysuru,Mysuru Zone 02,Premium,Standard,21,Active
+2022-03-01,MYS-R11,Dosa Plaza - Main Road,Dosa Plaza,Chain,South Indian,None,False,2021-07-21,Mysuru,Mysuru Zone 02,Premium,Standard,20,Active
+2022-03-01,MYS-R12,Sunrise Dhaba,Sunrise Dhaba,Independent,Punjabi,Gujarati,False,2019-12-20,Mysuru,Mysuru Zone 01,Budget,Standard,21,Active
+2022-03-01,MYS-R13,Punjabi Tadka - Main Road,Punjabi Tadka,Chain,Punjabi,None,False,2019-08-08,Mysuru,Mysuru Zone 02,Mid,Gold,17,Active
+2022-03-01,MYS-R14,Nawabi Handi - Hi-Tech Park,Nawabi Handi,Chain,Mughlai & Awadhi,Gujarati,True,2021-10-02,Mysuru,Unknown,Budget,Standard,20,Active
+2022-03-01,MYS-R15,Zaika Rasoi,Zaika Rasoi,Independent,South Indian,None,False,2021-08-24,Mysuru,Mysuru Zone 02,Budget,Standard,20,Active
+2022-03-01,MYS-R16,Udupi Delight - Market Square,Udupi Delight,Chain,South Indian,Punjabi,False,2021-09-02,Mysuru,Mysuru Zone 02,Premium,Standard,20,Active
+2022-03-01,MYS-R17,Sher-e-Punjab - Civil Lines,Sher-e-Punjab,Chain,Punjabi,Gujarati,False,2019-02-18,Mysuru,Mysuru Zone 02,Mid,Standard,20,Active
+2022-03-01,MYS-R18,Sharma Bhojanalaya,Sharma Bhojanalaya,Independent,Punjabi,Bengali & East Indian,False,2018-08-29,Mysuru,Mysuru Zone 02,Premium,Platinum,14,Active
+2022-03-01,MYS-R19,Krishna Bhojanalaya,Krishna Bhojanalaya,Independent,Punjabi,Rajasthani,True,2018-04-04,Mysuru,Mysuru Zone 02,Premium,Gold,18,Active
+2022-03-01,MYS-R20,Dhaba Express - Lakeside,Dhaba Express,Chain,Punjabi,None,False,2018-06-03,Mysuru,Mysuru Zone 02,Budget,Standard,21,Active
+2022-03-01,PUNE-R01,Sunrise Kitchen,Sunrise Kitchen,Independent,Bengali & East Indian,Regional Indian,True,2019-03-23,Pune,Pune Zone 01,Mid,Standard,20,Active
+2022-03-01,PUNE-R010,Zaika Corner,Zaika Corner,Independent,Punjabi,None,False,2019-03-28,Pune,Pune Zone 02,Budget,Standard,21,Active
+2022-03-01,PUNE-R02,Thali Ghar - Mall Road,Thali Ghar,Chain,Gujarati,Maharashtrian,True,2019-07-23,Pune,Pune Zone 02,Premium,Standard,21,Active
+2022-03-01,PUNE-R03,Lucky Rasoi,Lucky Rasoi,Independent,Gujarati,None,False,2021-07-19,Pune,Pune Zone 01,Mid,Standard,20,Active
+2022-03-01,PUNE-R04,Zaika Kitchen,Zaika Kitchen,Independent,Maharashtrian,Mughlai & Awadhi,False,2019-10-27,Pune,Pune Zone 02,Premium,Standard,20,Active
+2022-03-01,PUNE-R05,Pune Pavilion - MG Road,Pune Pavilion,Chain,Maharashtrian,South Indian,True,2021-09-08,Pune,Pune Zone 03,Premium,Standard,21,Active
+2022-03-01,PUNE-R06,Bhoj Bengal - Lakeside,Bhoj Bengal,Chain,Bengali & East Indian,None,False,2021-05-22,Pune,Pune Zone 03,Mid,Standard,19,Active
+2022-03-01,PUNE-R07,Marwar Thali - Lakeside,Marwar Thali,Chain,Rajasthani,Maharashtrian,False,2020-06-07,Pune,Pune Zone 03,Mid,Standard,20,Active
+2022-03-01,PUNE-R08,Lucky Rasoi,Lucky Rasoi,Independent,Mughlai & Awadhi,Gujarati,False,2021-08-19,Pune,Pune Zone 02,Budget,Standard,20,Active
+2022-03-01,PUNE-R09,Lucky Dhaba,Lucky Dhaba,Independent,Gujarati,None,False,2020-07-20,Pune,Pune Zone 02,Premium,Standard,20,Active
+2022-03-01,PUNE-R11,Spice Route - Main Road,Spice Route,Chain,Regional Indian,Bengali & East Indian,False,2018-08-14,Pune,Pune Zone 02,Premium,Standard,20,Active
+2022-03-01,PUNE-R12,Mishti & More - Mall Road,Mishti & More,Chain,Bengali & East Indian,None,False,2021-05-13,Pune,Pune Zone 02,Budget,Standard,20,Active
+2022-03-01,PUNE-R13,Spice Route - Old Town,Spice Route,Chain,Regional Indian,None,True,2021-02-26,Pune,Pune Zone 03,Premium,Standard,21,Active
+2022-03-01,PUNE-R14,Rajwada Rasoi - Main Road,Rajwada Rasoi,Chain,Rajasthani,South Indian,True,2018-04-02,Pune,Pune Zone 02,Budget,Gold,18,Active
+2022-03-01,PUNE-R15,Annapurna Kitchen,Annapurna Kitchen,Independent,Gujarati,None,False,2018-10-29,Pune,Pune Zone 04,Mid,Standard,20,Active
+2022-03-01,PUNE-R16,Gupta Kitchen,Gupta Kitchen,Independent,Gujarati,None,False,2019-08-01,Pune,Pune Zone 02,Mid,Gold,18,Active
+2022-03-01,PUNE-R17,Royal Kitchen,Royal Kitchen,Independent,Maharashtrian,Punjabi,False,2019-01-07,Pune,Pune Zone 02,Mid,Standard,20,Active
+2022-03-01,PUNE-R18,Moti Dhaba,Moti Dhaba,Independent,Punjabi,None,False,2020-01-26,Pune,Pune Zone 01,Premium,Standard,20,Active
+2022-03-01,PUNE-R19,Mishti & More - Main Road,Mishti & More,Chain,Bengali & East Indian,None,True,2018-10-30,Pune,Pune Zone 03,Mid,Gold,17,Active
+2022-03-01,PUNE-R20,Shree Rasoi,Shree Rasoi,Independent,South Indian,None,False,2018-10-24,Pune,Pune Zone 01,Budget,Standard,21,Active
+2022-03-01,RANCHI-R01,Sagar Restaurant,Sagar Restaurant,Independent,Regional Indian,South Indian,False,2021-07-27,Ranchi,Ranchi Zone 02,Mid,Gold,17,Active
+2022-03-01,RANCHI-R010,Bhoj Bengal - Lakeside,Bhoj Bengal,Chain,Bengali & East Indian,None,False,2020-12-26,Ranchi,Ranchi Zone 01,Mid,Standard,20,Active
+2022-03-01,RANCHI-R02,Zaika Corner,Zaika Corner,Independent,Punjabi,Mughlai & Awadhi,True,2020-01-11,Ranchi,Unknown,Budget,Standard,19,Active
+2022-03-01,RANCHI-R03,Shree Dhaba,Shree Dhaba,Independent,Regional Indian,Bengali & East Indian,False,2018-10-13,Ranchi,Unknown,Budget,Platinum,15,Active
+2022-03-01,RANCHI-R04,Lucky Kitchen,Lucky Kitchen,Independent,Punjabi,None,True,2018-10-10,Ranchi,Ranchi Zone 01,Budget,Gold,19,Active
+2022-03-01,RANCHI-R05,Kolkata Kitchen - Lakeside,Kolkata Kitchen,Chain,Bengali & East Indian,Mughlai & Awadhi,True,2021-04-06,Ranchi,Ranchi Zone 01,Budget,Gold,18,Active
+2022-03-01,RANCHI-R06,Marwar Thali - Old Town,Marwar Thali,Chain,Rajasthani,None,True,2021-03-11,Ranchi,Ranchi Zone 01,Premium,Standard,21,Active
+2022-03-01,RANCHI-R07,Zaika Rasoi,Zaika Rasoi,Independent,South Indian,None,False,2020-04-22,Ranchi,Ranchi Zone 01,Mid,Gold,18,Active
+2022-03-01,RANCHI-R08,Mishti & More - City Center,Mishti & More,Chain,Bengali & East Indian,None,False,2021-05-22,Ranchi,Ranchi Zone 01,Mid,Standard,20,Active
+2022-03-01,RANCHI-R09,Sharma Corner,Sharma Corner,Independent,Bengali & East Indian,Regional Indian,False,2020-10-24,Ranchi,Ranchi Zone 01,Mid,Gold,18,Active
+2022-03-01,RANCHI-R11,Dhaba Express - City Center,Dhaba Express,Chain,Punjabi,None,True,2019-03-10,Ranchi,Ranchi Zone 01,Budget,Platinum,16,Active
+2022-03-01,RANCHI-R12,Krishna Dhaba,Krishna Dhaba,Independent,Punjabi,Regional Indian,False,2019-10-04,Ranchi,Unknown,Mid,Gold,18,Active
+2022-03-01,RANCHI-R13,Lucky Bhojanalaya,Lucky Bhojanalaya,Independent,South Indian,Punjabi,True,2021-05-20,Ranchi,Ranchi Zone 01,Mid,Platinum,15,Active
+2022-03-01,RANCHI-R14,Lucky Rasoi,Lucky Rasoi,Independent,Maharashtrian,Gujarati,False,2019-01-20,Ranchi,Unknown,Mid,Standard,19,Active
+2022-03-01,RANCHI-R15,Bhoj Bengal - Market Square,Bhoj Bengal,Chain,Bengali & East Indian,Maharashtrian,False,2020-09-17,Ranchi,Ranchi Zone 01,Budget,Standard,20,Active
+2022-03-01,RANCHI-R16,Misal House - Old Town,Misal House,Chain,Maharashtrian,None,False,2019-10-07,Ranchi,Ranchi Zone 01,Mid,Platinum,15,Active
+2022-03-01,RANCHI-R17,Moti Restaurant,Moti Restaurant,Independent,Bengali & East Indian,None,False,2020-10-25,Ranchi,Ranchi Zone 01,Premium,Platinum,16,Active
+2022-03-01,RANCHI-R18,Annapurna Bhojanalaya,Annapurna Bhojanalaya,Independent,Punjabi,None,False,2018-06-11,Ranchi,Ranchi Zone 01,Premium,Standard,20,Active
+2022-03-01,RANCHI-R19,Zaika Kitchen,Zaika Kitchen,Independent,Punjabi,None,False,2021-05-31,Ranchi,Ranchi Zone 01,Mid,Standard,21,Active
+2022-03-01,RANCHI-R20,Nawabi Handi - MG Road,Nawabi Handi,Chain,Mughlai & Awadhi,Regional Indian,False,2018-03-23,Ranchi,Ranchi Zone 01,Premium,Gold,19,Active
+2022-03-01,SUR-R01,Shree Kitchen,Shree Kitchen,Independent,Bengali & East Indian,Gujarati,False,2018-07-19,Surat,Surat Zone 01,Premium,Gold,18,Active
+2022-03-01,SUR-R010,Gupta Dhaba,Gupta Dhaba,Independent,Punjabi,None,True,2019-08-29,Surat,Surat Zone 01,Premium,Standard,20,Active
+2022-03-01,SUR-R02,Thali Ghar - Hi-Tech Park,Thali Ghar,Chain,Gujarati,Punjabi,False,2020-06-24,Surat,Surat Zone 01,Mid,Platinum,16,Active
+2022-03-01,SUR-R03,Sunrise Restaurant,Sunrise Restaurant,Independent,Punjabi,Rajasthani,False,2021-10-25,Surat,Surat Zone 01,Budget,Standard,19,Active
+2022-03-01,SUR-R04,Shree Corner,Shree Corner,Independent,Gujarati,None,False,2021-10-29,Surat,Surat Zone 02,Budget,Standard,20,Active
+2022-03-01,SUR-R05,Desi Plate - Civil Lines,Desi Plate,Chain,Regional Indian,Mughlai & Awadhi,True,2020-02-09,Surat,Surat Zone 02,Budget,Standard,21,Active
+2022-03-01,SUR-R06,Moti Restaurant,Moti Restaurant,Independent,Gujarati,Bengali & East Indian,False,2020-08-10,Surat,Surat Zone 02,Budget,Standard,20,Active
+2022-03-01,SUR-R07,Sagar Bhojanalaya,Sagar Bhojanalaya,Independent,Punjabi,Bengali & East Indian,False,2021-05-22,Surat,Surat Zone 01,Mid,Standard,21,Active
+2022-03-01,SUR-R08,Royal Restaurant,Royal Restaurant,Independent,South Indian,Maharashtrian,True,2021-03-09,Surat,Surat Zone 01,Budget,Standard,21,Active
+2022-03-01,SUR-R09,Gupta Kitchen,Gupta Kitchen,Independent,Gujarati,Regional Indian,False,2021-11-01,Surat,Surat Zone 01,Mid,Standard,20,Active
+2022-03-01,SUR-R11,Swad Gujarat - Lakeside,Swad Gujarat,Chain,Gujarati,Maharashtrian,False,2020-05-09,Surat,Surat Zone 01,Mid,Standard,19,Active
+2022-03-01,SUR-R12,Misal House - Lakeside,Misal House,Chain,Maharashtrian,Regional Indian,False,2019-02-11,Surat,Surat Zone 02,Mid,Platinum,14,Active
+2022-03-01,SUR-R13,Moti Corner,Moti Corner,Independent,Gujarati,Mughlai & Awadhi,False,2021-02-22,Surat,Surat Zone 01,Mid,Standard,20,Active
+2022-03-01,SUR-R14,Moti Corner,Moti Corner,Independent,Gujarati,Mughlai & Awadhi,False,2019-10-11,Surat,Surat Zone 01,Budget,Platinum,15,Active
+2022-03-01,SUR-R15,Shree Corner,Shree Corner,Independent,Mughlai & Awadhi,None,False,2018-01-08,Surat,Surat Zone 01,Premium,Standard,21,Active
+2022-03-01,SUR-R16,Shree Dhaba,Shree Dhaba,Independent,Regional Indian,None,False,2020-05-10,Surat,Surat Zone 01,Mid,Standard,20,Active
+2022-03-01,SUR-R17,Mishti & More - Mall Road,Mishti & More,Chain,Bengali & East Indian,None,False,2018-01-30,Surat,Surat Zone 01,Mid,Platinum,15,Active
+2022-03-01,SUR-R18,Zaika Restaurant,Zaika Restaurant,Independent,Gujarati,South Indian,False,2020-04-20,Surat,Surat Zone 01,Premium,Gold,17,Active
+2022-03-01,SUR-R19,Gupta Restaurant,Gupta Restaurant,Independent,Rajasthani,Regional Indian,False,2018-11-30,Surat,Surat Zone 01,Mid,Standard,21,Active
+2022-03-01,SUR-R20,Ganesh Bhojanalaya,Ganesh Bhojanalaya,Independent,Gujarati,None,False,2018-07-23,Surat,Surat Zone 01,Premium,Gold,18,Active
+2022-03-01,VAD-R01,Mishti & More - Lakeside,Mishti & More,Chain,Bengali & East Indian,Mughlai & Awadhi,False,2021-01-20,Vadodara,Vadodara Zone 01,Budget,Standard,20,Active
+2022-03-01,VAD-R010,Thali Ghar - MG Road,Thali Ghar,Chain,Gujarati,None,False,2021-02-03,Vadodara,Vadodara Zone 01,Mid,Standard,19,Active
+2022-03-01,VAD-R02,Sagar Corner,Sagar Corner,Independent,Punjabi,Gujarati,False,2018-01-16,Vadodara,Unknown,Premium,Gold,17,Active
+2022-03-01,VAD-R03,Kolkata Kitchen - MG Road,Kolkata Kitchen,Chain,Bengali & East Indian,None,False,2020-04-29,Vadodara,Vadodara Zone 01,Mid,Gold,18,Active
+2022-03-01,VAD-R04,Amritsari Kitchen - Main Road,Amritsari Kitchen,Chain,Punjabi,None,False,2020-11-28,Vadodara,Unknown,Premium,Gold,18,Active
+2022-03-01,VAD-R05,Sharma Restaurant,Sharma Restaurant,Independent,Gujarati,Rajasthani,False,2018-04-16,Vadodara,Vadodara Zone 01,Premium,Standard,19,Active
+2022-03-01,VAD-R06,Sagar Bhojanalaya,Sagar Bhojanalaya,Independent,Gujarati,Mughlai & Awadhi,False,2018-07-23,Vadodara,Vadodara Zone 01,Mid,Standard,21,Active
+2022-03-01,VAD-R07,Sharma Kitchen,Sharma Kitchen,Independent,Punjabi,Rajasthani,True,2018-07-11,Vadodara,Unknown,Budget,Platinum,16,Active
+2022-03-01,VAD-R08,Punjabi Tadka - Market Square,Punjabi Tadka,Chain,Punjabi,None,True,2018-09-25,Vadodara,Unknown,Budget,Gold,18,Active
+2022-03-01,VAD-R09,Misal House - Mall Road,Misal House,Chain,Maharashtrian,None,False,2020-02-14,Vadodara,Unknown,Mid,Standard,20,Active
+2022-03-01,VAD-R11,Shree Dhaba,Shree Dhaba,Independent,Maharashtrian,Gujarati,False,2018-08-08,Vadodara,Vadodara Zone 01,Budget,Standard,20,Active
+2022-03-01,VAD-R12,Lucky Restaurant,Lucky Restaurant,Independent,Gujarati,Punjabi,False,2020-04-27,Vadodara,Unknown,Budget,Standard,20,Active
+2022-03-01,VAD-R13,Ganesh Restaurant,Ganesh Restaurant,Independent,Regional Indian,Rajasthani,True,2018-01-21,Vadodara,Vadodara Zone 01,Premium,Gold,19,Active
+2022-03-01,VAD-R14,Moti Bhojanalaya,Moti Bhojanalaya,Independent,Maharashtrian,None,False,2021-01-24,Vadodara,Vadodara Zone 01,Budget,Standard,21,Active
+2022-03-01,VAD-R15,Kathiyawadi Kitchen - Main Road,Kathiyawadi Kitchen,Chain,Gujarati,Punjabi,False,2018-11-09,Vadodara,Unknown,Budget,Standard,20,Active
+2022-03-01,VAD-R16,Swad Gujarat - Station Road,Swad Gujarat,Chain,Gujarati,None,False,2018-09-17,Vadodara,Unknown,Budget,Standard,20,Active
+2022-03-01,VAD-R17,Ganesh Bhojanalaya,Ganesh Bhojanalaya,Independent,Gujarati,None,False,2020-06-12,Vadodara,Unknown,Mid,Standard,20,Active
+2022-03-01,VAD-R18,Thali Ghar - MG Road,Thali Ghar,Chain,Gujarati,Maharashtrian,False,2021-04-18,Vadodara,Unknown,Mid,Platinum,15,Active
+2022-03-01,VAD-R19,Sagar Rasoi,Sagar Rasoi,Independent,Bengali & East Indian,None,False,2021-06-29,Vadodara,Vadodara Zone 01,Budget,Standard,20,Active
+2022-03-01,VAD-R20,Gupta Kitchen,Gupta Kitchen,Independent,Gujarati,South Indian,False,2019-06-03,Vadodara,Vadodara Zone 01,Mid,Platinum,15,Active
+2022-04-01,AGR-R01,Sunrise Kitchen,Sunrise Kitchen,Independent,Mughlai & Awadhi,Maharashtrian,False,2019-02-15,Agra,Agra Zone 02,Mid,Standard,20,Active
+2022-04-01,AGR-R010,Lucky Rasoi,Lucky Rasoi,Independent,Punjabi,Maharashtrian,False,2019-06-15,Agra,Agra Zone 02,Mid,Gold,19,Active
+2022-04-01,AGR-R02,Punjabi Tadka - Hi-Tech Park,Punjabi Tadka,Chain,Punjabi,None,True,2021-08-04,Agra,Unknown,Budget,Platinum,14,Active
+2022-04-01,AGR-R03,Krishna Dhaba,Krishna Dhaba,Independent,Punjabi,Maharashtrian,False,2020-10-01,Agra,Agra Zone 02,Mid,Platinum,15,Active
+2022-04-01,AGR-R04,Sharma Kitchen,Sharma Kitchen,Independent,South Indian,None,False,2020-09-14,Agra,Agra Zone 01,Budget,Standard,21,Active
+2022-04-01,AGR-R05,Sagar Dhaba,Sagar Dhaba,Independent,Rajasthani,None,False,2018-07-05,Agra,Agra Zone 03,Mid,Gold,19,Active
+2022-04-01,AGR-R06,Ganesh Kitchen,Ganesh Kitchen,Independent,Mughlai & Awadhi,Regional Indian,True,2020-02-26,Agra,Unknown,Mid,Standard,19,Active
+2022-04-01,AGR-R07,Gupta Dhaba,Gupta Dhaba,Independent,Gujarati,Punjabi,False,2019-01-24,Agra,Agra Zone 02,Budget,Gold,18,Active
+2022-04-01,AGR-R08,Sagar Dhaba,Sagar Dhaba,Independent,Punjabi,None,False,2020-10-20,Agra,Agra Zone 02,Mid,Gold,17,Active
+2022-04-01,AGR-R09,Nawabi Handi - Main Road,Nawabi Handi,Chain,Mughlai & Awadhi,Punjabi,True,2018-08-31,Agra,Unknown,Budget,Gold,18,Active
+2022-04-01,AGR-R11,Royal Corner,Royal Corner,Independent,Mughlai & Awadhi,None,False,2018-03-17,Agra,Agra Zone 02,Mid,Gold,19,Active
+2022-04-01,AGR-R12,Mishti & More - Station Road,Mishti & More,Chain,Bengali & East Indian,Rajasthani,True,2019-09-22,Agra,Agra Zone 02,Premium,Standard,21,Active
+2022-04-01,AGR-R13,Shree Dhaba,Shree Dhaba,Independent,Punjabi,None,False,2019-03-28,Agra,Agra Zone 02,Budget,Platinum,15,Active
+2022-04-01,AGR-R14,Moti Dhaba,Moti Dhaba,Independent,Punjabi,Regional Indian,False,2018-10-09,Agra,Agra Zone 02,Mid,Standard,19,Active
+2022-04-01,AGR-R15,Shree Dhaba,Shree Dhaba,Independent,Regional Indian,Punjabi,False,2018-12-11,Agra,Unknown,Mid,Standard,20,Active
+2022-04-01,AGR-R16,Rajwada Rasoi - City Center,Rajwada Rasoi,Chain,Rajasthani,Bengali & East Indian,True,2020-09-24,Agra,Unknown,Budget,Gold,18,Active
+2022-04-01,AGR-R17,Sunrise Restaurant,Sunrise Restaurant,Independent,Punjabi,None,False,2020-09-01,Agra,Agra Zone 02,Mid,Standard,20,Active
+2022-04-01,AGR-R18,Lucky Kitchen,Lucky Kitchen,Independent,Punjabi,None,True,2019-01-04,Agra,Agra Zone 02,Mid,Gold,18,Active
+2022-04-01,AGR-R19,Sagar Dhaba,Sagar Dhaba,Independent,Mughlai & Awadhi,Regional Indian,True,2020-12-21,Agra,Unknown,Premium,Gold,19,Active
+2022-04-01,AGR-R20,Lucky Restaurant,Lucky Restaurant,Independent,Mughlai & Awadhi,None,False,2019-07-21,Agra,Agra Zone 02,Premium,Gold,18,Active
+2022-04-01,ALH-R01,Gupta Kitchen,Gupta Kitchen,Independent,Punjabi,Regional Indian,False,2018-04-21,Prayagraj,Prayagraj Zone 01,Mid,Standard,20,Active
+2022-04-01,ALH-R010,Annapurna Dhaba,Annapurna Dhaba,Independent,Gujarati,South Indian,False,2018-12-27,Prayagraj,Unknown,Budget,Gold,18,Active
+2022-04-01,ALH-R02,Dhaba Express - Mall Road,Dhaba Express,Chain,Punjabi,None,False,2019-02-12,Prayagraj,Prayagraj Zone 01,Mid,Platinum,15,Active
+2022-04-01,ALH-R03,Lucky Corner,Lucky Corner,Independent,Mughlai & Awadhi,Punjabi,True,2019-03-28,Prayagraj,Prayagraj Zone 01,Budget,Standard,21,Active
+2022-04-01,ALH-R04,Nawabi Handi - Market Square,Nawabi Handi,Chain,Mughlai & Awadhi,South Indian,False,2020-07-26,Prayagraj,Unknown,Mid,Standard,20,Active
+2022-04-01,ALH-R05,Biryani Mahal - Station Road,Biryani Mahal,Chain,Mughlai & Awadhi,None,True,2018-10-07,Prayagraj,Prayagraj Zone 01,Budget,Gold,18,Active
+2022-04-01,ALH-R06,Krishna Kitchen,Krishna Kitchen,Independent,Bengali & East Indian,Regional Indian,False,2021-06-06,Prayagraj,Unknown,Premium,Standard,20,Active
+2022-04-01,ALH-R07,Awadhi Darbar - Lakeside,Awadhi Darbar,Chain,Mughlai & Awadhi,None,False,2021-04-26,Prayagraj,Prayagraj Zone 01,Mid,Standard,20,Active
+2022-04-01,ALH-R08,Lucky Bhojanalaya,Lucky Bhojanalaya,Independent,Bengali & East Indian,South Indian,False,2021-04-26,Prayagraj,Prayagraj Zone 01,Premium,Standard,21,Active
+2022-04-01,ALH-R09,Annapurna Restaurant,Annapurna Restaurant,Independent,Mughlai & Awadhi,None,False,2020-05-21,Prayagraj,Unknown,Mid,Gold,18,Active
+2022-04-01,ALH-R11,Gupta Kitchen,Gupta Kitchen,Independent,Bengali & East Indian,None,False,2021-11-20,Prayagraj,Unknown,Mid,Standard,19,Active
+2022-04-01,ALH-R12,Desi Plate - City Center,Desi Plate,Chain,Regional Indian,Maharashtrian,False,2021-12-11,Prayagraj,Prayagraj Zone 01,Mid,Standard,20,Active
+2022-04-01,ALH-R13,Royal Corner,Royal Corner,Independent,Mughlai & Awadhi,None,False,2020-01-29,Prayagraj,Prayagraj Zone 01,Mid,Platinum,15,Active
+2022-04-01,ALH-R14,Awadhi Darbar - Old Town,Awadhi Darbar,Chain,Mughlai & Awadhi,Rajasthani,False,2019-07-07,Prayagraj,Prayagraj Zone 01,Mid,Standard,19,Active
+2022-04-01,ALH-R15,Awadhi Darbar - City Center,Awadhi Darbar,Chain,Mughlai & Awadhi,None,False,2018-04-23,Prayagraj,Prayagraj Zone 01,Premium,Platinum,15,Active
+2022-04-01,ALH-R16,Nawabi Handi - Old Town,Nawabi Handi,Chain,Mughlai & Awadhi,Punjabi,False,2018-12-25,Prayagraj,Prayagraj Zone 01,Mid,Gold,18,Active
+2022-04-01,ALH-R17,Moti Kitchen,Moti Kitchen,Independent,Mughlai & Awadhi,None,False,2021-04-03,Prayagraj,Prayagraj Zone 01,Premium,Standard,21,Active
+2022-04-01,ALH-R18,Moti Bhojanalaya,Moti Bhojanalaya,Independent,Mughlai & Awadhi,None,False,2018-04-22,Prayagraj,Prayagraj Zone 01,Budget,Standard,20,Active
+2022-04-01,ALH-R19,Zaika Rasoi,Zaika Rasoi,Independent,Maharashtrian,Rajasthani,False,2019-08-22,Prayagraj,Prayagraj Zone 01,Mid,Gold,18,Active
+2022-04-01,ALH-R20,Lucky Restaurant,Lucky Restaurant,Independent,Maharashtrian,None,False,2019-01-02,Prayagraj,Prayagraj Zone 01,Budget,Standard,21,Active
+2022-04-01,AURG-R01,Curry Leaf - Station Road,Curry Leaf,Chain,Regional Indian,Maharashtrian,True,2021-07-08,Aurangabad,Aurangabad Zone 01,Mid,Standard,21,Active
+2022-04-01,AURG-R010,Moti Restaurant,Moti Restaurant,Independent,Maharashtrian,None,False,2019-08-21,Aurangabad,Aurangabad Zone 01,Budget,Standard,20,Active
+2022-04-01,AURG-R02,Ganesh Bhojanalaya,Ganesh Bhojanalaya,Independent,Punjabi,None,False,2021-08-16,Aurangabad,Unknown,Mid,Standard,20,Active
+2022-04-01,AURG-R03,Gupta Restaurant,Gupta Restaurant,Independent,Maharashtrian,None,True,2019-09-20,Aurangabad,Aurangabad Zone 01,Budget,Standard,20,Active
+2022-04-01,AURG-R04,Royal Bhojanalaya,Royal Bhojanalaya,Independent,Gujarati,South Indian,False,2021-06-20,Aurangabad,Aurangabad Zone 01,Premium,Gold,17,Active
+2022-04-01,AURG-R05,Royal Kitchen,Royal Kitchen,Independent,South Indian,Gujarati,False,2021-03-22,Aurangabad,Aurangabad Zone 01,Budget,Standard,20,Active
+2022-04-01,AURG-R06,Moti Kitchen,Moti Kitchen,Independent,Gujarati,Rajasthani,False,2018-11-29,Aurangabad,Aurangabad Zone 01,Mid,Standard,20,Active
+2022-04-01,AURG-R07,Moti Kitchen,Moti Kitchen,Independent,Punjabi,Bengali & East Indian,False,2020-11-05,Aurangabad,Aurangabad Zone 01,Mid,Standard,20,Active
+2022-04-01,AURG-R08,Ganesh Kitchen,Ganesh Kitchen,Independent,South Indian,Maharashtrian,False,2020-06-24,Aurangabad,Aurangabad Zone 01,Mid,Gold,19,Active
+2022-04-01,AURG-R09,Punjabi Tadka - Civil Lines,Punjabi Tadka,Chain,Punjabi,Gujarati,False,2019-03-28,Aurangabad,Aurangabad Zone 01,Mid,Standard,19,Active
+2022-04-01,AURG-R11,Amritsari Kitchen - Civil Lines,Amritsari Kitchen,Chain,Punjabi,Mughlai & Awadhi,False,2019-02-05,Aurangabad,Unknown,Budget,Gold,17,Active
+2022-04-01,AURG-R12,Sagar Kitchen,Sagar Kitchen,Independent,Maharashtrian,Mughlai & Awadhi,False,2020-11-13,Aurangabad,Aurangabad Zone 01,Premium,Gold,17,Active
+2022-04-01,AURG-R13,Moti Restaurant,Moti Restaurant,Independent,Mughlai & Awadhi,Gujarati,False,2019-12-21,Aurangabad,Aurangabad Zone 01,Mid,Platinum,16,Active
+2022-04-01,AURG-R14,Vada Pav Co. - Hi-Tech Park,Vada Pav Co.,Chain,Maharashtrian,None,False,2019-08-15,Aurangabad,Aurangabad Zone 01,Budget,Platinum,15,Active
+2022-04-01,AURG-R15,Royal Rasoi,Royal Rasoi,Independent,South Indian,None,True,2019-09-14,Aurangabad,Aurangabad Zone 01,Mid,Gold,17,Active
+2022-04-01,AURG-R16,Rajwada Rasoi - Market Square,Rajwada Rasoi,Chain,Rajasthani,None,False,2019-07-14,Aurangabad,Unknown,Mid,Standard,19,Active
+2022-04-01,AURG-R17,Lucky Kitchen,Lucky Kitchen,Independent,Maharashtrian,None,False,2020-10-01,Aurangabad,Aurangabad Zone 01,Budget,Gold,17,Active
+2022-04-01,AURG-R18,Zaika Restaurant,Zaika Restaurant,Independent,Rajasthani,None,False,2018-11-12,Aurangabad,Aurangabad Zone 01,Budget,Standard,19,Active
+2022-04-01,AURG-R19,Sagar Kitchen,Sagar Kitchen,Independent,Regional Indian,None,False,2019-05-17,Aurangabad,Aurangabad Zone 01,Budget,Platinum,14,Active
+2022-04-01,AURG-R20,Krishna Restaurant,Krishna Restaurant,Independent,Bengali & East Indian,Punjabi,False,2021-07-10,Aurangabad,Unknown,Mid,Gold,17,Active
+2022-04-01,BANG-R01,Annapurna Bhojanalaya,Annapurna Bhojanalaya,Independent,Regional Indian,None,True,2019-10-17,Bengaluru,Bengaluru Zone 02,Mid,Standard,20,Active
+2022-04-01,BANG-R010,Idli Junction - Lakeside,Idli Junction,Chain,South Indian,Punjabi,False,2021-08-01,Bengaluru,Bengaluru Zone 02,Premium,Standard,20,Active
+2022-04-01,BANG-R02,Sambar Station - City Center,Sambar Station,Chain,South Indian,None,False,2021-11-03,Bengaluru,Bengaluru Zone 02,Mid,Standard,20,Active
+2022-04-01,BANG-R03,Krishna Bhojanalaya,Krishna Bhojanalaya,Independent,Gujarati,None,True,2020-11-27,Bengaluru,Bengaluru Zone 02,Budget,Gold,18,Active
+2022-04-01,BANG-R04,Bhoj Bengal - Station Road,Bhoj Bengal,Chain,Bengali & East Indian,Gujarati,True,2021-02-18,Bengaluru,Bengaluru Zone 02,Mid,Platinum,15,Active
+2022-04-01,BANG-R05,Zaika Dhaba,Zaika Dhaba,Independent,Rajasthani,None,False,2018-08-27,Bengaluru,Bengaluru Zone 02,Premium,Standard,20,Active
+2022-04-01,BANG-R06,Gupta Rasoi,Gupta Rasoi,Independent,Mughlai & Awadhi,Maharashtrian,False,2018-12-19,Bengaluru,Bengaluru Zone 02,Mid,Standard,20,Active
+2022-04-01,BANG-R07,Amritsari Kitchen - Station Road,Amritsari Kitchen,Chain,Punjabi,None,True,2018-06-10,Bengaluru,Bengaluru Zone 02,Mid,Standard,19,Active
+2022-04-01,BANG-R08,Annapurna Kitchen,Annapurna Kitchen,Independent,Bengali & East Indian,Punjabi,False,2020-11-17,Bengaluru,Bengaluru Zone 01,Mid,Standard,20,Active
+2022-04-01,BANG-R09,Udupi Delight - MG Road,Udupi Delight,Chain,South Indian,None,False,2021-05-17,Bengaluru,Bengaluru Zone 02,Budget,Gold,18,Active
+2022-04-01,BANG-R11,Awadhi Darbar - Station Road,Awadhi Darbar,Chain,Mughlai & Awadhi,Maharashtrian,False,2019-12-14,Bengaluru,Bengaluru Zone 02,Mid,Gold,19,Active
+2022-04-01,BANG-R12,Krishna Dhaba,Krishna Dhaba,Independent,Rajasthani,None,False,2018-01-29,Bengaluru,Bengaluru Zone 02,Mid,Standard,20,Active
+2022-04-01,BANG-R13,Udupi Delight - Civil Lines,Udupi Delight,Chain,South Indian,None,True,2019-03-15,Bengaluru,Bengaluru Zone 02,Budget,Platinum,15,Active
+2022-04-01,BANG-R14,Ganesh Dhaba,Ganesh Dhaba,Independent,Rajasthani,Mughlai & Awadhi,False,2020-02-17,Bengaluru,Bengaluru Zone 02,Mid,Standard,21,Active
+2022-04-01,BANG-R15,Gupta Dhaba,Gupta Dhaba,Independent,South Indian,Regional Indian,False,2020-01-10,Bengaluru,Bengaluru Zone 02,Mid,Standard,20,Active
+2022-04-01,BANG-R16,Sunrise Restaurant,Sunrise Restaurant,Independent,South Indian,Maharashtrian,False,2020-06-28,Bengaluru,Bengaluru Zone 04,Budget,Standard,20,Active
+2022-04-01,BANG-R17,Gupta Corner,Gupta Corner,Independent,South Indian,None,True,2021-10-12,Bengaluru,Bengaluru Zone 02,Mid,Standard,21,Active
+2022-04-01,BANG-R18,Royal Restaurant,Royal Restaurant,Independent,Punjabi,Mughlai & Awadhi,False,2018-07-28,Bengaluru,Bengaluru Zone 02,Mid,Standard,20,Active
+2022-04-01,BANG-R19,Lucky Rasoi,Lucky Rasoi,Independent,Mughlai & Awadhi,Maharashtrian,False,2019-04-22,Bengaluru,Bengaluru Zone 02,Premium,Gold,19,Active
+2022-04-01,BANG-R20,Sunrise Corner,Sunrise Corner,Independent,South Indian,Mughlai & Awadhi,False,2021-09-27,Bengaluru,Bengaluru Zone 01,Mid,Platinum,14,Active
+2022-04-01,BHP-R01,Udupi Delight - Hi-Tech Park,Udupi Delight,Chain,South Indian,Maharashtrian,False,2019-04-18,Bhopal,Bhopal Zone 03,Mid,Standard,20,Active
+2022-04-01,BHP-R010,Ganesh Dhaba,Ganesh Dhaba,Independent,Punjabi,Gujarati,False,2021-10-23,Bhopal,Bhopal Zone 02,Premium,Standard,20,Active
+2022-04-01,BHP-R02,Gupta Restaurant,Gupta Restaurant,Independent,Gujarati,None,False,2020-10-01,Bhopal,Unknown,Mid,Standard,19,Active
+2022-04-01,BHP-R03,Annapurna Restaurant,Annapurna Restaurant,Independent,Rajasthani,None,True,2020-07-10,Bhopal,Bhopal Zone 03,Mid,Platinum,15,Active
+2022-04-01,BHP-R04,Sambar Station - MG Road,Sambar Station,Chain,South Indian,Punjabi,True,2020-03-07,Bhopal,Bhopal Zone 01,Mid,Standard,19,Active
+2022-04-01,BHP-R05,Krishna Restaurant,Krishna Restaurant,Independent,Punjabi,None,False,2020-11-03,Bhopal,Bhopal Zone 03,Budget,Standard,21,Active
+2022-04-01,BHP-R06,Sunrise Bhojanalaya,Sunrise Bhojanalaya,Independent,Gujarati,None,False,2018-09-20,Bhopal,Bhopal Zone 03,Premium,Standard,20,Active
+2022-04-01,BHP-R07,Misal House - Old Town,Misal House,Chain,Maharashtrian,None,False,2020-01-02,Bhopal,Unknown,Mid,Standard,20,Active
+2022-04-01,BHP-R08,Shree Corner,Shree Corner,Independent,Punjabi,Maharashtrian,False,2019-11-23,Bhopal,Bhopal Zone 03,Budget,Standard,20,Active
+2022-04-01,BHP-R09,Sharma Restaurant,Sharma Restaurant,Independent,Rajasthani,Mughlai & Awadhi,False,2021-04-19,Bhopal,Unknown,Budget,Standard,20,Active
+2022-04-01,BHP-R11,Gupta Dhaba,Gupta Dhaba,Independent,Maharashtrian,None,True,2020-10-14,Bhopal,Bhopal Zone 03,Mid,Gold,19,Active
+2022-04-01,BHP-R12,Biryani Mahal - Lakeside,Biryani Mahal,Chain,Mughlai & Awadhi,Bengali & East Indian,False,2018-06-04,Bhopal,Unknown,Mid,Standard,20,Active
+2022-04-01,BHP-R13,Rajwada Rasoi - Market Square,Rajwada Rasoi,Chain,Rajasthani,Punjabi,False,2018-07-08,Bhopal,Bhopal Zone 03,Mid,Gold,17,Active
+2022-04-01,BHP-R14,Awadhi Darbar - Market Square,Awadhi Darbar,Chain,Mughlai & Awadhi,None,True,2018-06-07,Bhopal,Unknown,Mid,Platinum,15,Active
+2022-04-01,BHP-R15,Moti Kitchen,Moti Kitchen,Independent,Gujarati,None,False,2020-11-21,Bhopal,Bhopal Zone 03,Mid,Standard,21,Active
+2022-04-01,BHP-R16,Royal Rasoi,Royal Rasoi,Independent,Mughlai & Awadhi,Punjabi,False,2020-08-15,Bhopal,Bhopal Zone 03,Budget,Standard,20,Active
+2022-04-01,BHP-R17,Krishna Corner,Krishna Corner,Independent,Mughlai & Awadhi,None,False,2020-01-17,Bhopal,Bhopal Zone 02,Mid,Gold,17,Active
+2022-04-01,BHP-R18,Sagar Bhojanalaya,Sagar Bhojanalaya,Independent,Punjabi,None,False,2021-07-22,Bhopal,Bhopal Zone 03,Budget,Platinum,15,Active
+2022-04-01,BHP-R19,Ganesh Rasoi,Ganesh Rasoi,Independent,South Indian,None,False,2018-11-04,Bhopal,Unknown,Budget,Standard,20,Active
+2022-04-01,BHP-R20,Sagar Restaurant,Sagar Restaurant,Independent,Punjabi,None,True,2018-11-23,Bhopal,Bhopal Zone 02,Budget,Gold,18,Active
+2022-04-01,CHEN-R01,Amritsari Kitchen - Civil Lines,Amritsari Kitchen,Chain,Punjabi,None,True,2020-09-22,Chennai,Chennai Zone 03,Mid,Platinum,14,Active
+2022-04-01,CHEN-R010,Shree Restaurant,Shree Restaurant,Independent,Punjabi,None,False,2018-07-04,Chennai,Chennai Zone 03,Mid,Platinum,15,Active
+2022-04-01,CHEN-R02,Marwar Thali - Market Square,Marwar Thali,Chain,Rajasthani,None,False,2020-12-11,Chennai,Chennai Zone 03,Budget,Gold,19,Active
+2022-04-01,CHEN-R03,Moti Rasoi,Moti Rasoi,Independent,Mughlai & Awadhi,Punjabi,False,2019-04-29,Chennai,Chennai Zone 03,Premium,Gold,18,Active
+2022-04-01,CHEN-R04,Sagar Bhojanalaya,Sagar Bhojanalaya,Independent,Punjabi,Maharashtrian,True,2020-12-28,Chennai,Chennai Zone 03,Mid,Platinum,16,Active
+2022-04-01,CHEN-R05,Sunrise Kitchen,Sunrise Kitchen,Independent,Regional Indian,South Indian,False,2019-09-24,Chennai,Chennai Zone 03,Budget,Standard,20,Active
+2022-04-01,CHEN-R06,Zaika Corner,Zaika Corner,Independent,Regional Indian,None,False,2019-09-26,Chennai,Chennai Zone 03,Budget,Platinum,15,Active
+2022-04-01,CHEN-R07,Lucky Restaurant,Lucky Restaurant,Independent,South Indian,None,False,2020-03-15,Chennai,Chennai Zone 03,Premium,Standard,20,Active
+2022-04-01,CHEN-R08,Lucky Kitchen,Lucky Kitchen,Independent,Mughlai & Awadhi,Regional Indian,False,2021-08-12,Chennai,Chennai Zone 03,Premium,Platinum,15,Active
+2022-04-01,CHEN-R09,Gupta Corner,Gupta Corner,Independent,Punjabi,None,False,2020-05-15,Chennai,Chennai Zone 03,Premium,Gold,18,Active
+2022-04-01,CHEN-R11,Shree Bhojanalaya,Shree Bhojanalaya,Independent,Rajasthani,None,False,2021-01-26,Chennai,Chennai Zone 03,Mid,Standard,20,Active
+2022-04-01,CHEN-R12,Ganesh Restaurant,Ganesh Restaurant,Independent,South Indian,Punjabi,True,2020-03-31,Chennai,Chennai Zone 01,Budget,Gold,19,Active
+2022-04-01,CHEN-R13,Kathiyawadi Kitchen - Mall Road,Kathiyawadi Kitchen,Chain,Gujarati,None,False,2021-08-22,Chennai,Chennai Zone 03,Mid,Standard,20,Active
+2022-04-01,CHEN-R14,Gupta Restaurant,Gupta Restaurant,Independent,Rajasthani,None,True,2018-12-22,Chennai,Chennai Zone 02,Mid,Platinum,14,Active
+2022-04-01,CHEN-R15,Rajwada Rasoi - Lakeside,Rajwada Rasoi,Chain,Rajasthani,None,False,2021-03-14,Chennai,Chennai Zone 03,Budget,Platinum,14,Active
+2022-04-01,CHEN-R16,Shree Restaurant,Shree Restaurant,Independent,Regional Indian,None,False,2018-12-12,Chennai,Chennai Zone 03,Budget,Standard,20,Active
+2022-04-01,CHEN-R17,Sambar Station - Old Town,Sambar Station,Chain,South Indian,None,True,2020-12-12,Chennai,Chennai Zone 03,Mid,Gold,18,Active
+2022-04-01,CHEN-R18,Zaika Kitchen,Zaika Kitchen,Independent,Mughlai & Awadhi,Rajasthani,False,2019-06-30,Chennai,Chennai Zone 01,Budget,Standard,20,Active
+2022-04-01,CHEN-R19,Idli Junction - Mall Road,Idli Junction,Chain,South Indian,Regional Indian,True,2019-01-05,Chennai,Chennai Zone 01,Mid,Gold,18,Active
+2022-04-01,CHEN-R20,Amritsari Kitchen - Hi-Tech Park,Amritsari Kitchen,Chain,Punjabi,South Indian,False,2020-07-27,Chennai,Chennai Zone 01,Budget,Platinum,15,Active
+2022-04-01,COIMB-R01,Ganesh Kitchen,Ganesh Kitchen,Independent,South Indian,None,False,2021-05-08,Coimbatore,Coimbatore Zone 03,Budget,Gold,18,Active
+2022-04-01,COIMB-R010,Moti Rasoi,Moti Rasoi,Independent,Punjabi,South Indian,False,2021-05-10,Coimbatore,Coimbatore Zone 03,Mid,Platinum,14,Active
+2022-04-01,COIMB-R02,Sagar Corner,Sagar Corner,Independent,Bengali & East Indian,Rajasthani,False,2021-02-19,Coimbatore,Coimbatore Zone 03,Budget,Standard,19,Active
+2022-04-01,COIMB-R03,Royal Dhaba,Royal Dhaba,Independent,Punjabi,Bengali & East Indian,False,2018-10-18,Coimbatore,Coimbatore Zone 04,Budget,Platinum,16,Active
+2022-04-01,COIMB-R04,Zaika Bhojanalaya,Zaika Bhojanalaya,Independent,Maharashtrian,None,False,2019-06-24,Coimbatore,Coimbatore Zone 04,Mid,Platinum,15,Active
+2022-04-01,COIMB-R05,Moti Corner,Moti Corner,Independent,Bengali & East Indian,Maharashtrian,False,2018-11-06,Coimbatore,Coimbatore Zone 03,Mid,Platinum,15,Active
+2022-04-01,COIMB-R06,Royal Dhaba,Royal Dhaba,Independent,Mughlai & Awadhi,None,True,2019-06-17,Coimbatore,Coimbatore Zone 03,Budget,Standard,20,Active
+2022-04-01,COIMB-R07,Dosa Plaza - Old Town,Dosa Plaza,Chain,South Indian,Bengali & East Indian,True,2018-10-31,Coimbatore,Coimbatore Zone 01,Budget,Standard,20,Active
+2022-04-01,COIMB-R08,Sher-e-Punjab - Station Road,Sher-e-Punjab,Chain,Punjabi,None,False,2019-03-11,Coimbatore,Coimbatore Zone 03,Mid,Gold,18,Active
+2022-04-01,COIMB-R09,Shree Kitchen,Shree Kitchen,Independent,Regional Indian,None,False,2019-11-05,Coimbatore,Coimbatore Zone 03,Budget,Gold,17,Active
+2022-04-01,COIMB-R11,Shree Bhojanalaya,Shree Bhojanalaya,Independent,South Indian,None,True,2021-12-20,Coimbatore,Coimbatore Zone 03,Mid,Standard,21,Active
+2022-04-01,COIMB-R12,Moti Dhaba,Moti Dhaba,Independent,South Indian,None,False,2019-10-28,Coimbatore,Coimbatore Zone 03,Premium,Platinum,14,Active
+2022-04-01,COIMB-R13,Lucky Dhaba,Lucky Dhaba,Independent,Regional Indian,None,False,2018-04-24,Coimbatore,Coimbatore Zone 03,Mid,Gold,19,Active
+2022-04-01,COIMB-R14,Sambar Station - MG Road,Sambar Station,Chain,South Indian,None,False,2020-03-27,Coimbatore,Coimbatore Zone 03,Budget,Standard,21,Active
+2022-04-01,COIMB-R15,Shree Bhojanalaya,Shree Bhojanalaya,Independent,Rajasthani,Regional Indian,False,2019-09-28,Coimbatore,Coimbatore Zone 03,Premium,Standard,19,Active
+2022-04-01,COIMB-R16,Lucky Restaurant,Lucky Restaurant,Independent,South Indian,Punjabi,False,2019-07-04,Coimbatore,Coimbatore Zone 03,Premium,Standard,20,Active
+2022-04-01,COIMB-R17,Royal Restaurant,Royal Restaurant,Independent,South Indian,None,True,2020-11-17,Coimbatore,Coimbatore Zone 03,Mid,Gold,18,Active
+2022-04-01,COIMB-R18,Sharma Corner,Sharma Corner,Independent,South Indian,Mughlai & Awadhi,True,2020-08-16,Coimbatore,Coimbatore Zone 03,Mid,Gold,18,Active
+2022-04-01,COIMB-R19,Lucky Rasoi,Lucky Rasoi,Independent,Mughlai & Awadhi,Gujarati,False,2021-02-02,Coimbatore,Coimbatore Zone 03,Premium,Standard,20,Active
+2022-04-01,COIMB-R20,Ganesh Corner,Ganesh Corner,Independent,Punjabi,Bengali & East Indian,False,2019-06-06,Coimbatore,Coimbatore Zone 01,Mid,Gold,18,Active
+2022-04-01,DEH-R01,Royal Restaurant,Royal Restaurant,Independent,Mughlai & Awadhi,Rajasthani,False,2021-12-13,Dehradun,Unknown,Budget,Standard,21,Active
+2022-04-01,DEH-R010,Moti Kitchen,Moti Kitchen,Independent,Mughlai & Awadhi,Rajasthani,True,2021-05-22,Dehradun,Dehradun Zone 01,Budget,Standard,21,Active
+2022-04-01,DEH-R02,Biryani Mahal - City Center,Biryani Mahal,Chain,Mughlai & Awadhi,Punjabi,False,2021-11-17,Dehradun,Unknown,Mid,Standard,19,Active
+2022-04-01,DEH-R03,Krishna Rasoi,Krishna Rasoi,Independent,Mughlai & Awadhi,None,False,2021-11-14,Dehradun,Dehradun Zone 01,Budget,Standard,20,Active
+2022-04-01,DEH-R04,Biryani Mahal - City Center,Biryani Mahal,Chain,Mughlai & Awadhi,Gujarati,True,2018-02-24,Dehradun,Dehradun Zone 01,Budget,Standard,20,Active
+2022-04-01,DEH-R05,Lucky Dhaba,Lucky Dhaba,Independent,Mughlai & Awadhi,None,False,2020-08-28,Dehradun,Dehradun Zone 01,Mid,Standard,21,Active
+2022-04-01,DEH-R06,Gupta Restaurant,Gupta Restaurant,Independent,Punjabi,None,False,2019-05-12,Dehradun,Dehradun Zone 01,Budget,Standard,21,Active
+2022-04-01,DEH-R07,Biryani Mahal - Main Road,Biryani Mahal,Chain,Mughlai & Awadhi,None,False,2020-05-01,Dehradun,Dehradun Zone 01,Premium,Gold,18,Active
+2022-04-01,DEH-R08,Annapurna Restaurant,Annapurna Restaurant,Independent,Mughlai & Awadhi,None,False,2021-06-06,Dehradun,Dehradun Zone 01,Premium,Standard,19,Active
+2022-04-01,DEH-R09,Awadhi Darbar - Main Road,Awadhi Darbar,Chain,Mughlai & Awadhi,None,False,2021-02-07,Dehradun,Dehradun Zone 01,Budget,Standard,19,Active
+2022-04-01,DEH-R11,Awadhi Darbar - Market Square,Awadhi Darbar,Chain,Mughlai & Awadhi,South Indian,False,2018-02-12,Dehradun,Unknown,Mid,Standard,20,Active
+2022-04-01,DEH-R12,Awadhi Darbar - Mall Road,Awadhi Darbar,Chain,Mughlai & Awadhi,South Indian,False,2021-05-18,Dehradun,Unknown,Mid,Platinum,14,Active
+2022-04-01,DEH-R13,Sagar Corner,Sagar Corner,Independent,Mughlai & Awadhi,Maharashtrian,False,2020-08-25,Dehradun,Dehradun Zone 01,Mid,Gold,17,Active
+2022-04-01,DEH-R14,Awadhi Darbar - City Center,Awadhi Darbar,Chain,Mughlai & Awadhi,None,True,2018-11-17,Dehradun,Dehradun Zone 01,Mid,Standard,20,Active
+2022-04-01,DEH-R15,Sharma Dhaba,Sharma Dhaba,Independent,Punjabi,Bengali & East Indian,False,2019-06-19,Dehradun,Unknown,Mid,Platinum,15,Active
+2022-04-01,DEH-R16,Shree Bhojanalaya,Shree Bhojanalaya,Independent,Punjabi,None,False,2018-09-05,Dehradun,Dehradun Zone 01,Mid,Standard,21,Active
+2022-04-01,DEH-R17,Sharma Bhojanalaya,Sharma Bhojanalaya,Independent,Bengali & East Indian,None,False,2020-11-21,Dehradun,Dehradun Zone 01,Mid,Platinum,15,Active
+2022-04-01,DEH-R18,Shree Rasoi,Shree Rasoi,Independent,Punjabi,Bengali & East Indian,False,2018-07-28,Dehradun,Unknown,Premium,Gold,18,Active
+2022-04-01,DEH-R19,Sher-e-Punjab - Mall Road,Sher-e-Punjab,Chain,Punjabi,Mughlai & Awadhi,False,2020-06-23,Dehradun,Dehradun Zone 01,Premium,Standard,21,Active
+2022-04-01,DEH-R20,Kolkata Kitchen - Old Town,Kolkata Kitchen,Chain,Bengali & East Indian,None,True,2019-02-18,Dehradun,Unknown,Mid,Gold,18,Active
+2022-04-01,GOA-R01,Idli Junction - Hi-Tech Park,Idli Junction,Chain,South Indian,None,True,2019-06-29,Goa,Goa Zone 07,Mid,Standard,19,Active
+2022-04-01,GOA-R010,Curry Leaf - Civil Lines,Curry Leaf,Chain,Regional Indian,Rajasthani,True,2020-05-28,Goa,Goa Zone 07,Mid,Standard,20,Active
+2022-04-01,GOA-R02,Annapurna Restaurant,Annapurna Restaurant,Independent,South Indian,Regional Indian,True,2020-11-25,Goa,Goa Zone 07,Premium,Standard,20,Active
+2022-04-01,GOA-R03,Dhaba Express - Main Road,Dhaba Express,Chain,Punjabi,Regional Indian,False,2021-08-06,Goa,Goa Zone 07,Premium,Standard,20,Active
+2022-04-01,GOA-R04,Sunrise Restaurant,Sunrise Restaurant,Independent,Mughlai & Awadhi,None,False,2021-02-07,Goa,Goa Zone 07,Premium,Platinum,16,Active
+2022-04-01,GOA-R05,Spice Route - MG Road,Spice Route,Chain,Regional Indian,Maharashtrian,True,2020-04-07,Goa,Unknown,Mid,Gold,19,Active
+2022-04-01,GOA-R06,Zaika Bhojanalaya,Zaika Bhojanalaya,Independent,Punjabi,None,False,2020-04-08,Goa,Goa Zone 07,Mid,Platinum,16,Active
+2022-04-01,GOA-R07,Sharma Rasoi,Sharma Rasoi,Independent,Regional Indian,Bengali & East Indian,True,2021-02-04,Goa,Goa Zone 07,Mid,Platinum,15,Active
+2022-04-01,GOA-R08,Vada Pav Co. - Civil Lines,Vada Pav Co.,Chain,Maharashtrian,None,False,2019-09-15,Goa,Goa Zone 07,Mid,Standard,20,Active
+2022-04-01,GOA-R09,Ganesh Rasoi,Ganesh Rasoi,Independent,Regional Indian,Punjabi,True,2021-08-26,Goa,Goa Zone 03,Premium,Standard,20,Active
+2022-04-01,GOA-R11,Mishti & More - Old Town,Mishti & More,Chain,Bengali & East Indian,None,False,2021-03-04,Goa,Goa Zone 07,Budget,Gold,18,Active
+2022-04-01,GOA-R12,Moti Bhojanalaya,Moti Bhojanalaya,Independent,Regional Indian,None,False,2021-03-19,Goa,Goa Zone 07,Mid,Standard,20,Active
+2022-04-01,GOA-R13,Spice Route - Old Town,Spice Route,Chain,Regional Indian,None,False,2020-01-10,Goa,Goa Zone 07,Mid,Gold,18,Active
+2022-04-01,GOA-R14,Dhaba Express - Main Road,Dhaba Express,Chain,Punjabi,Bengali & East Indian,False,2020-07-02,Goa,Goa Zone 01,Budget,Platinum,15,Active
+2022-04-01,GOA-R15,Sunrise Rasoi,Sunrise Rasoi,Independent,Regional Indian,Bengali & East Indian,False,2020-06-20,Goa,Goa Zone 07,Mid,Gold,19,Active
+2022-04-01,GOA-R16,Royal Rasoi,Royal Rasoi,Independent,Regional Indian,None,False,2018-09-22,Goa,Goa Zone 05,Premium,Standard,19,Active
+2022-04-01,GOA-R17,Gupta Dhaba,Gupta Dhaba,Independent,Rajasthani,None,False,2020-01-27,Goa,Goa Zone 05,Premium,Gold,18,Active
+2022-04-01,GOA-R18,Sher-e-Punjab - Old Town,Sher-e-Punjab,Chain,Punjabi,None,True,2020-01-31,Goa,Goa Zone 05,Mid,Standard,21,Active
+2022-04-01,GOA-R19,Krishna Restaurant,Krishna Restaurant,Independent,Maharashtrian,Punjabi,False,2019-08-04,Goa,Unknown,Budget,Platinum,14,Active
+2022-04-01,GOA-R20,Annapurna Restaurant,Annapurna Restaurant,Independent,Regional Indian,Punjabi,False,2020-07-15,Goa,Unknown,Premium,Gold,17,Active
+2022-04-01,HYD-R01,Royal Rasoi,Royal Rasoi,Independent,Bengali & East Indian,Mughlai & Awadhi,False,2021-09-28,Hyderabad,Hyderabad Zone 02,Mid,Gold,18,Active
+2022-04-01,HYD-R010,Sagar Restaurant,Sagar Restaurant,Independent,Rajasthani,Regional Indian,False,2021-01-12,Hyderabad,Hyderabad Zone 02,Budget,Standard,20,Active
+2022-04-01,HYD-R02,Zaika Dhaba,Zaika Dhaba,Independent,South Indian,Maharashtrian,False,2021-12-19,Hyderabad,Hyderabad Zone 02,Mid,Gold,18,Active
+2022-04-01,HYD-R03,Udupi Delight - Market Square,Udupi Delight,Chain,South Indian,None,False,2020-09-01,Hyderabad,Hyderabad Zone 02,Mid,Platinum,15,Active
+2022-04-01,HYD-R04,Sunrise Kitchen,Sunrise Kitchen,Independent,Punjabi,None,False,2021-04-01,Hyderabad,Hyderabad Zone 01,Mid,Standard,20,Active
+2022-04-01,HYD-R05,Gupta Dhaba,Gupta Dhaba,Independent,Bengali & East Indian,None,True,2018-02-19,Hyderabad,Hyderabad Zone 01,Premium,Standard,20,Active
+2022-04-01,HYD-R06,Royal Bhojanalaya,Royal Bhojanalaya,Independent,Maharashtrian,Punjabi,False,2018-07-03,Hyderabad,Hyderabad Zone 01,Budget,Gold,18,Active
+2022-04-01,HYD-R07,Desi Plate - Old Town,Desi Plate,Chain,Regional Indian,None,True,2020-03-09,Hyderabad,Hyderabad Zone 01,Budget,Standard,20,Active
+2022-04-01,HYD-R08,Punjabi Tadka - City Center,Punjabi Tadka,Chain,Punjabi,None,False,2021-04-15,Hyderabad,Hyderabad Zone 01,Budget,Standard,20,Active
+2022-04-01,HYD-R09,Annapurna Bhojanalaya,Annapurna Bhojanalaya,Independent,South Indian,None,False,2020-09-18,Hyderabad,Hyderabad Zone 02,Budget,Platinum,15,Active
+2022-04-01,HYD-R11,Udupi Delight - Civil Lines,Udupi Delight,Chain,South Indian,None,False,2018-09-15,Hyderabad,Hyderabad Zone 02,Mid,Standard,21,Active
+2022-04-01,HYD-R12,Moti Rasoi,Moti Rasoi,Independent,South Indian,Mughlai & Awadhi,False,2021-01-05,Hyderabad,Hyderabad Zone 01,Premium,Platinum,15,Active
+2022-04-01,HYD-R13,Spice Route - Hi-Tech Park,Spice Route,Chain,Regional Indian,None,False,2018-01-02,Hyderabad,Hyderabad Zone 02,Mid,Standard,20,Active
+2022-04-01,HYD-R14,Moti Corner,Moti Corner,Independent,Mughlai & Awadhi,Maharashtrian,False,2019-07-31,Hyderabad,Hyderabad Zone 02,Budget,Standard,19,Active
+2022-04-01,HYD-R15,Zaika Dhaba,Zaika Dhaba,Independent,South Indian,None,False,2019-07-27,Hyderabad,Hyderabad Zone 01,Premium,Gold,17,Active
+2022-04-01,HYD-R16,Ganesh Bhojanalaya,Ganesh Bhojanalaya,Independent,Punjabi,None,False,2019-07-14,Hyderabad,Hyderabad Zone 01,Budget,Platinum,16,Active
+2022-04-01,HYD-R17,Annapurna Corner,Annapurna Corner,Independent,Regional Indian,South Indian,False,2021-05-31,Hyderabad,Hyderabad Zone 01,Mid,Standard,20,Active
+2022-04-01,HYD-R18,Sagar Rasoi,Sagar Rasoi,Independent,Mughlai & Awadhi,None,False,2021-08-26,Hyderabad,Hyderabad Zone 01,Budget,Platinum,15,Active
+2022-04-01,HYD-R19,Moti Restaurant,Moti Restaurant,Independent,Punjabi,None,False,2018-12-29,Hyderabad,Hyderabad Zone 03,Premium,Gold,18,Active
+2022-04-01,HYD-R20,Mishti & More - Old Town,Mishti & More,Chain,Bengali & East Indian,None,False,2018-02-10,Hyderabad,Hyderabad Zone 03,Mid,Gold,18,Active
+2022-04-01,INDO-R01,Awadhi Darbar - Market Square,Awadhi Darbar,Chain,Mughlai & Awadhi,None,False,2019-04-25,Indore,Indore Zone 01,Premium,Standard,20,Active
+2022-04-01,INDO-R010,Lucky Dhaba,Lucky Dhaba,Independent,Regional Indian,South Indian,False,2020-03-22,Indore,Indore Zone 04,Budget,Standard,19,Active
+2022-04-01,INDO-R02,Kathiyawadi Kitchen - Mall Road,Kathiyawadi Kitchen,Chain,Gujarati,None,False,2021-05-19,Indore,Indore Zone 01,Mid,Gold,18,Active
+2022-04-01,INDO-R03,Amritsari Kitchen - Market Square,Amritsari Kitchen,Chain,Punjabi,Gujarati,False,2019-07-16,Indore,Indore Zone 03,Budget,Platinum,15,Active
+2022-04-01,INDO-R04,Krishna Bhojanalaya,Krishna Bhojanalaya,Independent,Mughlai & Awadhi,None,False,2018-01-05,Indore,Indore Zone 04,Mid,Gold,19,Active
+2022-04-01,INDO-R05,Nawabi Handi - Old Town,Nawabi Handi,Chain,Mughlai & Awadhi,None,False,2018-09-07,Indore,Indore Zone 03,Mid,Gold,18,Active
+2022-04-01,INDO-R06,Mishti & More - Mall Road,Mishti & More,Chain,Bengali & East Indian,Regional Indian,False,2020-07-08,Indore,Indore Zone 03,Mid,Standard,20,Active
+2022-04-01,INDO-R07,Zaika Restaurant,Zaika Restaurant,Independent,South Indian,Rajasthani,False,2019-02-08,Indore,Indore Zone 03,Budget,Platinum,14,Active
+2022-04-01,INDO-R08,Thali Ghar - Hi-Tech Park,Thali Ghar,Chain,Gujarati,None,False,2021-07-06,Indore,Indore Zone 03,Premium,Gold,18,Active
+2022-04-01,INDO-R09,Biryani Mahal - Old Town,Biryani Mahal,Chain,Mughlai & Awadhi,South Indian,False,2019-04-30,Indore,Indore Zone 03,Premium,Gold,18,Active
+2022-04-01,INDO-R11,Krishna Dhaba,Krishna Dhaba,Independent,Mughlai & Awadhi,None,True,2018-03-10,Indore,Indore Zone 03,Mid,Platinum,16,Active
+2022-04-01,INDO-R12,Gupta Dhaba,Gupta Dhaba,Independent,Mughlai & Awadhi,None,False,2018-05-15,Indore,Indore Zone 03,Budget,Standard,21,Active
+2022-04-01,INDO-R13,Krishna Restaurant,Krishna Restaurant,Independent,Punjabi,Regional Indian,False,2021-09-13,Indore,Indore Zone 03,Mid,Standard,19,Active
+2022-04-01,INDO-R14,Shree Bhojanalaya,Shree Bhojanalaya,Independent,Bengali & East Indian,South Indian,False,2018-02-23,Indore,Indore Zone 03,Mid,Gold,17,Active
+2022-04-01,INDO-R15,Vada Pav Co. - City Center,Vada Pav Co.,Chain,Maharashtrian,Punjabi,True,2021-03-19,Indore,Indore Zone 03,Budget,Gold,19,Active
+2022-04-01,INDO-R16,Royal Kitchen,Royal Kitchen,Independent,Rajasthani,South Indian,True,2018-09-19,Indore,Indore Zone 03,Mid,Standard,19,Active
+2022-04-01,INDO-R17,Krishna Rasoi,Krishna Rasoi,Independent,South Indian,None,True,2019-09-25,Indore,Indore Zone 03,Budget,Standard,21,Active
+2022-04-01,INDO-R18,Annapurna Kitchen,Annapurna Kitchen,Independent,Gujarati,None,False,2018-04-22,Indore,Indore Zone 03,Mid,Standard,20,Active
+2022-04-01,INDO-R19,Lucky Corner,Lucky Corner,Independent,Punjabi,Maharashtrian,False,2020-08-15,Indore,Indore Zone 03,Mid,Standard,20,Active
+2022-04-01,INDO-R20,Sunrise Restaurant,Sunrise Restaurant,Independent,Maharashtrian,None,True,2018-03-28,Indore,Indore Zone 03,Mid,Standard,20,Active
+2022-04-01,JAP-R01,Krishna Kitchen,Krishna Kitchen,Independent,Mughlai & Awadhi,None,False,2019-11-10,Jaipur,Jaipur Zone 05,Premium,Standard,19,Active
+2022-04-01,JAP-R010,Annapurna Dhaba,Annapurna Dhaba,Independent,South Indian,Regional Indian,False,2018-10-19,Jaipur,Jaipur Zone 04,Budget,Standard,20,Active
+2022-04-01,JAP-R02,Annapurna Kitchen,Annapurna Kitchen,Independent,Punjabi,None,True,2019-06-21,Jaipur,Jaipur Zone 05,Mid,Standard,20,Active
+2022-04-01,JAP-R03,Pune Pavilion - Main Road,Pune Pavilion,Chain,Maharashtrian,None,False,2018-02-12,Jaipur,Jaipur Zone 05,Premium,Gold,18,Active
+2022-04-01,JAP-R04,Lucky Bhojanalaya,Lucky Bhojanalaya,Independent,Punjabi,None,False,2020-02-02,Jaipur,Jaipur Zone 04,Mid,Standard,20,Active
+2022-04-01,JAP-R05,Zaika Dhaba,Zaika Dhaba,Independent,Regional Indian,None,False,2018-09-25,Jaipur,Jaipur Zone 04,Mid,Standard,20,Active
+2022-04-01,JAP-R06,Ganesh Kitchen,Ganesh Kitchen,Independent,Punjabi,South Indian,False,2021-04-17,Jaipur,Jaipur Zone 04,Budget,Platinum,15,Active
+2022-04-01,JAP-R07,Ganesh Bhojanalaya,Ganesh Bhojanalaya,Independent,Rajasthani,None,False,2021-04-11,Jaipur,Jaipur Zone 01,Premium,Standard,21,Active
+2022-04-01,JAP-R08,Shree Kitchen,Shree Kitchen,Independent,Punjabi,Bengali & East Indian,False,2021-08-14,Jaipur,Jaipur Zone 04,Mid,Platinum,15,Active
+2022-04-01,JAP-R09,Vada Pav Co. - Old Town,Vada Pav Co.,Chain,Maharashtrian,None,False,2020-10-10,Jaipur,Jaipur Zone 04,Mid,Gold,18,Active
+2022-04-01,JAP-R11,Lucky Kitchen,Lucky Kitchen,Independent,Rajasthani,None,False,2019-04-26,Jaipur,Jaipur Zone 04,Mid,Platinum,15,Active
+2022-04-01,JAP-R12,Sunrise Rasoi,Sunrise Rasoi,Independent,Gujarati,None,False,2019-08-28,Jaipur,Jaipur Zone 04,Mid,Gold,18,Active
+2022-04-01,JAP-R13,Moti Restaurant,Moti Restaurant,Independent,Maharashtrian,None,False,2020-01-23,Jaipur,Jaipur Zone 02,Premium,Standard,19,Active
+2022-04-01,JAP-R14,Ganesh Dhaba,Ganesh Dhaba,Independent,Maharashtrian,Gujarati,True,2020-10-24,Jaipur,Jaipur Zone 02,Mid,Standard,21,Active
+2022-04-01,JAP-R15,Shree Dhaba,Shree Dhaba,Independent,Rajasthani,None,False,2019-11-15,Jaipur,Jaipur Zone 02,Budget,Standard,20,Active
+2022-04-01,JAP-R16,Lucky Corner,Lucky Corner,Independent,Maharashtrian,Regional Indian,True,2021-01-17,Jaipur,Jaipur Zone 02,Premium,Gold,19,Active
+2022-04-01,JAP-R17,Sagar Rasoi,Sagar Rasoi,Independent,Punjabi,Regional Indian,True,2021-09-01,Jaipur,Jaipur Zone 02,Mid,Gold,18,Active
+2022-04-01,JAP-R18,Rajwada Rasoi - Mall Road,Rajwada Rasoi,Chain,Rajasthani,South Indian,False,2021-02-05,Jaipur,Jaipur Zone 04,Mid,Standard,20,Active
+2022-04-01,JAP-R19,Rajwada Rasoi - Mall Road,Rajwada Rasoi,Chain,Rajasthani,Regional Indian,False,2019-03-06,Jaipur,Jaipur Zone 04,Mid,Standard,20,Active
+2022-04-01,JAP-R20,Sunrise Corner,Sunrise Corner,Independent,Rajasthani,Gujarati,False,2019-12-28,Jaipur,Jaipur Zone 04,Budget,Standard,20,Active
+2022-04-01,KNP-R01,Sunrise Bhojanalaya,Sunrise Bhojanalaya,Independent,South Indian,None,False,2018-03-07,Kanpur,Kanpur Zone 02,Premium,Gold,18,Active
+2022-04-01,KNP-R010,Krishna Rasoi,Krishna Rasoi,Independent,Punjabi,None,False,2019-02-23,Kanpur,Kanpur Zone 02,Premium,Standard,19,Active
+2022-04-01,KNP-R02,Dhaba Express - Market Square,Dhaba Express,Chain,Punjabi,Bengali & East Indian,False,2018-12-18,Kanpur,Kanpur Zone 02,Mid,Gold,18,Active
+2022-04-01,KNP-R03,Royal Kitchen,Royal Kitchen,Independent,Rajasthani,Mughlai & Awadhi,False,2019-08-05,Kanpur,Kanpur Zone 02,Budget,Standard,19,Active
+2022-04-01,KNP-R04,Sharma Dhaba,Sharma Dhaba,Independent,Gujarati,None,False,2020-04-21,Kanpur,Kanpur Zone 02,Mid,Platinum,16,Active
+2022-04-01,KNP-R05,Sagar Kitchen,Sagar Kitchen,Independent,Regional Indian,South Indian,True,2020-06-04,Kanpur,Kanpur Zone 02,Premium,Standard,20,Active
+2022-04-01,KNP-R06,Lucky Rasoi,Lucky Rasoi,Independent,Mughlai & Awadhi,Bengali & East Indian,False,2019-02-18,Kanpur,Unknown,Budget,Gold,17,Active
+2022-04-01,KNP-R07,Sharma Bhojanalaya,Sharma Bhojanalaya,Independent,Punjabi,Bengali & East Indian,False,2020-07-31,Kanpur,Kanpur Zone 02,Premium,Gold,18,Active
+2022-04-01,KNP-R08,Moti Corner,Moti Corner,Independent,Punjabi,Mughlai & Awadhi,False,2020-03-11,Kanpur,Unknown,Mid,Gold,19,Active
+2022-04-01,KNP-R09,Awadhi Darbar - Market Square,Awadhi Darbar,Chain,Mughlai & Awadhi,Gujarati,False,2021-09-11,Kanpur,Kanpur Zone 02,Budget,Standard,19,Active
+2022-04-01,KNP-R11,Nawabi Handi - Station Road,Nawabi Handi,Chain,Mughlai & Awadhi,Punjabi,False,2021-09-27,Kanpur,Kanpur Zone 02,Mid,Platinum,15,Active
+2022-04-01,KNP-R12,Nawabi Handi - Hi-Tech Park,Nawabi Handi,Chain,Mughlai & Awadhi,None,False,2020-01-26,Kanpur,Kanpur Zone 02,Budget,Platinum,15,Active
+2022-04-01,KNP-R13,Royal Bhojanalaya,Royal Bhojanalaya,Independent,Punjabi,None,True,2018-02-24,Kanpur,Kanpur Zone 01,Budget,Standard,20,Active
+2022-04-01,KNP-R14,Lucky Restaurant,Lucky Restaurant,Independent,Mughlai & Awadhi,None,False,2021-12-23,Kanpur,Kanpur Zone 02,Premium,Platinum,14,Active
+2022-04-01,KNP-R15,Shree Rasoi,Shree Rasoi,Independent,Maharashtrian,None,False,2020-06-15,Kanpur,Kanpur Zone 02,Budget,Gold,17,Active
+2022-04-01,KNP-R16,Awadhi Darbar - Main Road,Awadhi Darbar,Chain,Mughlai & Awadhi,None,False,2020-12-30,Kanpur,Kanpur Zone 02,Mid,Standard,20,Active
+2022-04-01,KNP-R17,Amritsari Kitchen - MG Road,Amritsari Kitchen,Chain,Punjabi,None,True,2018-03-12,Kanpur,Kanpur Zone 02,Premium,Gold,19,Active
+2022-04-01,KNP-R18,Ganesh Corner,Ganesh Corner,Independent,Rajasthani,Punjabi,False,2020-03-10,Kanpur,Kanpur Zone 02,Mid,Gold,17,Active
+2022-04-01,KNP-R19,Mishti & More - Lakeside,Mishti & More,Chain,Bengali & East Indian,None,False,2019-05-04,Kanpur,Kanpur Zone 02,Budget,Standard,20,Active
+2022-04-01,KNP-R20,Ganesh Corner,Ganesh Corner,Independent,Punjabi,Gujarati,False,2018-07-17,Kanpur,Kanpur Zone 02,Mid,Standard,20,Active
+2022-04-01,KOC-R01,Marwar Thali - Civil Lines,Marwar Thali,Chain,Rajasthani,Gujarati,False,2021-07-07,Kochi,Kochi Zone 06,Budget,Gold,18,Active
+2022-04-01,KOC-R010,Lucky Kitchen,Lucky Kitchen,Independent,Punjabi,None,False,2018-01-31,Kochi,Kochi Zone 02,Mid,Standard,19,Active
+2022-04-01,KOC-R02,Vada Pav Co. - MG Road,Vada Pav Co.,Chain,Maharashtrian,Bengali & East Indian,True,2019-03-24,Kochi,Kochi Zone 02,Mid,Platinum,14,Active
+2022-04-01,KOC-R03,Royal Bhojanalaya,Royal Bhojanalaya,Independent,Bengali & East Indian,Punjabi,False,2021-07-16,Kochi,Kochi Zone 02,Mid,Platinum,15,Active
+2022-04-01,KOC-R04,Royal Corner,Royal Corner,Independent,South Indian,None,False,2021-09-26,Kochi,Kochi Zone 06,Mid,Gold,18,Active
+2022-04-01,KOC-R05,Sharma Corner,Sharma Corner,Independent,Maharashtrian,None,False,2021-12-14,Kochi,Kochi Zone 06,Premium,Platinum,15,Active
+2022-04-01,KOC-R06,Lucky Corner,Lucky Corner,Independent,Punjabi,None,False,2018-06-12,Kochi,Kochi Zone 06,Budget,Standard,20,Active
+2022-04-01,KOC-R07,Lucky Corner,Lucky Corner,Independent,Maharashtrian,Gujarati,False,2019-11-05,Kochi,Kochi Zone 06,Budget,Gold,18,Active
+2022-04-01,KOC-R08,Vada Pav Co. - Lakeside,Vada Pav Co.,Chain,Maharashtrian,None,False,2019-04-15,Kochi,Kochi Zone 06,Premium,Gold,19,Active
+2022-04-01,KOC-R09,Vada Pav Co. - Mall Road,Vada Pav Co.,Chain,Maharashtrian,Rajasthani,False,2020-02-21,Kochi,Kochi Zone 02,Mid,Gold,19,Active
+2022-04-01,KOC-R11,Punjabi Tadka - Hi-Tech Park,Punjabi Tadka,Chain,Punjabi,None,True,2018-10-17,Kochi,Kochi Zone 02,Premium,Platinum,14,Active
+2022-04-01,KOC-R12,Lucky Rasoi,Lucky Rasoi,Independent,Punjabi,Rajasthani,False,2019-09-30,Kochi,Kochi Zone 06,Budget,Standard,20,Active
+2022-04-01,KOC-R13,Dhaba Express - MG Road,Dhaba Express,Chain,Punjabi,Rajasthani,True,2020-09-12,Kochi,Kochi Zone 06,Premium,Gold,18,Active
+2022-04-01,KOC-R14,Sharma Rasoi,Sharma Rasoi,Independent,Regional Indian,Gujarati,False,2020-09-14,Kochi,Kochi Zone 02,Budget,Platinum,14,Active
+2022-04-01,KOC-R15,Krishna Rasoi,Krishna Rasoi,Independent,South Indian,None,False,2019-06-11,Kochi,Kochi Zone 02,Mid,Platinum,16,Active
+2022-04-01,KOC-R16,Moti Kitchen,Moti Kitchen,Independent,Gujarati,Rajasthani,True,2019-01-24,Kochi,Kochi Zone 02,Budget,Gold,17,Active
+2022-04-01,KOC-R17,Sagar Restaurant,Sagar Restaurant,Independent,Rajasthani,None,False,2020-09-29,Kochi,Kochi Zone 06,Mid,Platinum,16,Active
+2022-04-01,KOC-R18,Sagar Rasoi,Sagar Rasoi,Independent,Regional Indian,Punjabi,False,2019-06-07,Kochi,Kochi Zone 06,Mid,Standard,20,Active
+2022-04-01,KOC-R19,Zaika Dhaba,Zaika Dhaba,Independent,Bengali & East Indian,Mughlai & Awadhi,False,2019-05-21,Kochi,Kochi Zone 06,Budget,Gold,19,Active
+2022-04-01,KOC-R20,Zaika Corner,Zaika Corner,Independent,Punjabi,None,False,2020-07-21,Kochi,Kochi Zone 07,Premium,Gold,18,Active
+2022-04-01,KOL-R01,Annapurna Dhaba,Annapurna Dhaba,Independent,Punjabi,Rajasthani,False,2020-02-27,Kolkata,Kolkata Zone 01,Mid,Platinum,15,Active
+2022-04-01,KOL-R010,Sagar Kitchen,Sagar Kitchen,Independent,Bengali & East Indian,None,False,2019-09-11,Kolkata,Kolkata Zone 01,Mid,Platinum,15,Active
+2022-04-01,KOL-R02,Zaika Dhaba,Zaika Dhaba,Independent,Bengali & East Indian,None,False,2019-12-07,Kolkata,Kolkata Zone 01,Premium,Standard,20,Active
+2022-04-01,KOL-R03,Annapurna Kitchen,Annapurna Kitchen,Independent,Gujarati,Mughlai & Awadhi,True,2018-05-24,Kolkata,Kolkata Zone 01,Mid,Gold,18,Active
+2022-04-01,KOL-R04,Royal Bhojanalaya,Royal Bhojanalaya,Independent,South Indian,Maharashtrian,True,2020-09-23,Kolkata,Kolkata Zone 01,Budget,Standard,20,Active
+2022-04-01,KOL-R05,Desi Plate - Mall Road,Desi Plate,Chain,Regional Indian,Mughlai & Awadhi,False,2019-01-28,Kolkata,Kolkata Zone 01,Budget,Standard,20,Active
+2022-04-01,KOL-R06,Ganesh Kitchen,Ganesh Kitchen,Independent,Mughlai & Awadhi,Rajasthani,True,2018-09-13,Kolkata,Kolkata Zone 01,Budget,Standard,20,Active
+2022-04-01,KOL-R07,Annapurna Dhaba,Annapurna Dhaba,Independent,Maharashtrian,None,False,2021-09-24,Kolkata,Kolkata Zone 01,Mid,Standard,20,Active
+2022-04-01,KOL-R08,Krishna Rasoi,Krishna Rasoi,Independent,Regional Indian,Bengali & East Indian,False,2020-09-22,Kolkata,Kolkata Zone 01,Budget,Gold,18,Active
+2022-04-01,KOL-R09,Moti Kitchen,Moti Kitchen,Independent,Maharashtrian,South Indian,False,2020-02-15,Kolkata,Kolkata Zone 01,Mid,Platinum,15,Active
+2022-04-01,KOL-R11,Gupta Corner,Gupta Corner,Independent,Regional Indian,None,False,2018-10-12,Kolkata,Kolkata Zone 02,Mid,Standard,20,Active
+2022-04-01,KOL-R12,Moti Restaurant,Moti Restaurant,Independent,Punjabi,None,False,2020-08-31,Kolkata,Kolkata Zone 01,Mid,Gold,18,Active
+2022-04-01,KOL-R13,Annapurna Corner,Annapurna Corner,Independent,Bengali & East Indian,Mughlai & Awadhi,True,2019-10-29,Kolkata,Kolkata Zone 01,Mid,Platinum,15,Active
+2022-04-01,KOL-R14,Moti Restaurant,Moti Restaurant,Independent,Punjabi,Mughlai & Awadhi,False,2020-09-02,Kolkata,Kolkata Zone 01,Premium,Platinum,15,Active
+2022-04-01,KOL-R15,Krishna Kitchen,Krishna Kitchen,Independent,Rajasthani,None,False,2021-03-17,Kolkata,Kolkata Zone 01,Mid,Gold,18,Active
+2022-04-01,KOL-R16,Ganesh Rasoi,Ganesh Rasoi,Independent,Bengali & East Indian,South Indian,False,2020-07-02,Kolkata,Kolkata Zone 01,Premium,Platinum,15,Active
+2022-04-01,KOL-R17,Bhoj Bengal - Station Road,Bhoj Bengal,Chain,Bengali & East Indian,None,True,2018-03-01,Kolkata,Kolkata Zone 02,Budget,Gold,19,Active
+2022-04-01,KOL-R18,Zaika Bhojanalaya,Zaika Bhojanalaya,Independent,Mughlai & Awadhi,None,False,2021-10-05,Kolkata,Kolkata Zone 02,Budget,Gold,17,Active
+2022-04-01,KOL-R19,Zaika Bhojanalaya,Zaika Bhojanalaya,Independent,Punjabi,None,False,2021-05-15,Kolkata,Kolkata Zone 02,Budget,Platinum,15,Active
+2022-04-01,KOL-R20,Ganesh Corner,Ganesh Corner,Independent,Maharashtrian,None,False,2020-06-13,Kolkata,Kolkata Zone 01,Premium,Gold,19,Active
+2022-04-01,LUDH-R01,Amritsari Kitchen - Old Town,Amritsari Kitchen,Chain,Punjabi,Gujarati,True,2020-01-24,Ludhiana,Ludhiana Zone 02,Budget,Gold,18,Active
+2022-04-01,LUDH-R010,Amritsari Kitchen - Main Road,Amritsari Kitchen,Chain,Punjabi,Mughlai & Awadhi,False,2019-10-17,Ludhiana,Ludhiana Zone 02,Mid,Platinum,15,Active
+2022-04-01,LUDH-R02,Bhoj Bengal - Market Square,Bhoj Bengal,Chain,Bengali & East Indian,None,False,2021-01-07,Ludhiana,Unknown,Premium,Standard,19,Active
+2022-04-01,LUDH-R03,Dhaba Express - Mall Road,Dhaba Express,Chain,Punjabi,None,True,2019-08-04,Ludhiana,Ludhiana Zone 02,Budget,Gold,18,Active
+2022-04-01,LUDH-R04,Moti Bhojanalaya,Moti Bhojanalaya,Independent,Maharashtrian,None,False,2019-07-15,Ludhiana,Ludhiana Zone 03,Premium,Standard,21,Active
+2022-04-01,LUDH-R05,Dosa Plaza - MG Road,Dosa Plaza,Chain,South Indian,Regional Indian,False,2018-11-09,Ludhiana,Ludhiana Zone 03,Premium,Standard,19,Active
+2022-04-01,LUDH-R06,Royal Restaurant,Royal Restaurant,Independent,Punjabi,None,False,2021-09-12,Ludhiana,Ludhiana Zone 02,Premium,Gold,19,Active
+2022-04-01,LUDH-R07,Moti Restaurant,Moti Restaurant,Independent,Punjabi,Bengali & East Indian,False,2019-08-03,Ludhiana,Unknown,Budget,Standard,21,Active
+2022-04-01,LUDH-R08,Royal Bhojanalaya,Royal Bhojanalaya,Independent,Mughlai & Awadhi,None,False,2018-04-21,Ludhiana,Ludhiana Zone 02,Premium,Gold,18,Active
+2022-04-01,LUDH-R09,Zaika Restaurant,Zaika Restaurant,Independent,South Indian,Gujarati,True,2019-03-23,Ludhiana,Ludhiana Zone 01,Premium,Standard,20,Active
+2022-04-01,LUDH-R11,Shree Corner,Shree Corner,Independent,Punjabi,None,False,2020-02-11,Ludhiana,Ludhiana Zone 02,Premium,Gold,18,Active
+2022-04-01,LUDH-R12,Moti Restaurant,Moti Restaurant,Independent,Punjabi,None,True,2020-11-21,Ludhiana,Ludhiana Zone 02,Mid,Standard,20,Active
+2022-04-01,LUDH-R13,Lucky Dhaba,Lucky Dhaba,Independent,Gujarati,None,False,2019-09-12,Ludhiana,Ludhiana Zone 02,Premium,Standard,20,Active
+2022-04-01,LUDH-R14,Gupta Corner,Gupta Corner,Independent,Regional Indian,None,False,2020-06-30,Ludhiana,Ludhiana Zone 02,Mid,Standard,20,Active
+2022-04-01,LUDH-R15,Lucky Dhaba,Lucky Dhaba,Independent,Punjabi,Bengali & East Indian,False,2020-09-09,Ludhiana,Ludhiana Zone 02,Budget,Gold,17,Active
+2022-04-01,LUDH-R16,Dosa Plaza - Hi-Tech Park,Dosa Plaza,Chain,South Indian,None,True,2019-10-29,Ludhiana,Ludhiana Zone 02,Budget,Standard,20,Active
+2022-04-01,LUDH-R17,Nawabi Handi - Main Road,Nawabi Handi,Chain,Mughlai & Awadhi,None,False,2020-12-21,Ludhiana,Ludhiana Zone 02,Mid,Gold,17,Active
+2022-04-01,LUDH-R18,Lucky Corner,Lucky Corner,Independent,Punjabi,None,True,2021-05-11,Ludhiana,Ludhiana Zone 02,Mid,Platinum,16,Active
+2022-04-01,LUDH-R19,Amritsari Kitchen - Station Road,Amritsari Kitchen,Chain,Punjabi,South Indian,True,2019-06-10,Ludhiana,Ludhiana Zone 03,Premium,Gold,17,Active
+2022-04-01,LUDH-R20,Sharma Kitchen,Sharma Kitchen,Independent,Punjabi,None,False,2018-01-01,Ludhiana,Ludhiana Zone 01,Budget,Platinum,15,Active
+2022-04-01,MUM-R01,Ganesh Rasoi,Ganesh Rasoi,Independent,Punjabi,None,False,2021-11-24,Mumbai,Mumbai Zone 05,Mid,Standard,21,Active
+2022-04-01,MUM-R010,Lucky Corner,Lucky Corner,Independent,Mughlai & Awadhi,None,False,2019-05-01,Mumbai,Mumbai Zone 03,Budget,Standard,19,Active
+2022-04-01,MUM-R02,Amritsari Kitchen - Station Road,Amritsari Kitchen,Chain,Punjabi,None,False,2021-06-28,Mumbai,Mumbai Zone 07,Mid,Gold,17,Active
+2022-04-01,MUM-R03,Gupta Dhaba,Gupta Dhaba,Independent,Maharashtrian,Mughlai & Awadhi,False,2021-11-23,Mumbai,Mumbai Zone 07,Budget,Platinum,14,Active
+2022-04-01,MUM-R04,Sher-e-Punjab - Mall Road,Sher-e-Punjab,Chain,Punjabi,None,False,2020-11-13,Mumbai,Mumbai Zone 07,Premium,Gold,18,Active
+2022-04-01,MUM-R05,Krishna Kitchen,Krishna Kitchen,Independent,Maharashtrian,Regional Indian,True,2018-08-14,Mumbai,Mumbai Zone 01,Mid,Standard,20,Active
+2022-04-01,MUM-R06,Sunrise Kitchen,Sunrise Kitchen,Independent,Maharashtrian,Punjabi,False,2018-01-21,Mumbai,Mumbai Zone 03,Budget,Platinum,15,Active
+2022-04-01,MUM-R07,Royal Rasoi,Royal Rasoi,Independent,Regional Indian,Punjabi,False,2020-09-29,Mumbai,Mumbai Zone 03,Budget,Gold,19,Active
+2022-04-01,MUM-R08,Vada Pav Co. - MG Road,Vada Pav Co.,Chain,Maharashtrian,None,True,2019-10-14,Mumbai,Mumbai Zone 03,Premium,Standard,20,Active
+2022-04-01,MUM-R09,Sharma Rasoi,Sharma Rasoi,Independent,Maharashtrian,Mughlai & Awadhi,False,2021-04-28,Mumbai,Mumbai Zone 01,Budget,Platinum,15,Active
+2022-04-01,MUM-R11,Amritsari Kitchen - Station Road,Amritsari Kitchen,Chain,Punjabi,None,False,2018-04-19,Mumbai,Mumbai Zone 01,Budget,Platinum,15,Active
+2022-04-01,MUM-R12,Misal House - Market Square,Misal House,Chain,Maharashtrian,Regional Indian,True,2019-12-26,Mumbai,Mumbai Zone 08,Mid,Gold,18,Active
+2022-04-01,MUM-R13,Sunrise Corner,Sunrise Corner,Independent,Maharashtrian,Bengali & East Indian,False,2020-04-12,Mumbai,Mumbai Zone 05,Mid,Platinum,16,Active
+2022-04-01,MUM-R14,Marwar Thali - Mall Road,Marwar Thali,Chain,Rajasthani,None,True,2019-08-09,Mumbai,Mumbai Zone 05,Mid,Standard,21,Active
+2022-04-01,MUM-R15,Ganesh Rasoi,Ganesh Rasoi,Independent,Maharashtrian,None,True,2020-10-16,Mumbai,Mumbai Zone 05,Mid,Platinum,16,Active
+2022-04-01,MUM-R16,Annapurna Rasoi,Annapurna Rasoi,Independent,Regional Indian,None,False,2018-01-15,Mumbai,Mumbai Zone 06,Mid,Standard,20,Active
+2022-04-01,MUM-R17,Udupi Delight - Civil Lines,Udupi Delight,Chain,South Indian,None,False,2021-10-13,Mumbai,Mumbai Zone 06,Premium,Gold,19,Active
+2022-04-01,MUM-R18,Mishti & More - Old Town,Mishti & More,Chain,Bengali & East Indian,None,False,2020-05-15,Mumbai,Mumbai Zone 05,Mid,Standard,20,Active
+2022-04-01,MUM-R19,Sharma Dhaba,Sharma Dhaba,Independent,Punjabi,None,False,2019-06-27,Mumbai,Mumbai Zone 05,Budget,Standard,20,Active
+2022-04-01,MUM-R20,Udupi Delight - MG Road,Udupi Delight,Chain,South Indian,None,False,2020-09-26,Mumbai,Mumbai Zone 05,Budget,Standard,20,Active
+2022-04-01,MYS-R01,Moti Corner,Moti Corner,Independent,Punjabi,South Indian,False,2018-07-27,Mysuru,Mysuru Zone 02,Mid,Standard,20,Active
+2022-04-01,MYS-R010,Shree Restaurant,Shree Restaurant,Independent,Punjabi,None,False,2019-05-28,Mysuru,Mysuru Zone 02,Mid,Standard,20,Active
+2022-04-01,MYS-R02,Sunrise Dhaba,Sunrise Dhaba,Independent,South Indian,Bengali & East Indian,False,2020-06-18,Mysuru,Mysuru Zone 02,Budget,Gold,18,Active
+2022-04-01,MYS-R03,Shree Kitchen,Shree Kitchen,Independent,Maharashtrian,South Indian,True,2020-05-12,Mysuru,Mysuru Zone 01,Mid,Gold,18,Active
+2022-04-01,MYS-R04,Shree Restaurant,Shree Restaurant,Independent,Mughlai & Awadhi,Gujarati,False,2021-10-28,Mysuru,Mysuru Zone 02,Mid,Standard,20,Active
+2022-04-01,MYS-R05,Zaika Corner,Zaika Corner,Independent,Maharashtrian,None,False,2018-08-13,Mysuru,Mysuru Zone 02,Premium,Gold,18,Active
+2022-04-01,MYS-R06,Annapurna Corner,Annapurna Corner,Independent,Bengali & East Indian,Maharashtrian,False,2021-05-07,Mysuru,Mysuru Zone 02,Mid,Standard,21,Active
+2022-04-01,MYS-R07,Sambar Station - Lakeside,Sambar Station,Chain,South Indian,Bengali & East Indian,False,2019-01-18,Mysuru,Mysuru Zone 02,Budget,Gold,17,Active
+2022-04-01,MYS-R08,Ganesh Restaurant,Ganesh Restaurant,Independent,Bengali & East Indian,None,False,2018-07-31,Mysuru,Mysuru Zone 01,Mid,Standard,20,Active
+2022-04-01,MYS-R09,Lucky Dhaba,Lucky Dhaba,Independent,South Indian,Regional Indian,True,2019-01-29,Mysuru,Mysuru Zone 02,Premium,Standard,20,Active
+2022-04-01,MYS-R11,Dosa Plaza - Main Road,Dosa Plaza,Chain,South Indian,None,False,2021-07-21,Mysuru,Mysuru Zone 02,Premium,Standard,21,Active
+2022-04-01,MYS-R12,Sunrise Dhaba,Sunrise Dhaba,Independent,Punjabi,Gujarati,False,2019-12-20,Mysuru,Mysuru Zone 01,Budget,Standard,19,Active
+2022-04-01,MYS-R13,Punjabi Tadka - Main Road,Punjabi Tadka,Chain,Punjabi,None,False,2019-08-08,Mysuru,Mysuru Zone 02,Premium,Gold,18,Active
+2022-04-01,MYS-R14,Nawabi Handi - Hi-Tech Park,Nawabi Handi,Chain,Mughlai & Awadhi,Gujarati,True,2021-10-02,Mysuru,Unknown,Budget,Standard,20,Active
+2022-04-01,MYS-R15,Zaika Rasoi,Zaika Rasoi,Independent,South Indian,None,False,2021-08-24,Mysuru,Mysuru Zone 02,Budget,Standard,19,Active
+2022-04-01,MYS-R16,Udupi Delight - Market Square,Udupi Delight,Chain,South Indian,Punjabi,False,2021-09-02,Mysuru,Mysuru Zone 02,Premium,Standard,20,Active
+2022-04-01,MYS-R17,Sher-e-Punjab - Civil Lines,Sher-e-Punjab,Chain,Punjabi,Gujarati,False,2019-02-18,Mysuru,Mysuru Zone 02,Mid,Standard,20,Active
+2022-04-01,MYS-R18,Sharma Bhojanalaya,Sharma Bhojanalaya,Independent,Punjabi,Bengali & East Indian,False,2018-08-29,Mysuru,Mysuru Zone 02,Mid,Platinum,15,Active
+2022-04-01,MYS-R19,Krishna Bhojanalaya,Krishna Bhojanalaya,Independent,Punjabi,Rajasthani,True,2018-04-04,Mysuru,Mysuru Zone 02,Premium,Standard,19,Active
+2022-04-01,MYS-R20,Dhaba Express - Lakeside,Dhaba Express,Chain,Punjabi,None,False,2018-06-03,Mysuru,Mysuru Zone 02,Budget,Standard,20,Active
+2022-04-01,PUNE-R01,Sunrise Kitchen,Sunrise Kitchen,Independent,Bengali & East Indian,Regional Indian,True,2019-03-23,Pune,Pune Zone 01,Mid,Standard,20,Active
+2022-04-01,PUNE-R010,Zaika Corner,Zaika Corner,Independent,Punjabi,None,False,2019-03-28,Pune,Pune Zone 02,Budget,Standard,20,Active
+2022-04-01,PUNE-R02,Thali Ghar - Mall Road,Thali Ghar,Chain,Gujarati,Maharashtrian,True,2019-07-23,Pune,Pune Zone 02,Premium,Standard,20,Active
+2022-04-01,PUNE-R03,Lucky Rasoi,Lucky Rasoi,Independent,Gujarati,None,False,2021-07-19,Pune,Pune Zone 01,Mid,Standard,20,Active
+2022-04-01,PUNE-R04,Zaika Kitchen,Zaika Kitchen,Independent,Maharashtrian,Mughlai & Awadhi,False,2019-10-27,Pune,Pune Zone 02,Premium,Standard,20,Active
+2022-04-01,PUNE-R05,Pune Pavilion - MG Road,Pune Pavilion,Chain,Maharashtrian,South Indian,True,2021-09-08,Pune,Pune Zone 03,Premium,Standard,20,Active
+2022-04-01,PUNE-R06,Bhoj Bengal - Lakeside,Bhoj Bengal,Chain,Bengali & East Indian,None,False,2021-05-22,Pune,Pune Zone 03,Mid,Gold,18,Active
+2022-04-01,PUNE-R07,Marwar Thali - Lakeside,Marwar Thali,Chain,Rajasthani,Maharashtrian,False,2020-06-07,Pune,Pune Zone 03,Mid,Standard,20,Active
+2022-04-01,PUNE-R08,Lucky Rasoi,Lucky Rasoi,Independent,Mughlai & Awadhi,Gujarati,False,2021-08-19,Pune,Pune Zone 02,Budget,Gold,18,Active
+2022-04-01,PUNE-R09,Lucky Dhaba,Lucky Dhaba,Independent,Gujarati,None,False,2020-07-20,Pune,Pune Zone 02,Premium,Gold,17,Active
+2022-04-01,PUNE-R11,Spice Route - Main Road,Spice Route,Chain,Regional Indian,Bengali & East Indian,False,2018-08-14,Pune,Pune Zone 02,Premium,Standard,21,Active
+2022-04-01,PUNE-R12,Mishti & More - Mall Road,Mishti & More,Chain,Bengali & East Indian,None,False,2021-05-13,Pune,Pune Zone 02,Budget,Standard,20,Active
+2022-04-01,PUNE-R13,Spice Route - Old Town,Spice Route,Chain,Regional Indian,None,True,2021-02-26,Pune,Pune Zone 03,Premium,Standard,19,Active
+2022-04-01,PUNE-R14,Rajwada Rasoi - Main Road,Rajwada Rasoi,Chain,Rajasthani,South Indian,True,2018-04-02,Pune,Pune Zone 02,Budget,Gold,18,Active
+2022-04-01,PUNE-R15,Annapurna Kitchen,Annapurna Kitchen,Independent,Gujarati,None,False,2018-10-29,Pune,Pune Zone 04,Mid,Standard,20,Active
+2022-04-01,PUNE-R16,Gupta Kitchen,Gupta Kitchen,Independent,Gujarati,None,False,2019-08-01,Pune,Pune Zone 02,Mid,Gold,17,Active
+2022-04-01,PUNE-R17,Royal Kitchen,Royal Kitchen,Independent,Maharashtrian,Punjabi,False,2019-01-07,Pune,Pune Zone 02,Mid,Standard,20,Active
+2022-04-01,PUNE-R18,Moti Dhaba,Moti Dhaba,Independent,Punjabi,None,False,2020-01-26,Pune,Pune Zone 01,Premium,Standard,20,Active
+2022-04-01,PUNE-R19,Mishti & More - Main Road,Mishti & More,Chain,Bengali & East Indian,None,True,2018-10-30,Pune,Pune Zone 03,Mid,Gold,17,Active
+2022-04-01,PUNE-R20,Shree Rasoi,Shree Rasoi,Independent,South Indian,None,False,2018-10-24,Pune,Pune Zone 01,Budget,Standard,21,Active
+2022-04-01,RANCHI-R01,Sagar Restaurant,Sagar Restaurant,Independent,Regional Indian,South Indian,False,2021-07-27,Ranchi,Ranchi Zone 02,Mid,Gold,18,Active
+2022-04-01,RANCHI-R010,Bhoj Bengal - Lakeside,Bhoj Bengal,Chain,Bengali & East Indian,None,False,2020-12-26,Ranchi,Ranchi Zone 01,Mid,Standard,19,Active
+2022-04-01,RANCHI-R02,Zaika Corner,Zaika Corner,Independent,Punjabi,Mughlai & Awadhi,True,2020-01-11,Ranchi,Unknown,Budget,Standard,20,Active
+2022-04-01,RANCHI-R03,Shree Dhaba,Shree Dhaba,Independent,Regional Indian,Bengali & East Indian,False,2018-10-13,Ranchi,Unknown,Budget,Platinum,15,Active
+2022-04-01,RANCHI-R04,Lucky Kitchen,Lucky Kitchen,Independent,Punjabi,None,True,2018-10-10,Ranchi,Ranchi Zone 01,Budget,Gold,18,Active
+2022-04-01,RANCHI-R05,Kolkata Kitchen - Lakeside,Kolkata Kitchen,Chain,Bengali & East Indian,Mughlai & Awadhi,True,2021-04-06,Ranchi,Ranchi Zone 01,Budget,Gold,19,Active
+2022-04-01,RANCHI-R06,Marwar Thali - Old Town,Marwar Thali,Chain,Rajasthani,None,True,2021-03-11,Ranchi,Ranchi Zone 01,Premium,Standard,20,Active
+2022-04-01,RANCHI-R07,Zaika Rasoi,Zaika Rasoi,Independent,South Indian,None,False,2020-04-22,Ranchi,Ranchi Zone 01,Mid,Gold,18,Active
+2022-04-01,RANCHI-R08,Mishti & More - City Center,Mishti & More,Chain,Bengali & East Indian,None,False,2021-05-22,Ranchi,Ranchi Zone 01,Mid,Standard,19,Active
+2022-04-01,RANCHI-R09,Sharma Corner,Sharma Corner,Independent,Bengali & East Indian,Regional Indian,False,2020-10-24,Ranchi,Ranchi Zone 01,Mid,Gold,17,Active
+2022-04-01,RANCHI-R11,Dhaba Express - City Center,Dhaba Express,Chain,Punjabi,None,True,2019-03-10,Ranchi,Ranchi Zone 01,Budget,Platinum,14,Active
+2022-04-01,RANCHI-R12,Krishna Dhaba,Krishna Dhaba,Independent,Punjabi,Regional Indian,False,2019-10-04,Ranchi,Unknown,Budget,Gold,18,Active
+2022-04-01,RANCHI-R13,Lucky Bhojanalaya,Lucky Bhojanalaya,Independent,South Indian,Punjabi,True,2021-05-20,Ranchi,Ranchi Zone 01,Premium,Platinum,15,Active
+2022-04-01,RANCHI-R14,Lucky Rasoi,Lucky Rasoi,Independent,Maharashtrian,Gujarati,False,2019-01-20,Ranchi,Unknown,Mid,Standard,21,Active
+2022-04-01,RANCHI-R15,Bhoj Bengal - Market Square,Bhoj Bengal,Chain,Bengali & East Indian,Maharashtrian,False,2020-09-17,Ranchi,Ranchi Zone 01,Budget,Standard,20,Active
+2022-04-01,RANCHI-R16,Misal House - Old Town,Misal House,Chain,Maharashtrian,None,False,2019-10-07,Ranchi,Ranchi Zone 01,Mid,Platinum,14,Active
+2022-04-01,RANCHI-R17,Moti Restaurant,Moti Restaurant,Independent,Bengali & East Indian,None,False,2020-10-25,Ranchi,Ranchi Zone 01,Premium,Platinum,16,Active
+2022-04-01,RANCHI-R18,Annapurna Bhojanalaya,Annapurna Bhojanalaya,Independent,Punjabi,None,False,2018-06-11,Ranchi,Ranchi Zone 01,Premium,Standard,20,Active
+2022-04-01,RANCHI-R19,Zaika Kitchen,Zaika Kitchen,Independent,Punjabi,None,False,2021-05-31,Ranchi,Ranchi Zone 01,Mid,Standard,20,Active
+2022-04-01,RANCHI-R20,Nawabi Handi - MG Road,Nawabi Handi,Chain,Mughlai & Awadhi,Regional Indian,False,2018-03-23,Ranchi,Ranchi Zone 01,Premium,Gold,17,Active
+2022-04-01,SUR-R01,Shree Kitchen,Shree Kitchen,Independent,Bengali & East Indian,Gujarati,False,2018-07-19,Surat,Surat Zone 01,Premium,Gold,19,Active
+2022-04-01,SUR-R010,Gupta Dhaba,Gupta Dhaba,Independent,Punjabi,None,True,2019-08-29,Surat,Surat Zone 01,Premium,Standard,20,Active
+2022-04-01,SUR-R02,Thali Ghar - Hi-Tech Park,Thali Ghar,Chain,Gujarati,Punjabi,False,2020-06-24,Surat,Surat Zone 01,Mid,Platinum,15,Active
+2022-04-01,SUR-R03,Sunrise Restaurant,Sunrise Restaurant,Independent,Punjabi,Rajasthani,False,2021-10-25,Surat,Surat Zone 01,Budget,Platinum,14,Active
+2022-04-01,SUR-R04,Shree Corner,Shree Corner,Independent,Gujarati,None,False,2021-10-29,Surat,Surat Zone 02,Budget,Standard,20,Active
+2022-04-01,SUR-R05,Desi Plate - Civil Lines,Desi Plate,Chain,Regional Indian,Mughlai & Awadhi,True,2020-02-09,Surat,Surat Zone 02,Budget,Standard,19,Active
+2022-04-01,SUR-R06,Moti Restaurant,Moti Restaurant,Independent,Gujarati,Bengali & East Indian,False,2020-08-10,Surat,Surat Zone 02,Budget,Standard,20,Active
+2022-04-01,SUR-R07,Sagar Bhojanalaya,Sagar Bhojanalaya,Independent,Punjabi,Bengali & East Indian,False,2021-05-22,Surat,Surat Zone 01,Mid,Standard,21,Active
+2022-04-01,SUR-R08,Royal Restaurant,Royal Restaurant,Independent,South Indian,Maharashtrian,True,2021-03-09,Surat,Surat Zone 01,Budget,Standard,20,Active
+2022-04-01,SUR-R09,Gupta Kitchen,Gupta Kitchen,Independent,Gujarati,Regional Indian,False,2021-11-01,Surat,Surat Zone 01,Mid,Standard,20,Active
+2022-04-01,SUR-R11,Swad Gujarat - Lakeside,Swad Gujarat,Chain,Gujarati,Maharashtrian,False,2020-05-09,Surat,Surat Zone 01,Mid,Standard,21,Active
+2022-04-01,SUR-R12,Misal House - Lakeside,Misal House,Chain,Maharashtrian,Regional Indian,False,2019-02-11,Surat,Surat Zone 02,Mid,Platinum,16,Active
+2022-04-01,SUR-R13,Moti Corner,Moti Corner,Independent,Gujarati,Mughlai & Awadhi,False,2021-02-22,Surat,Surat Zone 01,Mid,Standard,21,Active
+2022-04-01,SUR-R14,Moti Corner,Moti Corner,Independent,Gujarati,Mughlai & Awadhi,False,2019-10-11,Surat,Surat Zone 01,Budget,Platinum,15,Active
+2022-04-01,SUR-R15,Shree Corner,Shree Corner,Independent,Mughlai & Awadhi,None,False,2018-01-08,Surat,Surat Zone 01,Premium,Standard,20,Active
+2022-04-01,SUR-R16,Shree Dhaba,Shree Dhaba,Independent,Regional Indian,None,False,2020-05-10,Surat,Surat Zone 01,Mid,Standard,20,Active
+2022-04-01,SUR-R17,Mishti & More - Mall Road,Mishti & More,Chain,Bengali & East Indian,None,False,2018-01-30,Surat,Surat Zone 01,Mid,Platinum,15,Active
+2022-04-01,SUR-R18,Zaika Restaurant,Zaika Restaurant,Independent,Gujarati,South Indian,False,2020-04-20,Surat,Surat Zone 01,Premium,Gold,18,Active
+2022-04-01,SUR-R19,Gupta Restaurant,Gupta Restaurant,Independent,Rajasthani,Regional Indian,False,2018-11-30,Surat,Surat Zone 01,Mid,Standard,20,Active
+2022-04-01,SUR-R20,Ganesh Bhojanalaya,Ganesh Bhojanalaya,Independent,Gujarati,None,False,2018-07-23,Surat,Surat Zone 01,Premium,Gold,18,Active
+2022-04-01,VAD-R01,Mishti & More - Lakeside,Mishti & More,Chain,Bengali & East Indian,Mughlai & Awadhi,False,2021-01-20,Vadodara,Vadodara Zone 01,Budget,Standard,19,Active
+2022-04-01,VAD-R010,Thali Ghar - MG Road,Thali Ghar,Chain,Gujarati,None,False,2021-02-03,Vadodara,Vadodara Zone 01,Mid,Standard,20,Active
+2022-04-01,VAD-R02,Sagar Corner,Sagar Corner,Independent,Punjabi,Gujarati,False,2018-01-16,Vadodara,Unknown,Premium,Gold,19,Active
+2022-04-01,VAD-R03,Kolkata Kitchen - MG Road,Kolkata Kitchen,Chain,Bengali & East Indian,None,False,2020-04-29,Vadodara,Vadodara Zone 01,Mid,Gold,18,Active
+2022-04-01,VAD-R04,Amritsari Kitchen - Main Road,Amritsari Kitchen,Chain,Punjabi,None,False,2020-11-28,Vadodara,Unknown,Premium,Gold,18,Active
+2022-04-01,VAD-R05,Sharma Restaurant,Sharma Restaurant,Independent,Gujarati,Rajasthani,False,2018-04-16,Vadodara,Vadodara Zone 01,Premium,Standard,20,Active
+2022-04-01,VAD-R06,Sagar Bhojanalaya,Sagar Bhojanalaya,Independent,Gujarati,Mughlai & Awadhi,False,2018-07-23,Vadodara,Vadodara Zone 01,Mid,Standard,20,Active
+2022-04-01,VAD-R07,Sharma Kitchen,Sharma Kitchen,Independent,Punjabi,Rajasthani,True,2018-07-11,Vadodara,Unknown,Budget,Platinum,15,Active
+2022-04-01,VAD-R08,Punjabi Tadka - Market Square,Punjabi Tadka,Chain,Punjabi,None,True,2018-09-25,Vadodara,Unknown,Budget,Platinum,15,Active
+2022-04-01,VAD-R09,Misal House - Mall Road,Misal House,Chain,Maharashtrian,None,False,2020-02-14,Vadodara,Unknown,Mid,Standard,20,Active
+2022-04-01,VAD-R11,Shree Dhaba,Shree Dhaba,Independent,Maharashtrian,Gujarati,False,2018-08-08,Vadodara,Vadodara Zone 01,Budget,Standard,20,Active
+2022-04-01,VAD-R12,Lucky Restaurant,Lucky Restaurant,Independent,Gujarati,Punjabi,False,2020-04-27,Vadodara,Unknown,Mid,Standard,21,Active
+2022-04-01,VAD-R13,Ganesh Restaurant,Ganesh Restaurant,Independent,Regional Indian,Rajasthani,True,2018-01-21,Vadodara,Vadodara Zone 01,Premium,Gold,19,Active
+2022-04-01,VAD-R14,Moti Bhojanalaya,Moti Bhojanalaya,Independent,Maharashtrian,None,False,2021-01-24,Vadodara,Vadodara Zone 01,Budget,Standard,20,Active
+2022-04-01,VAD-R15,Kathiyawadi Kitchen - Main Road,Kathiyawadi Kitchen,Chain,Gujarati,Punjabi,False,2018-11-09,Vadodara,Unknown,Budget,Standard,21,Active
+2022-04-01,VAD-R16,Swad Gujarat - Station Road,Swad Gujarat,Chain,Gujarati,None,False,2018-09-17,Vadodara,Unknown,Budget,Standard,20,Active
+2022-04-01,VAD-R17,Ganesh Bhojanalaya,Ganesh Bhojanalaya,Independent,Gujarati,None,False,2020-06-12,Vadodara,Unknown,Mid,Standard,19,Active
+2022-04-01,VAD-R18,Thali Ghar - MG Road,Thali Ghar,Chain,Gujarati,Maharashtrian,False,2021-04-18,Vadodara,Unknown,Mid,Platinum,14,Active
+2022-04-01,VAD-R19,Sagar Rasoi,Sagar Rasoi,Independent,Bengali & East Indian,None,False,2021-06-29,Vadodara,Vadodara Zone 01,Budget,Standard,20,Active
+2022-04-01,VAD-R20,Gupta Kitchen,Gupta Kitchen,Independent,Gujarati,South Indian,False,2019-06-03,Vadodara,Vadodara Zone 01,Mid,Platinum,15,Active

@@ -1,0 +1,121 @@
+promotion_id,promotion_code,promotion_name,campaign_name,promotion_type,discount_value,discount_unit,funded_by,target_segment,min_order_amount,start_date,end_date
+PROMO-0001,WO201A15,Welcome Offer 2022 15% Cashback,Welcome Offer 2022,Cashback,15,Percent,Shared,New,300,2022-01-17,2022-04-30
+PROMO-0002,WO201B10,Welcome Offer 2022 10% Cashback,Welcome Offer 2022,Cashback,10,Percent,Restaurant,New,300,2022-01-17,2022-04-30
+PROMO-0003,WO201C50,Welcome Offer 2022 50 Off Flat Discount,Welcome Offer 2022,Flat Discount,50,Amount,Shared,New,400,2022-01-16,2022-04-30
+PROMO-0004,WO201D150,Welcome Offer 2022 150 Off Flat Discount,Welcome Offer 2022,Flat Discount,150,Amount,Platform,New,400,2022-01-16,2022-04-29
+PROMO-0005,WO201E75,Welcome Offer 2022 75 Off Flat Discount,Welcome Offer 2022,Flat Discount,75,Amount,Shared,New,400,2022-01-15,2022-04-29
+PROMO-0006,WO201F100,Welcome Offer 2022 100% BOGO,Welcome Offer 2022,BOGO,100,Percent,Platform,New,250,2022-01-16,2022-04-29
+PROMO-0007,WO201G100,Welcome Offer 2022 100 Off Flat Discount,Welcome Offer 2022,Flat Discount,100,Amount,Restaurant,New,400,2022-01-16,2022-04-30
+PROMO-0008,WO201H30,Welcome Offer 2022 30% Percent Discount,Welcome Offer 2022,Percent Discount,30,Percent,Platform,New,200,2022-01-16,2022-04-29
+PROMO-0009,WO201I10,Welcome Offer 2022 10% Cashback,Welcome Offer 2022,Cashback,10,Percent,Platform,New,300,2022-01-17,2022-04-29
+PROMO-0010,WO201J10,Welcome Offer 2022 10% Cashback,Welcome Offer 2022,Cashback,10,Percent,Platform,New,300,2022-01-17,2022-04-30
+PROMO-0011,RDF02A100,Republic Day Feast 100% Free Delivery,Republic Day Feast,Free Delivery,100,Percent,Platform,All,200,2022-01-25,2022-02-12
+PROMO-0012,RDF02B40,Republic Day Feast 40% Percent Discount,Republic Day Feast,Percent Discount,40,Percent,Platform,All,200,2022-01-24,2022-02-12
+PROMO-0013,RDF02C30,Republic Day Feast 30% Percent Discount,Republic Day Feast,Percent Discount,30,Percent,Platform,All,200,2022-01-26,2022-02-12
+PROMO-0014,RDF02D5,Republic Day Feast 5% Cashback,Republic Day Feast,Cashback,5,Percent,Shared,All,300,2022-01-24,2022-02-12
+PROMO-0015,RDF02E100,Republic Day Feast 100% Free Delivery,Republic Day Feast,Free Delivery,100,Percent,Platform,All,200,2022-01-24,2022-02-12
+PROMO-0016,RDF02F15,Republic Day Feast 15% Cashback,Republic Day Feast,Cashback,15,Percent,Platform,All,300,2022-01-26,2022-02-13
+PROMO-0017,RDF02G100,Republic Day Feast 100 Off Flat Discount,Republic Day Feast,Flat Discount,100,Amount,Platform,All,400,2022-01-25,2022-02-13
+PROMO-0018,RDF02H15,Republic Day Feast 15% Percent Discount,Republic Day Feast,Percent Discount,15,Percent,Platform,All,200,2022-01-25,2022-02-13
+PROMO-0019,RDF02I15,Republic Day Feast 15% Cashback,Republic Day Feast,Cashback,15,Percent,Platform,All,300,2022-01-26,2022-02-13
+PROMO-0020,RDF02J20,Republic Day Feast 20% Percent Discount,Republic Day Feast,Percent Discount,20,Percent,Platform,All,200,2022-01-26,2022-02-13
+PROMO-0021,VWT03A15,Valentine Week Treats 15% Cashback,Valentine Week Treats,Cashback,15,Percent,Platform,All,300,2022-02-08,2022-02-17
+PROMO-0022,VWT03B100,Valentine Week Treats 100% Free Delivery,Valentine Week Treats,Free Delivery,100,Percent,Platform,All,200,2022-02-08,2022-02-17
+PROMO-0023,VWT03C150,Valentine Week Treats 150 Off Flat Discount,Valentine Week Treats,Flat Discount,150,Amount,Platform,All,400,2022-02-08,2022-02-17
+PROMO-0024,VWT03D10,Valentine Week Treats 10% Percent Discount,Valentine Week Treats,Percent Discount,10,Percent,Platform,All,200,2022-02-07,2022-02-17
+PROMO-0025,VWT03E100,Valentine Week Treats 100% BOGO,Valentine Week Treats,BOGO,100,Percent,Platform,All,250,2022-02-08,2022-02-18
+PROMO-0026,VWT03F10,Valentine Week Treats 10% Percent Discount,Valentine Week Treats,Percent Discount,10,Percent,Platform,All,200,2022-02-09,2022-02-17
+PROMO-0027,VWT03G100,Valentine Week Treats 100% Free Delivery,Valentine Week Treats,Free Delivery,100,Percent,Platform,All,200,2022-02-09,2022-02-18
+PROMO-0028,VWT03H40,Valentine Week Treats 40% Percent Discount,Valentine Week Treats,Percent Discount,40,Percent,Platform,All,200,2022-02-09,2022-02-18
+PROMO-0029,VWT03I150,Valentine Week Treats 150 Off Flat Discount,Valentine Week Treats,Flat Discount,150,Amount,Platform,All,400,2022-02-07,2022-02-18
+PROMO-0030,VWT03J100,Valentine Week Treats 100 Off Flat Discount,Valentine Week Treats,Flat Discount,100,Amount,Platform,All,400,2022-02-09,2022-02-18
+PROMO-0031,WB04A40,Weekend Binge 40% Percent Discount,Weekend Binge,Percent Discount,40,Percent,Restaurant,All,200,2022-02-13,2022-04-07
+PROMO-0032,WB04B15,Weekend Binge 15% Percent Discount,Weekend Binge,Percent Discount,15,Percent,Platform,All,200,2022-02-13,2022-04-07
+PROMO-0033,WB04C10,Weekend Binge 10% Percent Discount,Weekend Binge,Percent Discount,10,Percent,Platform,All,200,2022-02-11,2022-04-06
+PROMO-0034,WB04D40,Weekend Binge 40% Percent Discount,Weekend Binge,Percent Discount,40,Percent,Shared,All,200,2022-02-12,2022-04-07
+PROMO-0035,WB04E75,Weekend Binge 75 Off Flat Discount,Weekend Binge,Flat Discount,75,Amount,Platform,All,400,2022-02-11,2022-04-07
+PROMO-0036,WB04F15,Weekend Binge 15% Percent Discount,Weekend Binge,Percent Discount,15,Percent,Platform,All,200,2022-02-13,2022-04-07
+PROMO-0037,WB04G15,Weekend Binge 15% Percent Discount,Weekend Binge,Percent Discount,15,Percent,Restaurant,All,200,2022-02-12,2022-04-07
+PROMO-0038,WB04H100,Weekend Binge 100% Free Delivery,Weekend Binge,Free Delivery,100,Percent,Restaurant,All,200,2022-02-11,2022-04-06
+PROMO-0039,WB04I100,Weekend Binge 100% Free Delivery,Weekend Binge,Free Delivery,100,Percent,Platform,All,200,2022-02-11,2022-04-07
+PROMO-0040,WB04J40,Weekend Binge 40% Percent Discount,Weekend Binge,Percent Discount,40,Percent,Platform,All,200,2022-02-11,2022-04-07
+PROMO-0041,MSS05A40,Maha Shivratri Specials 40% Percent Discount,Maha Shivratri Specials,Percent Discount,40,Percent,Platform,All,200,2022-02-27,2022-03-03
+PROMO-0042,MSS05B30,Maha Shivratri Specials 30% Percent Discount,Maha Shivratri Specials,Percent Discount,30,Percent,Platform,All,200,2022-03-01,2022-03-04
+PROMO-0043,MSS05C150,Maha Shivratri Specials 150 Off Flat Discount,Maha Shivratri Specials,Flat Discount,150,Amount,Restaurant,All,400,2022-03-01,2022-03-04
+PROMO-0044,MSS05D100,Maha Shivratri Specials 100% BOGO,Maha Shivratri Specials,BOGO,100,Percent,Restaurant,All,250,2022-02-28,2022-03-03
+PROMO-0045,MSS05E75,Maha Shivratri Specials 75 Off Flat Discount,Maha Shivratri Specials,Flat Discount,75,Amount,Restaurant,All,400,2022-02-28,2022-03-03
+PROMO-0046,MSS05F10,Maha Shivratri Specials 10% Cashback,Maha Shivratri Specials,Cashback,10,Percent,Shared,All,300,2022-02-28,2022-03-03
+PROMO-0047,MSS05G50,Maha Shivratri Specials 50 Off Flat Discount,Maha Shivratri Specials,Flat Discount,50,Amount,Restaurant,All,400,2022-02-27,2022-03-03
+PROMO-0048,MSS05H100,Maha Shivratri Specials 100 Off Flat Discount,Maha Shivratri Specials,Flat Discount,100,Amount,Restaurant,All,400,2022-02-27,2022-03-02
+PROMO-0049,MSS05I25,Maha Shivratri Specials 25% Percent Discount,Maha Shivratri Specials,Percent Discount,25,Percent,Platform,All,200,2022-02-27,2022-03-03
+PROMO-0050,MSS05J40,Maha Shivratri Specials 40% Percent Discount,Maha Shivratri Specials,Percent Discount,40,Percent,Shared,All,200,2022-02-28,2022-03-03
+PROMO-0051,WDD06A20,Womens Day Delights 20% Percent Discount,Womens Day Delights,Percent Discount,20,Percent,Platform,All,200,2022-03-06,2022-03-09
+PROMO-0052,WDD06B10,Womens Day Delights 10% Percent Discount,Womens Day Delights,Percent Discount,10,Percent,Restaurant,All,200,2022-03-07,2022-03-10
+PROMO-0053,WDD06C20,Womens Day Delights 20% Percent Discount,Womens Day Delights,Percent Discount,20,Percent,Platform,All,200,2022-03-07,2022-03-10
+PROMO-0054,WDD06D25,Womens Day Delights 25% Percent Discount,Womens Day Delights,Percent Discount,25,Percent,Platform,All,200,2022-03-07,2022-03-10
+PROMO-0055,WDD06E10,Womens Day Delights 10% Percent Discount,Womens Day Delights,Percent Discount,10,Percent,Restaurant,All,200,2022-03-05,2022-03-09
+PROMO-0056,WDD06F30,Womens Day Delights 30% Percent Discount,Womens Day Delights,Percent Discount,30,Percent,Shared,All,200,2022-03-05,2022-03-10
+PROMO-0057,WDD06G100,Womens Day Delights 100% Free Delivery,Womens Day Delights,Free Delivery,100,Percent,Shared,All,200,2022-03-07,2022-03-10
+PROMO-0058,WDD06H20,Womens Day Delights 20% Percent Discount,Womens Day Delights,Percent Discount,20,Percent,Platform,All,200,2022-03-06,2022-03-09
+PROMO-0059,WDD06I25,Womens Day Delights 25% Percent Discount,Womens Day Delights,Percent Discount,25,Percent,Platform,All,200,2022-03-07,2022-03-10
+PROMO-0060,WDD06J20,Womens Day Delights 20% Percent Discount,Womens Day Delights,Percent Discount,20,Percent,Platform,All,200,2022-03-06,2022-03-10
+PROMO-0061,HCF07A40,Holi Colours Feast 40% Percent Discount,Holi Colours Feast,Percent Discount,40,Percent,Platform,All,200,2022-03-15,2022-03-19
+PROMO-0062,HCF07B10,Holi Colours Feast 10% Percent Discount,Holi Colours Feast,Percent Discount,10,Percent,Shared,All,200,2022-03-16,2022-03-20
+PROMO-0063,HCF07C100,Holi Colours Feast 100% BOGO,Holi Colours Feast,BOGO,100,Percent,Platform,All,250,2022-03-16,2022-03-19
+PROMO-0064,HCF07D15,Holi Colours Feast 15% Cashback,Holi Colours Feast,Cashback,15,Percent,Platform,All,300,2022-03-15,2022-03-20
+PROMO-0065,HCF07E150,Holi Colours Feast 150 Off Flat Discount,Holi Colours Feast,Flat Discount,150,Amount,Shared,All,400,2022-03-15,2022-03-20
+PROMO-0066,HCF07F100,Holi Colours Feast 100% Free Delivery,Holi Colours Feast,Free Delivery,100,Percent,Platform,All,200,2022-03-15,2022-03-19
+PROMO-0067,HCF07G100,Holi Colours Feast 100 Off Flat Discount,Holi Colours Feast,Flat Discount,100,Amount,Platform,All,400,2022-03-16,2022-03-20
+PROMO-0068,HCF07H40,Holi Colours Feast 40% Percent Discount,Holi Colours Feast,Percent Discount,40,Percent,Platform,All,200,2022-03-15,2022-03-19
+PROMO-0069,HCF07I25,Holi Colours Feast 25% Percent Discount,Holi Colours Feast,Percent Discount,25,Percent,Platform,All,200,2022-03-16,2022-03-19
+PROMO-0070,HCF07J15,Holi Colours Feast 15% Percent Discount,Holi Colours Feast,Percent Discount,15,Percent,Platform,All,200,2022-03-16,2022-03-19
+PROMO-0071,FDF08A50,Free Delivery Fortnight 50 Off Flat Discount,Free Delivery Fortnight,Flat Discount,50,Amount,Platform,All,400,2022-03-03,2022-03-14
+PROMO-0072,FDF08B10,Free Delivery Fortnight 10% Cashback,Free Delivery Fortnight,Cashback,10,Percent,Restaurant,All,300,2022-03-03,2022-03-15
+PROMO-0073,FDF08C100,Free Delivery Fortnight 100 Off Flat Discount,Free Delivery Fortnight,Flat Discount,100,Amount,Shared,All,400,2022-03-02,2022-03-14
+PROMO-0074,FDF08D100,Free Delivery Fortnight 100% Free Delivery,Free Delivery Fortnight,Free Delivery,100,Percent,Shared,All,200,2022-03-01,2022-03-15
+PROMO-0075,FDF08E150,Free Delivery Fortnight 150 Off Flat Discount,Free Delivery Fortnight,Flat Discount,150,Amount,Platform,All,400,2022-03-01,2022-03-14
+PROMO-0076,FDF08F30,Free Delivery Fortnight 30% Percent Discount,Free Delivery Fortnight,Percent Discount,30,Percent,Platform,All,200,2022-03-03,2022-03-15
+PROMO-0077,FDF08G5,Free Delivery Fortnight 5% Cashback,Free Delivery Fortnight,Cashback,5,Percent,Platform,All,300,2022-03-01,2022-03-14
+PROMO-0078,FDF08H30,Free Delivery Fortnight 30% Percent Discount,Free Delivery Fortnight,Percent Discount,30,Percent,Platform,All,200,2022-03-02,2022-03-14
+PROMO-0079,FDF08I100,Free Delivery Fortnight 100% Free Delivery,Free Delivery Fortnight,Free Delivery,100,Percent,Shared,All,200,2022-03-03,2022-03-14
+PROMO-0080,FDF08J50,Free Delivery Fortnight 50 Off Flat Discount,Free Delivery Fortnight,Flat Discount,50,Amount,Shared,All,400,2022-03-03,2022-03-14
+PROMO-0081,WW09A75,Win-Back Wednesdays 75 Off Flat Discount,Win-Back Wednesdays,Flat Discount,75,Amount,Platform,At Risk,400,2022-03-03,2022-04-06
+PROMO-0082,WW09B50,Win-Back Wednesdays 50 Off Flat Discount,Win-Back Wednesdays,Flat Discount,50,Amount,Platform,At Risk,400,2022-03-02,2022-04-06
+PROMO-0083,WW09C150,Win-Back Wednesdays 150 Off Flat Discount,Win-Back Wednesdays,Flat Discount,150,Amount,Platform,At Risk,400,2022-03-03,2022-04-05
+PROMO-0084,WW09D100,Win-Back Wednesdays 100% BOGO,Win-Back Wednesdays,BOGO,100,Percent,Platform,At Risk,250,2022-03-04,2022-04-05
+PROMO-0085,WW09E100,Win-Back Wednesdays 100% Free Delivery,Win-Back Wednesdays,Free Delivery,100,Percent,Platform,At Risk,200,2022-03-02,2022-04-05
+PROMO-0086,WW09F10,Win-Back Wednesdays 10% Percent Discount,Win-Back Wednesdays,Percent Discount,10,Percent,Platform,At Risk,200,2022-03-02,2022-04-05
+PROMO-0087,WW09G100,Win-Back Wednesdays 100% Free Delivery,Win-Back Wednesdays,Free Delivery,100,Percent,Platform,At Risk,200,2022-03-02,2022-04-05
+PROMO-0088,WW09H100,Win-Back Wednesdays 100% BOGO,Win-Back Wednesdays,BOGO,100,Percent,Shared,At Risk,250,2022-03-04,2022-04-05
+PROMO-0089,WW09I100,Win-Back Wednesdays 100% BOGO,Win-Back Wednesdays,BOGO,100,Percent,Platform,At Risk,250,2022-03-03,2022-04-06
+PROMO-0090,WW09J10,Win-Back Wednesdays 10% Percent Discount,Win-Back Wednesdays,Percent Discount,10,Percent,Platform,At Risk,200,2022-03-04,2022-04-06
+PROMO-0091,VAM10A100,VIP Appreciation Month 100% Free Delivery,VIP Appreciation Month,Free Delivery,100,Percent,Restaurant,VIP,200,2022-03-10,2022-04-09
+PROMO-0092,VAM10B75,VIP Appreciation Month 75 Off Flat Discount,VIP Appreciation Month,Flat Discount,75,Amount,Platform,VIP,400,2022-03-11,2022-04-10
+PROMO-0093,VAM10C25,VIP Appreciation Month 25% Percent Discount,VIP Appreciation Month,Percent Discount,25,Percent,Platform,VIP,200,2022-03-11,2022-04-09
+PROMO-0094,VAM10D15,VIP Appreciation Month 15% Percent Discount,VIP Appreciation Month,Percent Discount,15,Percent,Platform,VIP,200,2022-03-12,2022-04-09
+PROMO-0095,VAM10E5,VIP Appreciation Month 5% Cashback,VIP Appreciation Month,Cashback,5,Percent,Platform,VIP,300,2022-03-10,2022-04-10
+PROMO-0096,VAM10F50,VIP Appreciation Month 50 Off Flat Discount,VIP Appreciation Month,Flat Discount,50,Amount,Restaurant,VIP,400,2022-03-12,2022-04-09
+PROMO-0097,VAM10G100,VIP Appreciation Month 100% Free Delivery,VIP Appreciation Month,Free Delivery,100,Percent,Shared,VIP,200,2022-03-11,2022-04-10
+PROMO-0098,VAM10H10,VIP Appreciation Month 10% Percent Discount,VIP Appreciation Month,Percent Discount,10,Percent,Platform,VIP,200,2022-03-11,2022-04-09
+PROMO-0099,VAM10I30,VIP Appreciation Month 30% Percent Discount,VIP Appreciation Month,Percent Discount,30,Percent,Platform,VIP,200,2022-03-10,2022-04-09
+PROMO-0100,VAM10J30,VIP Appreciation Month 30% Percent Discount,VIP Appreciation Month,Percent Discount,30,Percent,Restaurant,VIP,200,2022-03-10,2022-04-10
+PROMO-0101,ISO11A40,IPL Season Opener 40% Percent Discount,IPL Season Opener,Percent Discount,40,Percent,Platform,All,200,2022-03-27,2022-04-07
+PROMO-0102,ISO11B10,IPL Season Opener 10% Cashback,IPL Season Opener,Cashback,10,Percent,Restaurant,All,300,2022-03-27,2022-04-07
+PROMO-0103,ISO11C100,IPL Season Opener 100% Free Delivery,IPL Season Opener,Free Delivery,100,Percent,Restaurant,All,200,2022-03-27,2022-04-07
+PROMO-0104,ISO11D10,IPL Season Opener 10% Percent Discount,IPL Season Opener,Percent Discount,10,Percent,Platform,All,200,2022-03-28,2022-04-07
+PROMO-0105,ISO11E100,IPL Season Opener 100% BOGO,IPL Season Opener,BOGO,100,Percent,Restaurant,All,250,2022-03-27,2022-04-06
+PROMO-0106,ISO11F100,IPL Season Opener 100 Off Flat Discount,IPL Season Opener,Flat Discount,100,Amount,Platform,All,400,2022-03-27,2022-04-06
+PROMO-0107,ISO11G30,IPL Season Opener 30% Percent Discount,IPL Season Opener,Percent Discount,30,Percent,Platform,All,200,2022-03-26,2022-04-06
+PROMO-0108,ISO11H20,IPL Season Opener 20% Percent Discount,IPL Season Opener,Percent Discount,20,Percent,Platform,All,200,2022-03-28,2022-04-07
+PROMO-0109,ISO11I25,IPL Season Opener 25% Percent Discount,IPL Season Opener,Percent Discount,25,Percent,Shared,All,200,2022-03-28,2022-04-06
+PROMO-0110,ISO11J20,IPL Season Opener 20% Percent Discount,IPL Season Opener,Percent Discount,20,Percent,Platform,All,200,2022-03-27,2022-04-06
+PROMO-0111,GPA12A15,Gudi Padwa and Ugadi Feast 15% Percent Discount,Gudi Padwa and Ugadi Feast,Percent Discount,15,Percent,Restaurant,All,200,2022-03-31,2022-04-03
+PROMO-0112,GPA12B50,Gudi Padwa and Ugadi Feast 50 Off Flat Discount,Gudi Padwa and Ugadi Feast,Flat Discount,50,Amount,Shared,All,400,2022-03-30,2022-04-03
+PROMO-0113,GPA12C150,Gudi Padwa and Ugadi Feast 150 Off Flat Discount,Gudi Padwa and Ugadi Feast,Flat Discount,150,Amount,Platform,All,400,2022-04-01,2022-04-04
+PROMO-0114,GPA12D150,Gudi Padwa and Ugadi Feast 150 Off Flat Discount,Gudi Padwa and Ugadi Feast,Flat Discount,150,Amount,Platform,All,400,2022-03-31,2022-04-04
+PROMO-0115,GPA12E100,Gudi Padwa and Ugadi Feast 100% Free Delivery,Gudi Padwa and Ugadi Feast,Free Delivery,100,Percent,Platform,All,200,2022-04-01,2022-04-04
+PROMO-0116,GPA12F30,Gudi Padwa and Ugadi Feast 30% Percent Discount,Gudi Padwa and Ugadi Feast,Percent Discount,30,Percent,Restaurant,All,200,2022-03-30,2022-04-04
+PROMO-0117,GPA12G40,Gudi Padwa and Ugadi Feast 40% Percent Discount,Gudi Padwa and Ugadi Feast,Percent Discount,40,Percent,Platform,All,200,2022-03-30,2022-04-04
+PROMO-0118,GPA12H15,Gudi Padwa and Ugadi Feast 15% Percent Discount,Gudi Padwa and Ugadi Feast,Percent Discount,15,Percent,Platform,All,200,2022-03-30,2022-04-04
+PROMO-0119,GPA12I100,Gudi Padwa and Ugadi Feast 100% Free Delivery,Gudi Padwa and Ugadi Feast,Free Delivery,100,Percent,Platform,All,200,2022-03-31,2022-04-04
+PROMO-0120,GPA12J50,Gudi Padwa and Ugadi Feast 50 Off Flat Discount,Gudi Padwa and Ugadi Feast,Flat Discount,50,Amount,Platform,All,400,2022-04-01,2022-04-04
